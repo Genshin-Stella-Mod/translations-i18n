@@ -163,7 +163,7 @@
     <value>2</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>有新的主要更新可用！</value>
+    <value>有新的重大更新可用！</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -286,7 +286,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>主要更新</value>
+    <value>重大更新</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>NotCompatible</value>
