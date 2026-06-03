@@ -169,7 +169,7 @@
     <value>6</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Please report any issues. Click Send email to send the error information to the developer. The email content will be filled in automatically. Thank you.</value>
+    <value>请报告任何遇到的问题。然后点击发送邮件来将错误信息反馈给开发者。电子邮件的内容将被自动填写，谢谢。</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
