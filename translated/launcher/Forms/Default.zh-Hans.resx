@@ -995,7 +995,7 @@
     <value>131</value>
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
-    <value>Unlock FPS</value>
+    <value>解锁帧率上限</value>
   </data>
   <data name="unlockFps_checkBox.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopLeft</value>
