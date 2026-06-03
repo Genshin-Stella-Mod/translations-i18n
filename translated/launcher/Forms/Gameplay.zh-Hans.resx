@@ -251,7 +251,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Check the gallery</value>
+    <value>查看展示画廊</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
