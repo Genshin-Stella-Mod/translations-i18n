@@ -514,7 +514,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need support, have questions, or want to share feedback about the Stella Mod. Please note that the server is strictly for discussions related to the mod (it is not a general community hub).</value>
+    <value>需要帮助，对 Stella Mod 有疑问，或是想要提交反馈？加入我们的 Discard 服务器吧。请留意，我们的服务器仅允许讨论与 Stella Mod 相关的内容（它并不作为一般的社区中心）。</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -962,7 +962,7 @@
     <value>TopLeft</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Want to get even more fun out of your game? Make it more exciting than ever before with mods tailored to your own preferences, completely safe! We do not use GIMI.</value>
+    <value>想要从游戏中获取更多乐趣？试试按你自己的喜好进行魔改，把游戏变得更带劲。这是完全安全的！我们不使用 GIMI（原神自定义模型导入工具）。</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>
