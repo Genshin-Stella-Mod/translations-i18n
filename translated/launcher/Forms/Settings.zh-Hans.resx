@@ -351,7 +351,8 @@
   </data>
   <data name="comboBox2.ToolTip" xml:space="preserve">
     <value>常规：最适合使用默认 Stella Mod 预设的用户的轻量版本。
-完全拓展支持：解锁对扩展组件和深度缓冲区的支持以便进阶调整，此选项需要 Stella Plus 订阅才可用。</value>
+
+完全扩展支持：解锁对扩展组件和深度缓冲区的支持以便进阶调整，此选项需要 Stella Plus 订阅才可用。</value>
   </data>
   <data name="&gt;&gt;comboBox2.Name" xml:space="preserve">
     <value>comboBox2</value>
