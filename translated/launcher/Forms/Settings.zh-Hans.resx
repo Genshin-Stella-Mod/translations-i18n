@@ -281,7 +281,7 @@
     <value>136</value>
   </data>
   <data name="checkBox6.Text" xml:space="preserve">
-    <value>DWM Effects *</value>
+    <value>DWM 视觉特效 *</value>
   </data>
   <data name="checkBox6.ToolTip" xml:space="preserve">
     <value>Enables various Desktop Window Manager visual effects. Disabling this option may improve performance on older hardware.</value>
@@ -335,10 +335,10 @@
     <value>3</value>
   </data>
   <data name="comboBox2.Items" xml:space="preserve">
-    <value>Regular (recommended)</value>
+    <value>常规（推荐）</value>
   </data>
   <data name="comboBox2.Items1" xml:space="preserve">
-    <value>Full add-on support</value>
+    <value>完全扩展支持</value>
   </data>
   <data name="comboBox2.Location" type="System.Drawing.Point, System.Drawing">
     <value>632, 182</value>
@@ -350,8 +350,8 @@
     <value>145</value>
   </data>
   <data name="comboBox2.ToolTip" xml:space="preserve">
-    <value>Regular: Lightweight version best suited for users sticking with default Stella Mod presets.
-Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Required for Stella Plus subscribers.</value>
+    <value>常规：最适合使用默认 Stella Mod 预设的用户的轻量版本。
+完全拓展支持：解锁对扩展组件和深度缓冲区的支持以便进阶调整，此选项需要 Stella Plus 订阅才可用。</value>
   </data>
   <data name="&gt;&gt;comboBox2.Name" xml:space="preserve">
     <value>comboBox2</value>
@@ -381,7 +381,7 @@ Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Requi
     <value>117</value>
   </data>
   <data name="changeTheLanguageLabel.Text" xml:space="preserve">
-    <value>Change language in Stella Mod</value>
+    <value>更改 Stella Mod 的语言</value>
   </data>
   <data name="&gt;&gt;changeTheLanguageLabel.Name" xml:space="preserve">
     <value>changeTheLanguageLabel</value>
@@ -438,8 +438,8 @@ Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Requi
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Installed version: v{0}
-Build: v{1}</value>
+    <value>当前安装版本：v{0}
+构建版本号：v{1}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -547,7 +547,7 @@ Build: v{1}</value>
     <value>133</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
-    <value>Sounds in the launcher</value>
+    <value>启动器音效</value>
   </data>
   <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
     <value>checkBox2</value>
@@ -652,8 +652,8 @@ Build: v{1}</value>
     <value>137</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>* Changing the settings may require restarting the application.
-* Hover over a setting to learn more about it.</value>
+    <value>* 你可能需要重启应用来使设置改动生效。
+* 将指针悬停在任意选项上以查看其详细说明。</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -806,7 +806,7 @@ Build: v{1}</value>
     <value>143</value>
   </data>
   <data name="checkBox9.Text" xml:space="preserve">
-    <value>Launch the game immediately upon starting the launcher</value>
+    <value>打开启动器后立即启动游戏</value>
   </data>
   <data name="&gt;&gt;checkBox9.Name" xml:space="preserve">
     <value>checkBox9</value>
