@@ -1,0 +1,31 @@
+{
+	"meta": {
+		"title": "Infected Versions Are Circulating | Genshin Stella Mod"
+	},
+	"page": {
+		"title": "Infected Versions Are Circulating"
+	},
+	"currentVersion": {
+		"title": "Current Version",
+		"text": "The latest version of Stella Mod is **v{{version}}**, released on {{date}}."
+	},
+	"warning": {
+		"infectedCopies": "Infected versions of the Genshin Stella Mod software are circulating online. Make sure you download Stella Mod only from a <strong style=\"color:#fff\">TRUSTED SOURCE</strong>, such as [sefinek.net](https://stella.sefinek.net).",
+		"unofficialSources": "Never download Stella Mod from unofficial websites, as they may contain malware, often in the form of cryptocurrency miners. Always verify the authenticity of the source before downloading.",
+		"loginSafety": "If anyone asks for your Genshin Impact login details under the pretext of helping with Stella Mod, block them immediately. The Stella Mod developer will <strong style=\"color:#fff\">NEVER</strong> ask for your passwords or any other sensitive information."
+	},
+	"verification": {
+		"title": "How to verify a download",
+		"steps": [
+			"Download Stella Mod only from the official website or GitHub Releases.",
+			"After downloading, calculate the SHA-256 or SHA-512 checksum of the installer file.",
+			"Compare the result with the value listed below before running the file.",
+			"If a link or file looks suspicious, do not open it. Report it on our Discord server."
+		],
+		"checksums": "Checksums",
+		"mirrorsIntro": "Below are the SHA-256 and SHA-512 checksums for each download source:"
+	},
+	"trusted": {
+		"title": "Safe Sources"
+	}
+}

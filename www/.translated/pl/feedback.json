@@ -1,0 +1,18 @@
+{
+	"meta": {
+		"title": "Zostaw swoją opinię - Genshin Stella Mod",
+		"description": "Cenimy Twoją opinię na temat Genshin Impact Stella Mod! Daj nam znać, co myślisz i jakie masz sugestie dotyczące ulepszeń.",
+		"tags": "genshin impact stella mod, opinia, sugestie, ulepszenia"
+	},
+	"page": {
+		"title": "Podziel się swoją opinią"
+	},
+	"body": {
+		"likeProject": "Jeśli podoba Ci się ten projekt, rozważ [subskrypcję tego kanału na YouTube](https://www.youtube.com/channel/UClrAIcAzcqIMbvGXZqK7e0A?sub_confirmation=1), zostawienie [gwiazdki na GitHubie](https://github.com/Genshin-Stella-Mod/Genshin-Impact-ReShade) lub [jego wsparcie](/donate) w inny sposób.",
+		"suggestions": "Dodatkowo, jeśli masz jakieś uwagi lub sugestie, śmiało dołącz do naszego serwera Discord i podziel się nimi z nami."
+	},
+	"buttons": {
+		"youtubeComment": "Pod filmem na YouTube",
+		"discord": "Serwer Discord"
+	}
+}

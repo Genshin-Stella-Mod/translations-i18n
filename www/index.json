@@ -1,0 +1,189 @@
+{
+	"meta": {
+		"title": "Genshin Stella Mod - Enhanced Genshin Impact Experience",
+		"description": "Enhance Genshin Impact with stunning visual filters, FPS unlocking, and character mods. Safe, free, and continuously updated.",
+		"tags": "Genshin Impact mod, ReShade, FPS unlock, 3DMigoto, Stella Mod, visual enhancement"
+	},
+	"hero": {
+		"subtitle": "Enhance Genshin Impact with stunning visual filters, FPS unlocking, and character mods. Safe, beautiful, and continuously updated.",
+		"download": "Free Download",
+		"scroll": "Scroll",
+		"stats": {
+			"totalDownloads": "Total downloads",
+			"version": "Latest Version",
+			"free": "Free",
+			"freeLabel": "Base Version",
+			"releaseDate": "Release Date"
+		}
+	},
+	"screenshots": {
+		"label": "Gallery",
+		"title": "See the Difference",
+		"description": "Real in-game screenshots captured with Stella Mod's visual enhancements enabled.",
+		"alt": "Screenshot {{n}}"
+	},
+	"features": {
+		"label": "What's Included",
+		"title": "Everything You Need",
+		"subtitle": "Stella Mod covers everything from a full visual overhaul to real performance boosts, all in one package.",
+		"reshade": {
+			"name": "ReShade Integration",
+			"description": "Hundreds of shaders and presets, from cinematic to colorful to realistic. Fully customizable through the in-game overlay. No depth buffer detection."
+		},
+		"fps": {
+			"name": "FPS Unlock",
+			"description": "Unlock the 60 FPS limit for smoother gameplay on high-refresh-rate monitors. It runs safely in the background without modifying any game files."
+		},
+		"mods": {
+			"name": "3DMigoto Mods",
+			"description": "Character model replacements and visual tweaks powered by 3DMigoto. Available exclusively to Stella Mod Plus subscribers."
+		},
+		"launcher": {
+			"name": "Dedicated Launcher",
+			"description": "A polished C# launcher handles all updates automatically, with one-click setup, a quick configuration wizard, and early access for Plus members."
+		},
+		"safe": {
+			"name": "100% Safe",
+			"description": "Stella Mod does not modify original game files, so you can play online without worry. Over 30,000 players trust it every day."
+		},
+		"community": {
+			"name": "Constant Support",
+			"description": "Maintained and updated with every Genshin Impact release. Bug fixes, compatibility patches, and improvements ship regularly - you're never left behind."
+		}
+	},
+	"howItWorks": {
+		"label": "Getting Started",
+		"title": "Up and Running in Minutes",
+		"subtitle": "No complicated setup. Just download, install, and launch.",
+		"steps": [
+			{
+				"num": "1",
+				"title": "Download",
+				"description": "Download only from sefinek.net or stella.sefinek.net. Avoid GameBanana and NexusMods, as infected forks have been found there."
+			},
+			{
+				"num": "2",
+				"title": "Install",
+				"description": "Run the InnoSetup installer. It takes about 20 seconds, and missing dependencies are downloaded automatically. Do not install it in the game folder."
+			},
+			{
+				"num": "3",
+				"title": "Configure",
+				"description": "Launch Stella Mod Launcher.exe. On first run, select the features you want to use (ReShade, FPS Unlocker, 3DMigoto) and click Start Game."
+			},
+			{
+				"num": "4",
+				"title": "Play",
+				"description": "Press the Home key in-game to open the ReShade overlay and fine-tune shaders to your taste."
+			}
+		]
+	},
+	"requirements": {
+		"label": "Compatibility",
+		"title": "System Requirements",
+		"subtitle": "Stella Mod is built for modern Windows computers.",
+		"systemLabel": "Your PC",
+		"os": "OS",
+		"osValue": "Windows 10/11 x64",
+		"cpu": "CPU",
+		"cpuValue": "64-bit processor",
+		"gpu": "GPU",
+		"gpuValue": "DirectX 11 or newer, latest drivers",
+		"disk": "Storage",
+		"diskValue": "3 GB free disk space",
+		"gameLabel": "Dependencies",
+		"gameSettings": [
+			{ "label": "WebView2", "value": "Microsoft Edge Runtime" },
+			{ "label": "VC++ Redist", "value": "2015-2022 (Plus only)" }
+		]
+	},
+	"plus": {
+		"label": "Stella Mod Plus",
+		"title": "Unlock the Full Potential of the Game",
+		"subscribe": "Subscribe",
+		"subscribePeriod": "through the official subscription page",
+		"paymentNote": "Supports PayPal, credit and debit cards (Stripe), and more.",
+		"viewPlans": "View Plans",
+		"benefits": [
+			"3DMigoto integration with character model mods and visual tweaks",
+			"Early access to new Stella releases before public launch",
+			"Advanced ReShade presets, including Ray Tracing and more (currently in alpha)",
+			"Priority support through Discord and Sefinek Patron Center",
+			"Support the independent developer who maintains the project"
+		]
+	},
+	"cta": {
+		"label": "Ready?",
+		"title": "Start Exploring Teyvat Like Never Before",
+		"description": "Free to download. No account required. Works on Windows 10 and 11.",
+		"download": "Download Stella Mod",
+		"docs": "Read the Docs"
+	},
+	"faq": {
+		"label": "FAQ",
+		"title": "Common Questions",
+		"items": [
+			{
+				"question": "Is Stella Mod safe to use?",
+				"answer": "Yes, completely. Stella Mod does not modify any original game files. It runs on a separate layer, improving visuals and performance without touching core game data. Over 30,000 players use it safely."
+			},
+			{
+				"question": "Can I play online with Stella Mod?",
+				"answer": "Yes. The software operates safely and does not modify game files, so online play is fully supported."
+			},
+			{
+				"question": "Is Genshin Stella Mod affiliated with HoYoverse?",
+				"answer": "No. Stella Mod is an independent project and is not affiliated with miHoYo, COGNOSPHERE, or HoYoverse in any way. All game trademarks belong to their respective owners."
+			},
+			{
+				"question": "Can I record videos and post them online?",
+				"answer": "Yes! You can record gameplay using Genshin Stella Mod and publish it on YouTube or any platform you choose."
+			},
+			{
+				"question": "Can I create my own ReShade presets?",
+				"answer": "Absolutely. Press the Home key in-game to open the ReShade overlay and customize effects to your liking. You can also share your presets with the community via a GitHub Pull Request."
+			},
+			{
+				"question": "Where can I get support?",
+				"answer": "You can contact us through Sefinek Patron Center by creating a ticket at patrons.sefinek.net (recommended), by messaging sefinek directly on Discord, or by emailing contact@sefinek.net for business inquiries. You can write in Polish or English."
+			},
+			{
+				"question": "Why is Stella Mod not open-source?",
+				"answer": "Keeping the source code closed protects authentication tokens, prevents infected forks (which happened in the past on GameBanana), and ensures all users download the original, verified version from the official source."
+			}
+		]
+	},
+	"download": {
+		"captcha": {
+			"title": "Are you a robot?",
+			"fail": "Failed to verify captcha: {0}",
+			"failStatus": "Failed to verify captcha (status code: {0}). Reload the page and try again."
+		},
+		"mirrorModal": {
+			"title": "Select a download source",
+			"byCompany": "By company",
+			"byLocation": "By location",
+			"installViaWinGet": "Install with WinGet",
+			"launcherVersion": "Launcher version:",
+			"mirrorsUnavailable": "Download mirrors are currently unavailable for this category. Please try again later or contact the administrator.",
+			"starting": "Starting the download...",
+			"checksumCopied": "✓ Copied",
+			"checksumCopyFailed": "Something went wrong while copying the {{name}} checksum to the clipboard. Please try again."
+		},
+		"thankYou": {
+			"title": "Thank you for downloading",
+			"nextStepsTitle": "Next steps",
+			"nextSteps": [
+				"Run the installer after the download finishes.",
+				"Do not install Stella Mod inside the Genshin Impact game folder.",
+				"Open Stella Mod Launcher.exe and choose the features you want to use.",
+				"If something does not work, check the documentation or contact support."
+			],
+			"becomeSubscriber": "Become a Stella Mod Plus subscriber to unlock many benefits, including the ability to use 3DMigoto, FPS Unlocker, and ReShade at the same time, an extensive collection of bug-free mods, improved security through telemetry and analytics blocking, the latest shader pack, an add-on that prevents filters from covering the user interface (UI), Ray Tracing presets, and much more!",
+			"joinDiscord": "Join our Discord server to receive notifications about the latest updates, features, and other announcements. Contact the creator if you have any questions or run into any issues. We are always ready to help. Have a wonderful day or night!",
+			"leaveReview": "Leave a review at [trustpilot.com]({{url}}) after testing the software!",
+			"totalDownloadsNow": "The total number of downloads is now",
+			"noProblem": "No problem"
+		}
+	}
+}

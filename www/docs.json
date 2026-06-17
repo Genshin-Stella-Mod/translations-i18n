@@ -1,0 +1,29 @@
+{
+	"sidebar": {
+		"groups": {
+			"documentation": "Documentation",
+			"changelogs": "Changelogs",
+			"licenses": "Licenses & Credits"
+		},
+		"links": {
+			"introduction": "👋 Introduction",
+			"requirements": "🍰 Features & Requirements",
+			"reshade": "🐈 ReShade & FPS Unlock",
+			"faq": "🤔 FAQ",
+			"support": "🐕‍🦺 Support",
+			"troubleshooting": "🔧 Troubleshooting",
+			"installation": "📥 Installation",
+			"termsOfUse": "🚨 Terms of Use",
+			"privacyPolicy": "🔒 Privacy Policy",
+			"changelogV8": "✅ v8 (current)",
+			"deprecatedReleases": "🗑️ Deprecated Releases",
+			"licenseStella": "📑 Stella Mod License",
+			"licenseReShade": "📑 ReShade License",
+			"licenseFpsUnlocker": "📑 FPS Unlocker License",
+			"license3DMigoto": "📑 3DMigoto License",
+			"credits": "🤝 Credits"
+		}
+	},
+	"tocToggle": "☰ Table of Contents",
+	"loadError": "Content could not be loaded. Please try again."
+}

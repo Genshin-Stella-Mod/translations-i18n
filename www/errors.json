@@ -1,0 +1,37 @@
+{
+	"wrongOs": {
+		"pageTitle": "Device is not supported - Genshin Stella Mod",
+		"deviceNotSupported": "Device is not supported",
+		"osNotSupported": "We're sorry! Your operating system, `{{os}}`, is not supported yet.",
+		"viewSupported": "View supported systems »"
+	},
+	"missingZip": {
+		"pageTitle": "Download Temporarily Unavailable - Genshin Stella Mod",
+		"notFound": "The ZIP file could not be found on the server",
+		"newUpdate": "The download file is temporarily unavailable. This usually happens while a new release is being prepared or uploaded.\nPlease try again later or report this issue on our Discord server if it persists.",
+		"homeTagline": "Genshin Stella Mod - Here begins your adventure"
+	},
+	"statusPages": {
+		"goHome": "← Return to home page",
+		"404": {
+			"pageTitle": "Not Found",
+			"title": "Page Not Found",
+			"message": "The page you are looking for does not exist or has been moved."
+		},
+		"429": {
+			"pageTitle": "Too Many Requests",
+			"title": "Too Many Requests",
+			"message": "You have sent too many requests in a short period. Please wait a moment and try again."
+		},
+		"500": {
+			"pageTitle": "Internal Server Error",
+			"title": "Internal Server Error",
+			"message": "Something went wrong on our end. Please try again in a moment."
+		},
+		"503": {
+			"pageTitle": "Service Unavailable",
+			"title": "Service Unavailable",
+			"message": "The server is temporarily unavailable. Please come back in a few minutes."
+		}
+	}
+}

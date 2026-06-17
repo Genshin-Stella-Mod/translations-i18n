@@ -1,0 +1,31 @@
+{
+	"meta": {
+		"title": "Krążące zainfekowane wersje | Genshin Stella Mod"
+	},
+	"page": {
+		"title": "Krążące zainfekowane wersje"
+	},
+	"currentVersion": {
+		"title": "Aktualna wersja",
+		"text": "Najnowsza wersja Stella Mod to **v{{version}}**, wydana {{date}}."
+	},
+	"warning": {
+		"infectedCopies": "W internecie krążą zainfekowane wersje oprogramowania Genshin Stella Mod. Upewnij się, że pobierasz Stella Mod z <strong style=\"color:#fff\">ZAUFANEGO ŹRÓDŁA</strong>, takiego jak [stella.sefinek.net](https://stella.sefinek.net).",
+		"unofficialSources": "Nigdy nie pobieraj Stella Mod z nieoficjalnych stron internetowych, ponieważ mogą one zawierać złośliwe oprogramowanie, często w postaci koparek kryptowalut. Zawsze weryfikuj autentyczność źródła przed pobraniem.",
+		"loginSafety": "Jeśli ktoś poprosi Cię o dane logowania do Genshin Impact pod pretekstem pomocy z Stella Mod, natychmiast go zablokuj. Twórca Stella Mod <strong style=\"color:#fff\">NIGDY</strong> nie poprosi Cię o hasła ani inne poufne informacje."
+	},
+	"verification": {
+		"title": "Jak zweryfikować pobrany plik",
+		"steps": [
+			"Pobieraj Stella Mod wyłącznie z oficjalnej strony lub GitHub Releases.",
+			"Po pobraniu oblicz sumę kontrolną SHA-256 lub SHA-512 pliku instalacyjnego.",
+			"Porównaj wynik z wartością podaną poniżej przed uruchomieniem pliku.",
+			"Jeśli link lub plik wygląda podejrzanie, nie otwieraj go. Zgłoś go na naszym serwerze Discord."
+		],
+		"checksums": "Sumy kontrolne",
+		"mirrorsIntro": "Poniżej znajdziesz sumy kontrolne SHA-256 i SHA-512 dla każdego źródła pobierania:"
+	},
+	"trusted": {
+		"title": "Bezpieczne źródła"
+	}
+}

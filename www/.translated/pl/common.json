@@ -1,0 +1,48 @@
+{
+	"nav": {
+		"stellaPlus": "Stella Plus",
+		"docs": "Dokumentacja",
+		"repositories": "Repozytoria",
+		"gallery": "Galeria",
+		"videos": "Filmy",
+		"feedback": "Opinie",
+		"discord": "Discord",
+		"music": "Muzyka",
+		"download": "Pobierz",
+		"homePage": "Strona główna"
+	},
+	"music": {
+		"play": "Włącz muzykę w tle",
+		"pause": "Zatrzymaj muzykę w tle"
+	},
+	"footer": {
+		"termsOfUse": "Warunki korzystania",
+		"privacyPolicy": "Polityka prywatności",
+		"discord": "Discord",
+		"support": "Wsparcie",
+		"safeSources": "Bezpieczne źródła",
+		"disclaimer": "Genshin Stella Mod jest niezależnym, nieoficjalnym projektem i nie jest sponsorowany ani w żaden sposób powiązany z firmami miHoYo, COGNOSPHERE PTE. LTD. ani HoYoverse. Nazwa „Genshin Impact”, powiązane znaki towarowe, loga oraz wszelkie materiały graficzne i tekstowe należą do ich prawowitych właścicieli.",
+		"copyright": "Copyright {{startYear}}-{{year}} © by Sefinek. Wszelkie prawa zastrzeżone."
+	},
+	"actions": {
+		"back": "Wstecz",
+		"goBack": "Wróć",
+		"goBackTo": "Wróć do {{target}}",
+		"next": "Dalej"
+	},
+	"words": {
+		"and": "i",
+		"from": "z",
+		"in": "w"
+	},
+	"version": "Wersja",
+	"theVersion": "wersji",
+	"discordServer": "Serwer Discord",
+	"aria": {
+		"close": "Zamknij",
+		"toggleMenu": "Przełącz menu",
+		"comparisonSlider": "Suwak porównania",
+		"pageViews": "Wyświetlenia strony",
+		"logo": "Logo Stella Mod"
+	}
+}

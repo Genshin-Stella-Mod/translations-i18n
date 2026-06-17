@@ -1,14 +1,21 @@
 # 🔤 Translations for Genshin Stella Mod
-This repository contains translation files for Stella Mod Launcher and for [stella.sefinek.net](https://stella.sefinek.net).
+This repository is the central translation hub (i18n) for the Stella Mod ecosystem.
 
-[![Crowdin](https://badges.crowdin.net/genshin-stella-mod/localized.svg)](https://crowdin.com/project/genshin-stella-mod)
+- **`apps/`** - `.resx` translation files for the Stella Mod desktop apps.
+- **`www/`** - i18next JSON translation files for the [stella.sefinek.net](https://stella.sefinek.net) website.
 
-## 🤝 How to Contribute?
-Visit: https://crowdin.com/project/genshin-stella-mod
+Translations used to be created by the community on Crowdin, but that has now changed.
+These days they are written and kept up to date by AI (Claude) directly in this repository.
+The full workflow for adding languages, syncing source strings, and translating and pushing changes is described in [CLAUDE.md](CLAUDE.md).
+
+If you spot a translation mistake or anything that doesn't make sense, feel free to open a Pull Request or Issue.
+
+## 🌍 Supported Languages
+- Source language: `en`
+- Translations: `ar`, `de`, `es`, `fr`, `id`, `it`, `ja`, `pl`, `pt-BR`, `ru`, `sv`, `tr`, `vi`, `zh-Hans`, `zh-Hant`
 
 ## 💙 Acknowledgments
-We would like to thank all our collaborators who have contributed to translating our software and website into various languages around the world.
-Your dedication is incredibly valuable to us. Each of you will be honored in the Stella Mod Launcher.
+Thanks to everyone who contributed translations over the years through Crowdin, before the project moved to an AI-driven workflow.
 
 ## 🔑 License
 See the [LICENSE](LICENSE) file for more information.

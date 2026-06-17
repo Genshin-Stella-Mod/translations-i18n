@@ -1,9 +1,7 @@
-const { resxCleanup } = require('resx-cleanup');
+// Strips unused .resx entries from the project repos via resx-cleanup.
+// Usuwa nieużywane wpisy .resx z repozytoriów projektów za pomocą resx-cleanup.
 
-resxCleanup([
-	'D:\\Projects\\stella\\Genshin-Impact-ReShade\\Stella.Launcher',
-	'D:\\Projects\\stella\\Genshin-Impact-ReShade\\Stella.Configuration',
-	'D:\\Projects\\stella\\Genshin-Impact-ReShade\\Stella.Welcome',
-	'D:\\Projects\\stella\\Genshin-Impact-ReShade\\Stella.Core',
-	'D:\\Projects\\stella\\Genshin-FPS-Unlocker',
-]);
+const { resxCleanup } = require('resx-cleanup');
+const { CLEANUP_DIRS } = require('./common.js');
+
+resxCleanup(CLEANUP_DIRS);

@@ -1,0 +1,21 @@
+{
+	"meta": {
+		"title": "Repozytoria - Genshin Stella Mod",
+		"description": "Zobacz repozytoria związane z Genshin Impact Stella Mod i uzyskaj dostęp do najnowszego kodu źródłowego, wydań i więcej.",
+		"tags": "Genshin Impact, Stella Mod, repozytoria, kod źródłowy, wydania"
+	},
+	"page": {
+		"title": "Wszystkie repozytoria na GitHubie",
+		"contributionIntro": "Jeśli chcesz zostać współtwórcą, po prostu utwórz nowy [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). Bardzo dziękuję i miłego kodowania!"
+	},
+	"sections": {
+		"core": "Główne",
+		"resources": "Pozostałe"
+	},
+	"links": {
+		"translations": "Tłumaczenia",
+		"resources": "Zasoby",
+		"documentation": "Dokumentacja",
+		"more": "Więcej »"
+	}
+}

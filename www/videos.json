@@ -1,0 +1,19 @@
+{
+	"meta": {
+		"title": "YouTube Videos - Genshin Stella Mod",
+		"description": "Watch YouTube videos related to Genshin Impact Stella Mod and stay up to date with the latest changes and features.",
+		"tags": "Genshin Impact, Stella Mod, YouTube, videos, latest developments, features"
+	},
+	"page": {
+		"title": "Watch videos on YouTube",
+		"submitVideoInfo": "If you want to record and upload a video about Stella Mod to YouTube, please contact us. A link to your video will be added to this page."
+	},
+	"latest": "Latest",
+	"recommended": "Recommended",
+	"youtubeShorts": "YouTube Shorts",
+	"shorts": "Shorts",
+	"deprecated": "Outdated videos",
+	"outdatedInfo": "These videos are from previous versions of Stella Mod and are already considered outdated.",
+	"firstRelease": "First mod release",
+	"gameplay": "Gameplay"
+}
