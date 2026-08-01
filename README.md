@@ -1,8 +1,7 @@
 # 🔤 Translations for Genshin Stella Mod
-This repository is the central translation hub (i18n) for the Stella Mod ecosystem.
+This repository is the central translation hub (i18n) for the Stella Mod desktop apps (`.resx`, WinForms/.NET).
 
-- **`apps/`** - `.resx` translation files for the Stella Mod desktop apps.
-- **`www/`** - i18next JSON translation files for the [stella.sefinek.net](https://stella.sefinek.net) website.
+The [stella.sefinek.net](https://stella.sefinek.net) website is open source and manages its own translations directly in its repo.
 
 Translations used to be created by the community on Crowdin, but that has now changed.
 These days they are written and kept up to date by AI (Claude) directly in this repository.

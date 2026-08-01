@@ -10,8 +10,6 @@ const RESHADE = `${STELLA}/Genshin-Impact-ReShade`;
 const REPO_ROOT = path.join(__dirname, '..');
 const APPS_DIR = path.join(REPO_ROOT, 'apps');
 const TRANSLATED_DIR = path.join(APPS_DIR, '.translated');
-const WWW_DIR = path.join(REPO_ROOT, 'www');
-const WWW_TRANSLATED_DIR = path.join(WWW_DIR, '.translated');
 
 const LOCALES = ['ar', 'de', 'es', 'fr', 'id', 'it', 'ja', 'pl', 'pt-BR', 'ru', 'sv', 'tr', 'vi', 'zh-Hans', 'zh-Hant'];
 
@@ -100,7 +98,7 @@ const createMissingReport = () => {
 };
 
 module.exports = {
-	APPS_DIR, TRANSLATED_DIR, WWW_DIR, WWW_TRANSLATED_DIR,
+	APPS_DIR, TRANSLATED_DIR,
 	LOCALES, APP_PROJECTS, CLEANUP_DIRS,
 	isResx, isMainResx, isTranslatedResx,
 	walk, syncTree,
