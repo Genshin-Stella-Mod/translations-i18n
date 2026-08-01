@@ -370,13 +370,13 @@ Current preset:
     <value>Remember not to share log files with unfamiliar individuals, as they might contain sensitive data. Share them only with the Stella Mod developer.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
-    <value>Videos - sefinek.net</value>
+    <value>Videos - stella.sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
-    <value>Documentation - sefinek.net</value>
+    <value>Documentation - stella.sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
-    <value>Gallery - sefinek.net</value>
+    <value>Gallery - stella.sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
     <value>Hello! Loading Stella Mod Launcher...</value>
