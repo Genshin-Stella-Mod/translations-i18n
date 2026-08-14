@@ -118,256 +118,265 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cmd_UpdateIsRequired" xml:space="preserve">
-    <value>An update is required.
+    <value>需要进行更新。
 
-We apologize for any inconvenience, but it is necessary to install every new update. These updates may include quality improvements, and some may even contain critical security fixes.
+对由此带来的不便我们深表歉意，但每次新更新都必须安装。这些更新可能包含质量改进，部分更新甚至可能包含重要的安全修复。
 
-If, for any reason, you are unable to update Stella Mod using the Launcher, please uninstall the current version and install the new one from the official website.</value>
+如果由于任何原因您无法通过启动器更新 Stella Mod，请卸载当前版本，并从官方网站安装新版本。</value>
   </data>
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Run the official launcher for Genshin Stella Mod.</value>
+    <value>运行 Genshin Stella Mod 官方启动器。</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
-    <value>Checking for updates...</value>
+    <value>正在检查更新...</value>
   </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
-    <value>We've renamed your resource folder by adding '{0}' to the end.</value>
+    <value>我们已在您的资源文件夹末尾添加 '{0}' 并重命名。</value>
   </data>
   <data name="Default_ResourceDirNotFound" xml:space="preserve">
-    <value>Resource directory not found. In newer versions of Stella Mod, saving paths has been moved to the registry. If you have just updated the software, click OK. The configuration window will be launched.</value>
+    <value>未找到资源目录。在较新版本的 Stella Mod 中，路径保存方式已迁移至注册表。如果您刚刚更新了软件，请点击「确定」，配置窗口将随即启动。</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
-    <value>Downloading benefits update... {0} / {1}</value>
+    <value>正在下载权益更新... {0} / {1}</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
-    <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
+    <value>已成功为 Stella Plus 订阅者更新 3DMigoto 模组。</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
-    <value>Reading the documentation</value>
+    <value>正在阅读文档</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
-    <value>Uploading Stella Logs</value>
+    <value>正在上传 Stella 日志</value>
   </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
-    <value>In the main window</value>
+    <value>在主窗口中</value>
   </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
-    <value>Major version is available</value>
+    <value>有可用的主要版本更新</value>
   </data>
   <data name="Default_CheckForUpdates" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>检查更新</value>
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
-    <value>Click here to update</value>
+    <value>点击此处进行更新</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
-    <value>Official website</value>
+    <value>官方网站</value>
   </data>
   <data name="Default_Online_" xml:space="preserve">
     <value>Online: {0}</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
-    <value>Sorry. Background {0} was not found.</value>
+    <value>抱歉，未找到背景 {0}。</value>
   </data>
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
-    <value>The shortcuts have been successfully updated or created.</value>
+    <value>快捷方式已成功更新或创建。</value>
   </data>
   <data name="Default_FileNotFound_" xml:space="preserve">
-    <value>File not found:
+    <value>未找到文件：
 
 {0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
-    <value>You are connected as {0}. Hi, nice to meet you! Check your activity on Discord.</value>
+    <value>您已以 {0} 身份连接。很高兴认识您！去 Discord 查看您的活动状态吧。</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
-    <value>Watching other videos</value>
+    <value>正在观看其他视频</value>
   </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
-    <value>It's just text. What more do you want?</value>
+    <value>这只是一段文字，您还想要什么？</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedAddons" xml:space="preserve">
-    <value>Successfully updated ReShade Addons for Stella Plus subscribers.</value>
+    <value>已成功为 Stella Plus 订阅者更新 ReShade 插件。</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedPresets" xml:space="preserve">
-    <value>Successfully updated presets for Stella Plus subscribers.</value>
+    <value>已成功为 Stella Plus 订阅者更新预设。</value>
   </data>
   <data name="Program_DoYouWantToJoinOurDiscord" xml:space="preserve">
-    <value>Do you want to join our Discord server?</value>
+    <value>您想加入我们的 Discord 服务器吗？</value>
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
-    <value>The new version v{0} from {1} is available! Please update.</value>
+    <value>来自 {1} 的新版本 v{0} 现已推出！请更新。</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTheGallery" xml:space="preserve">
-    <value>Browsing the gallery</value>
+    <value>正在浏览图库</value>
   </data>
   <data name="StellaResources_UpdateSize" xml:space="preserve">
-    <value>Update size: {0}</value>
+    <value>更新大小：{0}</value>
   </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
-    <value>Successfully updated resources.</value>
+    <value>资源更新成功。</value>
   </data>
   <data name="Program_SorryOneInstanceIsCurrentlyOpen_" xml:space="preserve">
-    <value>Sorry, one instance is currently open. Quit the process with name {0} and try again.</value>
+    <value>抱歉，当前已有一个实例正在运行。请退出名为 {0} 的进程后重试。</value>
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
-    <value>In the window with links</value>
+    <value>在链接窗口中</value>
   </data>
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
-    <value>Sad... Failed to download ReShade.ini. Try again.</value>
+    <value>很遗憾……下载 ReShade.ini 失败，请重试。</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
-    <value>Browsing tools</value>
+    <value>正在浏览工具</value>
   </data>
   <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
-    <value>New update available</value>
+    <value>有可用的新更新</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
-    <value>Playing: {0}</value>
+    <value>正在游玩：{0}</value>
   </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade log file was not found in:
+    <value>未在以下位置找到 ReShade 日志文件：
 {0}</value>
   </data>
   <data name="Default_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating, please wait...</value>
+    <value>正在更新，请稍候...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade config file was not found in:
+    <value>未在以下位置找到 ReShade 配置文件：
 {0}</value>
   </data>
   <data name="NormalRelease_NewReleaseIsAvailableDownloadNow" xml:space="preserve">
-    <value>New release is available. Download now!</value>
+    <value>有可用的新版本，立即下载！</value>
   </data>
   <data name="Default_SuccessfullyDownloadedReShadeCfg" xml:space="preserve">
-    <value>Successfully downloaded the ReShade.ini file!</value>
+    <value>ReShade.ini 文件下载成功！</value>
   </data>
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
-    <value>Playing Genshin Impact</value>
+    <value>正在游玩原神</value>
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
-    <value>Required file 'Configuration Window.exe' was not found. Please reinstall this app or join our Discord server for help.</value>
+    <value>未找到所需文件 'Configuration Window.exe'。请重新安装此应用程序，或加入我们的 Discord 服务器寻求帮助。</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
-    <value>Exited from WebView2 browser</value>
+    <value>已退出 WebView2 浏览器</value>
   </data>
   <data name="Default_UpdatingBenefits" xml:space="preserve">
-    <value>Updating benefits...</value>
+    <value>正在更新权益...</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigoto" xml:space="preserve">
-    <value>Successfully updated 3DMigoto for Stella Plus subscribers.</value>
+    <value>已成功为 Stella Plus 订阅者更新 3DMigoto。</value>
   </data>
   <data name="Default_YouHaveTheLatestVersion" xml:space="preserve">
-    <value>You have the latest version</value>
+    <value>您已是最新版本</value>
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
-    <value>Failed to update. The software was denied access to a location, preventing it from saving, copying, opening or loading files.</value>
+    <value>更新失败。软件被拒绝访问某个位置，导致无法保存、复制、打开或加载文件。</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
-    <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
+    <value>您愿意在 trustpilot.com 上分享您对 Stella Mod 的看法吗？我将非常感激。</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
-    <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
+    <value>已下载 FPS Unlocker 的配置文件 (unlocker.config.json)</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>已从临时目录中删除旧的安装文件。</value>
   </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
-    <value>Audio file ({0}) was not found.</value>
+    <value>未找到音频文件（{0}）。</value>
   </data>
   <data name="DiscordRPC_Status_SuccessfullyUploadedLogs" xml:space="preserve">
-    <value>Successfully uploaded logs</value>
+    <value>日志上传成功</value>
   </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
-    <value>Everything is okay! Starting setup...</value>
+    <value>一切正常！正在启动配置...</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
-    <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
+    <value>感谢您的支持。欢迎将 Stella Mod 推荐给您的朋友。祝您愉快！</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
-    <value>Browsing settings</value>
+    <value>正在浏览设置</value>
   </data>
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
-    <value>New update of the resources is available from {0}.</value>
+    <value>来自 {0} 的资源更新现已推出。</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hi! It looks like we're seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you agree to the terms outlined there.
+    <value>你好！看起来这是我们第一次见面。请花点时间查看规则和使用指南，以避免可能出现的问题。完整文档可在我们的官方网站 (stella.sefinek.net) 上查看。使用 Stella Mod 即表示您同意其中列出的条款。
 
-The project is continuously developed thanks to Stella Mod Plus subscribers. Their support helps cover the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is our priority — no analytical or hardware data is ever sent without your consent.
+本项目能够持续开发，离不开 Stella Mod Plus 订阅者的支持，他们的赞助有助于承担光纤网络和电力等费用。API 服务器在波兰进行私有托管，本地管理员是数据库的唯一所有者。您的隐私是我们的首要任务：未经您的同意，绝不会发送任何分析数据或硬件数据。
 
-Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game (this violates both HoYoverse's rules and Stella Mod's regulations). If you need help, join our Discord server or contact us at contact@sefinek.net.
+Stella Mod 是安全的软件，因此无需担心。只需牢记不要在游戏中使用作弊手段（这既违反 HoYoverse 的规定，也违反 Stella Mod 的规定）。如需帮助，请加入我们的 Discord 服务器，或通过 contact@sefinek.net 与我们联系。
 
-Keep in mind that Stella Mod is completely independent, not a fan-made project, and in no way affiliated with HoYoverse. If you enjoy it, you can support its further development by subscribing to Stella Mod Plus.
+请注意，Stella Mod 是一个完全独立的项目，并非粉丝制作，也与 HoYoverse 没有任何关联。如果您喜欢它，可以通过订阅 Stella Mod Plus 来支持它的持续发展。
 
-Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
+感谢您，游戏中见！祝您玩得开心愉快，再见！</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
-    <value>Directory {0} was not found.</value>
+    <value>未找到目录 {0}。</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
-    <value>Downloading resources... {0} / {1}</value>
+    <value>正在下载资源... {0} / {1}</value>
   </data>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
-    <value>Downloading the installer file... {0} / {1}</value>
+    <value>正在下载安装文件... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+    <value>正在解压文件... {0} / {1} ({2} / {3})</value>
   </data>
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
-    <value>Deleting files... {0} from {1} ({2} / {3})</value>
+    <value>正在删除文件... {0} / {1} ({2} / {3})</value>
+  </data>
+  <data name="RequiredFilesUpdater_Checking_" xml:space="preserve">
+    <value>正在检查必需的 MOD 文件更新... {0} / {1}</value>
+  </data>
+  <data name="RequiredFilesUpdater_FailedToCheck_" xml:space="preserve">
+    <value>检查必需的 MOD 文件更新失败：{0}</value>
+  </data>
+  <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
+    <value>已将 {0} 个必需的 MOD 文件更新到最新版本。</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
-    <value>Background file was not found in '{0}'; ID: {1};</value>
+    <value>未在 '{0}' 中找到背景文件；ID：{1}；</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
-    <value>This feature is only available to players with a Stella Mod Plus subscription.
+    <value>此功能仅面向拥有 Stella Mod Plus 订阅的玩家开放。
 
-Would you like to visit the official website and subscribe? You'll gain access to numerous benefits, including the ability to use ReShade, 3DMigoto, and FPS Unlocker simultaneously.</value>
+是否要访问官方网站进行订阅？订阅后您将获得众多权益，包括可以同时使用 ReShade、3DMigoto 和 FPS Unlocker。</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
-    <value>Successfully updated shaders to the latest version for Stella Plus subscribers.</value>
+    <value>已成功为 Stella Plus 订阅者将着色器更新至最新版本。</value>
   </data>
   <data name="Settings_SuccessfullyUpdatedTheReShadeIniFile" xml:space="preserve">
-    <value>Successfully updated the ReShade.ini file. Paths to resource locations have been changed to current, and similar changes have been made.
+    <value>已成功更新 ReShade.ini 文件。资源路径已更新为当前路径，并进行了相应的调整。
 
-Current preset:
+当前预设：
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>错误</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Discord 服务器</value>
   </data>
   <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
-    <value>Are you sure to run Stella Configuration Window again?</value>
+    <value>确定要重新运行 Stella 配置窗口吗？</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Version: {0}</value>
+    <value>版本：{0}</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+    <value>正在观看游戏内容</value>
   </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
-    <value>Game launcher was not found in: {0}</value>
+    <value>未在以下位置找到游戏启动器：{0}</value>
   </data>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
-    <value>Stella Mod Launcher has been successfully updated to version: v{0}</value>
+    <value>Stella Mod Launcher 已成功更新至版本：v{0}</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
-    <value>Oops, an error occurred</value>
+    <value>糟糕，发生了错误</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
-    <value>You do not have an active Stella Plus subscription.</value>
+    <value>您当前没有有效的 Stella Plus 订阅。</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {0}</value>
+    <value>未在以下位置找到存放 Stella 日志的目录：{0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
-    <value>Important</value>
+    <value>重要提示</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
-    <value>Remember not to share log files with unfamiliar individuals, as they might contain sensitive data. Share them only with the Stella Mod developer.</value>
+    <value>请勿将日志文件分享给不熟悉的人，因为其中可能包含敏感数据。请仅与 Stella Mod 开发者分享。</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
     <value>Videos - sefinek.net</value>
@@ -379,382 +388,382 @@ Current preset:
     <value>Gallery - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
-    <value>Hello! Loading Stella Mod Launcher...</value>
+    <value>您好！正在加载 Stella Mod Launcher...</value>
   </data>
   <data name="Default_ToggleMinimizeRestore" xml:space="preserve">
-    <value>Toggle minimize/restore</value>
+    <value>切换最小化／还原</value>
   </data>
   <data name="Default_ReloadWindow" xml:space="preserve">
-    <value>Reload window</value>
+    <value>重新加载窗口</value>
   </data>
   <data name="Default_StellaModPlus" xml:space="preserve">
     <value>Stella Mod Plus</value>
   </data>
   <data name="Default_VisitDiscordServer" xml:space="preserve">
-    <value>Visit Discord server</value>
+    <value>访问 Discord 服务器</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
-    <value>Support</value>
+    <value>支持我们</value>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
-    <value>Leave your feedback</value>
+    <value>留下您的反馈</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
-    <value>Donations</value>
+    <value>捐赠</value>
   </data>
   <data name="Default_Quit" xml:space="preserve">
-    <value>Quit</value>
+    <value>退出</value>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
-    <value>Verifying required files in progress...</value>
+    <value>正在验证所需文件...</value>
   </data>
   <data name="Default_AuthorizationPleaseWait" xml:space="preserve">
-    <value>Authorization, please wait...</value>
+    <value>正在授权，请稍候...</value>
   </data>
   <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
-    <value>Debugging this application is not possible due to lack of permissions.</value>
+    <value>由于权限不足，无法调试此应用程序。</value>
   </data>
   <data name="Default_StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceMode" xml:space="preserve">
-    <value>Starting the Stella Mod Launcher is currently not possible because the server is in maintenance mode. We are doing this for you, to improve the application. Try again later.</value>
+    <value>由于服务器正处于维护模式，目前无法启动 Stella Mod Launcher。我们这样做是为了给您带来更好的应用体验，请稍后再试。</value>
   </data>
   <data name="Default_StellaModPlusLauncher" xml:space="preserve">
     <value>Stella Mod Plus Launcher</value>
   </data>
   <data name="Default_CheckingForUpdatesAndOtherRequiredData" xml:space="preserve">
-    <value>Checking for updates and other required data...</value>
+    <value>正在检查更新及其他所需数据...</value>
   </data>
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
-    <value>The application has been successfully updated, checking the changelog...</value>
+    <value>应用程序已成功更新，正在检查更新日志...</value>
   </data>
   <data name="Default_CheckingNews" xml:space="preserve">
-    <value>Checking news...</value>
+    <value>正在检查最新消息...</value>
   </data>
   <data name="Default_ApprovingApplicationLaunchThisMayTakeAMoment" xml:space="preserve">
-    <value>Approving application launch (this may take a moment)...</value>
+    <value>正在批准应用程序启动（可能需要一点时间）...</value>
   </data>
   <data name="Default_EstablishingConnectionWithTheWebSocketServer" xml:space="preserve">
-    <value>Establishing connection with the WebSocket server...</value>
+    <value>正在与 WebSocket 服务器建立连接...</value>
   </data>
   <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
-    <value>Initializing WebView2, please wait...</value>
+    <value>正在初始化 WebView2，请稍候...</value>
   </data>
   <data name="SuccessfullyReconnectedWithTheWSServer" xml:space="preserve">
-    <value>Successfully reconnected with the WS server</value>
+    <value>已成功重新连接 WS 服务器</value>
   </data>
   <data name="ExceededTheMaximumNumberOfReconnectionAttempts_WithTheWebSocket" xml:space="preserve">
-    <value>Exceeded the maximum number of reconnection attempts ({0}) with the WebSocket</value>
+    <value>WebSocket 重连尝试次数已达到上限（{0}）</value>
   </data>
   <data name="NotificationFromTheServer" xml:space="preserve">
-    <value>Notification from the server</value>
+    <value>来自服务器的通知</value>
   </data>
   <data name="YouHaveReceivedANotificationFromTheRemoteServerPleaseCheckIt" xml:space="preserve">
-    <value>You have received a notification from the remote server. Please check it.</value>
+    <value>您收到了一条来自远程服务器的通知，请查看。</value>
   </data>
   <data name="Default_StellaModPlusSubscribers" xml:space="preserve">
-    <value>Stella Mod Plus Subscribers</value>
+    <value>Stella Mod Plus 订阅者</value>
   </data>
   <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
-    <value>File size ready for download: {0}</value>
+    <value>待下载文件大小：{0}</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
-    <value>Note from the developer ({0}):
+    <value>来自开发者的说明（{0}）：
 {1}</value>
   </data>
   <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
-    <value>Although this process may seem dead, it is still running. Please be patient...</value>
+    <value>尽管此过程看起来像是卡住了，但它仍在运行，请耐心等待...</value>
   </data>
   <data name="UploadLogs_ItSTakingLongerThanUsualPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>It's taking longer than usual. Please check your internet connection.</value>
+    <value>耗时比平常更长，请检查您的网络连接。</value>
   </data>
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
-    <value>Requesting agreement to upload logs...</value>
+    <value>正在请求上传日志的同意...</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
-    <value>Preparing temporary directory...</value>
+    <value>正在准备临时目录...</value>
   </data>
   <data name="UploadLogs_CopyingLogCfgAndIniFiles" xml:space="preserve">
-    <value>Copying log, cfg and ini files...</value>
+    <value>正在复制日志、cfg 和 ini 文件...</value>
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
-    <value>Waiting for DxDiag...</value>
+    <value>正在等待 DxDiag...</value>
   </data>
   <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
-    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
+    <value>尽管此过程看起来像是卡住了，但它仍在运行，请稍候...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
-    <value>Compressing collected files...</value>
+    <value>正在压缩已收集的文件...</value>
   </data>
   <data name="UploadLogs_GatheringAndEncryptingAdditionalData" xml:space="preserve">
-    <value>Gathering and encrypting additional data...</value>
+    <value>正在收集并加密附加数据...</value>
   </data>
   <data name="UploadLogs_UploadingFilesToASecureServer" xml:space="preserve">
-    <value>Uploading files to a secure server...</value>
+    <value>正在将文件上传至安全服务器...</value>
   </data>
   <data name="UploadLogs_FinishingAndPerformingCleanup" xml:space="preserve">
-    <value>Finishing and performing cleanup...</value>
+    <value>正在完成并执行清理...</value>
   </data>
   <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch3YouCanCloseThisWindow" xml:space="preserve">
-    <value>Logs upload complete! Thank you very much &lt;3. You can close this window.</value>
+    <value>日志上传完成！非常感谢您 &lt;3。您现在可以关闭此窗口。</value>
   </data>
   <data name="UploadLogs_AsTheOwnerOfTheSubmittedLogsYouHaveFullRightsToThemIfYouWouldLikeUsToRemoveThemFromOurDatabasePleaseContactTheDeveloperAndProvideTheFollowingIdentifier_" xml:space="preserve">
-    <value>As the owner of the submitted logs, you have full rights to them. If you would like us to remove them from our database, please contact the developer and provide the following identifier: {0}</value>
+    <value>作为已提交日志的所有者，您对其拥有完全的权利。如果您希望我们从数据库中删除这些日志，请联系开发者并提供以下标识符：{0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong. You can close this window.</value>
+    <value>抱歉，出现了问题。您可以关闭此窗口。</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
-    <value>Unfortunately, something went wrong during the file upload. Please accept our apologies.
+    <value>很遗憾，文件上传过程中出现了问题，对此我们深表歉意。
 
 {0}</value>
   </data>
   <data name="UploadLogs_ForSecurityReasonsTheReasonForTheServerSRejectionOfTheRequestCannotBeDisclosedPleaseContactTheAdministratorIfYouBelieveItIsNecessary" xml:space="preserve">
-    <value>For security reasons, the reason for the server's rejection of the request cannot be disclosed. Please contact the administrator if you believe it is necessary.</value>
+    <value>出于安全原因，服务器拒绝该请求的具体原因无法公开。如您认为有必要，请联系管理员。</value>
   </data>
   <data name="UploadLogs_BelowAreTheDetailsOfWhatReallyHappened_" xml:space="preserve">
-    <value>Below are the details of what really happened:
+    <value>以下是实际发生情况的详细信息：
 {0}</value>
   </data>
   <data name="UploadLogs_AnErrorOccurred_" xml:space="preserve">
-    <value>An error occurred.
+    <value>发生了一个错误。
 
 {0}</value>
   </data>
   <data name="UploadLogs_FileSizeExceedsTheMaximumLimit" xml:space="preserve">
-    <value>File size exceeds the maximum limit.</value>
+    <value>文件大小超出了最大限制。</value>
   </data>
   <data name="UploadLogs_FileNotFound_" xml:space="preserve">
-    <value>File not found: {0}</value>
+    <value>未找到文件：{0}</value>
   </data>
   <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch" xml:space="preserve">
-    <value>Logs upload complete. Thank you very much!</value>
+    <value>日志上传完成，非常感谢您！</value>
   </data>
   <data name="UploadLogs_UnknownErrorStatus_" xml:space="preserve">
-    <value>Unknown error. Status {0}</value>
+    <value>未知错误。状态 {0}</value>
   </data>
   <data name="UploadLogs_ErrorSendingRequestPleaseCheckYourInternetConnection_" xml:space="preserve">
-    <value>Error sending request. Please check your Internet connection. {0}</value>
+    <value>发送请求时出错，请检查您的网络连接。{0}</value>
   </data>
   <data name="UploadLogs_ErrorReadingFile_" xml:space="preserve">
-    <value>Error reading file!
+    <value>读取文件时出错！
 {0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in:
+    <value>未在以下位置找到存放 Stella 日志的目录：
 
 {0}</value>
   </data>
   <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
-    <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>
+    <value>这已经是您在此设备上第 {0} 次启动此应用了，感谢您的使用！</value>
   </data>
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
-    <value>Stella Mod resources were not found on your hard drive.</value>
+    <value>在您的硬盘上未找到 Stella Mod 资源。</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
-    <value>A new 3DMigoto update for Stella Plus subscribers has been detected. This update will not overwrite your current mods.
+    <value>检测到面向 Stella Plus 订阅者的新版 3DMigoto 更新。此更新不会覆盖您当前的模组。
 
-Click OK to proceed with the update.
+点击「确定」继续更新。
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+您的版本：来自 {1} 的 v{0}
+新版本：v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_3DMigotoUpdate_" xml:space="preserve">
-    <value>3DMigoto Update - v{0}.zip</value>
+    <value>3DMigoto 更新 - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfTheModPackForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
-    <value>A new version of the mod pack for Stella Plus subscribers has been detected. Your custom mods will not be removed, provided they are located in folder number 3. The software creator is not responsible for any accidental deletion of mods.
+    <value>检测到面向 Stella Plus 订阅者的新版模组包。只要您的自定义模组位于 3 号文件夹中，就不会被删除。软件作者对任何意外删除的模组概不负责。
 
-If, after the update, character models appear incorrect (this applies to custom mods you have added), remove the duplicate mod from the provided pack. Each character can have only one active mod at a time. If you encounter any issues, visit the Genshin Stella Mod Discord server or submit a ticket on the Sefinek Patron Center website for assistance.
+如果更新后角色模型显示异常（适用于您添加的自定义模组），请从提供的模组包中删除重复的模组。每个角色同一时间只能启用一个模组。如遇到任何问题，请访问 Genshin Stella Mod 的 Discord 服务器，或在 Sefinek Patron Center 网站提交工单寻求帮助。
 
-If you do not wish to receive mod pack updates, delete the mods-version.json file from the Stella Mod resources.
+如果您不希望接收模组包更新，请从 Stella Mod 资源中删除 mods-version.json 文件。
 
-Click the OK button to continue.
+点击「确定」按钮继续。
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+您的版本：来自 {1} 的 v{0}
+新版本：v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ModsUpdate_" xml:space="preserve">
-    <value>Mods Update - v{0}.zip</value>
+    <value>模组更新 - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewUpdateForReShadeAddOnsIsAvailable_" xml:space="preserve">
-    <value>A new update for ReShade add-ons is available! Please note that the current add-on configuration files will be overwritten.
+    <value>有可用的 ReShade 插件新更新！请注意，当前的插件配置文件将被覆盖。
 
-Click the OK button to proceed with the update.
+点击「确定」按钮继续更新。
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+您的版本：来自 {1} 的 v{0}
+新版本：v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
-    <value>ReShade Addons - v{0}.zip</value>
+    <value>ReShade 插件 - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
-    <value>A new ReShade preset update has been detected! Existing presets may be overwritten. It is recommended to make a backup before updating.
+    <value>检测到新版 ReShade 预设更新！现有预设可能会被覆盖，建议在更新前先进行备份。
 
-Click the OK button to proceed with the update.
+点击「确定」按钮继续更新。
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+您的版本：来自 {1} 的 v{0}
+新版本：v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
-    <value>ReShade Presets - v{0}.zip</value>
+    <value>ReShade 预设 - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
-    <value>A new version of ReShade shaders is available! Previous shaders may be overwritten.
+    <value>有可用的新版 ReShade 着色器！先前的着色器可能会被覆盖。
 
-Click the OK button to proceed with the update.
+点击「确定」按钮继续更新。
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+您的版本：来自 {1} 的 v{0}
+新版本：v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
-    <value>ReShade Shaders - v{0}.zip</value>
+    <value>ReShade 着色器 - v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
-    <value>Stella Resources - v{0}.zip</value>
+    <value>Stella 资源 - v{0}.zip</value>
   </data>
   <data name="Default_ClearingTheCacheThisMayTakeAWhile" xml:space="preserve">
-    <value>Clearing the cache (this may take a while)...</value>
+    <value>正在清除缓存（可能需要一段时间）...</value>
   </data>
   <data name="Default_AfterEachUpdateClearingTheCacheIsRequired" xml:space="preserve">
-    <value>After each update, clearing the cache is required.</value>
+    <value>每次更新后都需要清除缓存。</value>
   </data>
   <data name="Default_Deleted_FileCountFilesSavingATotalOf_" xml:space="preserve">
-    <value>Deleted {0} file(s), saving a total of {1}.</value>
+    <value>已删除 {0} 个文件，共节省 {1} 空间。</value>
   </data>
   <data name="Default_DoneFinishingUp" xml:space="preserve">
-    <value>Done! Finishing up...</value>
+    <value>完成！正在收尾...</value>
   </data>
   <data name="Default_OldFilesFromAPreviousVersionOfStellaModHaveBeenDetected" xml:space="preserve">
-    <value>Old files from a previous version of Stella Mod have been detected. Would you like to remove them?</value>
+    <value>检测到来自旧版本 Stella Mod 的旧文件，是否要删除它们？</value>
   </data>
   <data name="Default_Removed_AdditionalFilesFreeingUp_OfSpace" xml:space="preserve">
-    <value>Removed {0} additional file(s), freeing up {1} of space.</value>
+    <value>已删除 {0} 个附加文件，释放了 {1} 空间。</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
-    <value>Subscribe to Stella Plus to elevate your gameplay! Use ReShade, FPS Unlocker, and 3DMigoto simultaneously (we don't use GIMI), and unlock even more exclusive benefits.</value>
+    <value>订阅 Stella Plus，提升您的游戏体验！可同时使用 ReShade、FPS Unlocker 和 3DMigoto（我们不使用 GIMI），并解锁更多专属权益。</value>
   </data>
   <data name="Background_CurrentBackground_" xml:space="preserve">
-    <value>Current background: {0}</value>
+    <value>当前背景：{0}</value>
   </data>
   <data name="WebViewHelper_WebView2DoesNotAppearToBeInstalledOnYourDevice_" xml:space="preserve">
-    <value>WebView2 does not appear to be installed on your device. Would you like to download and install this dependency now?
+    <value>您的设备似乎未安装 WebView2。是否要立即下载并安装此依赖项？
 
 {0}</value>
   </data>
   <data name="WebViewHelper_WebView2Installation" xml:space="preserve">
-    <value>WebView2 Installation</value>
+    <value>WebView2 安装</value>
   </data>
   <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Please select 'Evergreen Standalone Installer'.</value>
+    <value>请选择 'Evergreen Standalone Installer'。</value>
   </data>
   <data name="WebViewHelper_SomethingWentWrongDuringTheInitializationOfWebView2PleaseTryAgain_" xml:space="preserve">
-    <value>Something went wrong during the initialization of WebView2. Please try again.
+    <value>初始化 WebView2 时出现问题，请重试。
 
 {0}</value>
   </data>
   <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
-    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
+    <value>未找到游戏。您确定已在此设备上安装该游戏吗？如果路径已更改，则需要重新配置 Stella Mod。是否现在进行配置？</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
-    <value>Something went wrong while reading the registry.
+    <value>读取注册表时出现问题。
 
 {0}</value>
   </data>
   <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
-    <value>Visit the Sefinek Patron Center website for Stella Mod subscribers</value>
+    <value>访问面向 Stella Mod 订阅者的 Sefinek 赞助中心网站</value>
   </data>
   <data name="OfflineMode" xml:space="preserve">
-    <value>Offline Mode</value>
+    <value>离线模式</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Authorization failed. Offline mode is enabled. Updates cannot be checked.</value>
+    <value>授权失败。已启用离线模式，无法检查更新。</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
-    <value>Sorry, the main server is currently unavailable or an unexpected issue has occurred (error code: {0}). Offline Mode will be enabled automatically. Some features may be limited or unavailable.
+    <value>抱歉，主服务器当前不可用，或出现了意外问题（错误代码：{0}）。将自动启用离线模式，部分功能可能受限或不可用。
 
-Would you like to check the status page now at status.sefinek.net?</value>
+是否要现在前往 status.sefinek.net 查看状态页面？</value>
   </data>
   <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
-    <value>Authorization failed (error code {0}). The server rejected the request, likely due to failed validation or an expired authentication token. Please ensure you're using the latest version of the launcher. If you're unsure what caused this error, contact the developer via patrons.sefinek.net or email contact@sefinek.net.</value>
+    <value>授权失败（错误代码 {0}）。服务器拒绝了此请求，可能是由于验证失败或身份验证令牌已过期。请确保您使用的是最新版本的启动器。如果您不确定此错误的原因，请通过 patrons.sefinek.net 或发送邮件至 contact@sefinek.net 联系开发者。</value>
   </data>
   <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
-    <value>Failed to parse the response from the server. This may indicate a server-side issue or incompatible launcher version. Please contact the developer via patrons.sefinek.net or by email at contact@sefinek.net.
+    <value>解析服务器响应失败，这可能表明服务器端存在问题，或启动器版本不兼容。请通过 patrons.sefinek.net 或发送邮件至 contact@sefinek.net 联系开发者。
 
-Details:
+详细信息：
 {0}</value>
   </data>
   <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
-    <value>Unable to connect to the main server. Please check your internet connection, DNS configuration, VPN/proxy settings, and firewall. If you need assistance, contact the developer via patrons.sefinek.net or email contact@sefinek.net.
+    <value>无法连接到主服务器。请检查您的网络连接、DNS 配置、VPN/代理设置以及防火墙。如需帮助，请通过 patrons.sefinek.net 或发送邮件至 contact@sefinek.net 联系开发者。
 
-Details:
+详细信息：
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>身份验证过程中发生严重错误。请通过在 Sefinek Patron Center (https://patrons.sefinek.net) 提交工单，或发送邮件至 contact@sefinek.net 联系开发者。
 
-Details:
+详细信息：
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+是否要现在前往 status.sefinek.net 查看状态页面？</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
-    <value>Failed to fetch the list of MoeCounter themes. Please try again later.</value>
+    <value>获取 MoeCounter 主题列表失败，请稍后重试。</value>
   </data>
   <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>An error occurred while fetching MoeCounter themes. Please check your internet connection.</value>
+    <value>获取 MoeCounter 主题时出现错误，请检查您的网络连接。</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
-    <value>Official Website - stella.sefinek.net</value>
+    <value>官方网站 - stella.sefinek.net</value>
   </data>
   <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
-    <value>Genshin Stella Mod Changelog</value>
+    <value>Genshin Stella Mod 更新日志</value>
   </data>
   <data name="Program_Main_DebugConsole" xml:space="preserve">
-    <value>{0} - Debug Console</value>
+    <value>{0} - 调试控制台</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Content" xml:space="preserve">
-    <value>Hello,
+    <value>您好，
 
-I encountered a problem while using Stella Mod.
-
----
-
-✏️ Additional information from me:
-[please describe step by step what you were doing before the error occurred – reproduction steps]
+我在使用 Stella Mod 时遇到了一个问题。
 
 ---
 
-📌 Encoded technical details (for diagnostics, leave this string unchanged):
+✏️ 我提供的补充信息：
+[请逐步描述错误发生前您的操作 - 复现步骤]
+
+---
+
+📌 编码后的技术信息（用于诊断，请勿修改此字符串）：
 {0}
 
 ---
 
-ℹ️ Information:
-This mailbox is actively monitored. You should receive a reply shortly.
+ℹ️ 说明：
+此邮箱会被积极监控，您应该很快就会收到回复。
 
 ---
 
-⚖️ Legal clause:
-This bug report may contain technical data required for diagnostics.
-By sending this message, you consent to its use solely for troubleshooting purposes,
-in accordance with the Stella Mod Privacy Policy and License Agreement.</value>
+⚖️ 法律条款：
+此错误报告可能包含诊断所需的技术数据。
+发送此消息即表示您同意这些数据仅用于故障排查，
+并遵守 Stella Mod 的隐私政策和许可协议。</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
-    <value>Bug report in Stella Mod - {0}</value>
+    <value>Stella Mod 错误报告 - {0}</value>
   </data>
   <data name="ReShadeStandardFileNotFound" xml:space="preserve">
-    <value>The standard ReShade DLL backup was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>未找到标准版 ReShade DLL 备份文件。请重新安装 Stella Mod 以恢复缺失文件。</value>
   </data>
   <data name="ReShadeAddonFileNotFound" xml:space="preserve">
-    <value>The ReShade add-on support DLL was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>未找到 ReShade 插件支持 DLL 文件。请重新安装 Stella Mod 以恢复缺失文件。</value>
   </data>
   <data name="ReShadeSwapFailed" xml:space="preserve">
-    <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
+    <value>切换 ReShade 版本失败。文件可能正在使用中，或访问被拒绝。</value>
   </data>
   <data name="Default_ReShadeVariantRecommendation" xml:space="preserve">
-    <value>You are a Stella Mod Plus subscriber, but you currently have the Regular ReShade version selected.
+    <value>您是 Stella Mod Plus 订阅者，但目前选择的是常规版 ReShade。
 
-Subscribers are recommended to use the "Full add-on support" variant for the best experience.
+建议订阅者使用「完整插件支持」版本以获得最佳体验。
 
-Would you like to switch now?</value>
+是否要立即切换？</value>
   </data>
 </root>

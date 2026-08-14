@@ -230,7 +230,7 @@
 {0}</value>
   </data>
   <data name="Default_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating, please wait...</value>
+    <value>Обновление, подождите...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>Файл конфигурации ReShade не найден в:
@@ -291,15 +291,15 @@
     <value>Новое обновление ресурсов доступно с {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hi! It looks like we're seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you agree to the terms outlined there.
+    <value>Привет! Похоже, мы видимся впервые. Пожалуйста, уделите немного времени ознакомлению с правилами и рекомендациями, чтобы избежать возможных проблем. Полная документация доступна на нашем официальном сайте (stella.sefinek.net). Используя Stella Mod, вы соглашаетесь с изложенными там условиями.
 
-The project is continuously developed thanks to Stella Mod Plus subscribers. Their support helps cover the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is our priority — no analytical or hardware data is ever sent without your consent.
+Проект постоянно развивается благодаря подписчикам Stella Mod Plus. Их поддержка помогает покрывать расходы на оптоволоконный интернет и электроэнергию. Сервер API размещён в частном порядке в Польше, а локальный администратор является единственным владельцем базы данных. Ваша конфиденциальность - наш приоритет: никакие аналитические данные или данные об оборудовании никогда не отправляются без вашего согласия.
 
-Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game (this violates both HoYoverse's rules and Stella Mod's regulations). If you need help, join our Discord server or contact us at contact@sefinek.net.
+Stella Mod - безопасное программное обеспечение, так что беспокоиться не о чем. Просто помните, что нельзя использовать читы в игре (это нарушает как правила HoYoverse, так и регламент Stella Mod). Если вам нужна помощь, присоединяйтесь к нашему серверу Discord или свяжитесь с нами по адресу contact@sefinek.net.
 
-Keep in mind that Stella Mod is completely independent, not a fan-made project, and in no way affiliated with HoYoverse. If you enjoy it, you can support its further development by subscribing to Stella Mod Plus.
+Учтите, что Stella Mod - полностью независимый проект, не является фанатской инициативой и никак не связан с HoYoverse. Если вам нравится проект, вы можете поддержать его дальнейшее развитие, оформив подписку Stella Mod Plus.
 
-Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
+Спасибо, и до встречи в игре! Приятной игры и хорошего настроения. Берегите себя!</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Каталог {0} не был найден.</value>
@@ -311,10 +311,19 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>Загружаем установочный файл... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+    <value>Распаковка файлов... {0} из {1} ({2} / {3})</value>
   </data>
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
-    <value>Deleting files... {0} from {1} ({2} / {3})</value>
+    <value>Удаление файлов... {0} из {1} ({2} / {3})</value>
+  </data>
+  <data name="RequiredFilesUpdater_Checking_" xml:space="preserve">
+    <value>Проверка обновлений необходимых файлов мода... {0} / {1}</value>
+  </data>
+  <data name="RequiredFilesUpdater_FailedToCheck_" xml:space="preserve">
+    <value>Не удалось проверить обновления необходимых файлов мода: {0}</value>
+  </data>
+  <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
+    <value>Обновлено {0} необходимых файлов мода до последней версии.</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Исходный файл не был найден в '{0}'; идентификатор: {1};</value>
@@ -479,7 +488,7 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>Ожидание DxDiag...</value>
   </data>
   <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
-    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
+    <value>Хотя процесс может казаться зависшим, он всё ещё выполняется. Пожалуйста, подождите немного...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Сжатие собранных файлов...</value>
@@ -500,7 +509,7 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>Как владелец предоставленных журналов, вы имеете на них полные права. Если вы хотите, чтобы мы удалили их из нашей базы данных, свяжитесь с разработчиком и укажите следующий идентификатор: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong. You can close this window.</value>
+    <value>Извините, но что-то пошло не так. Вы можете закрыть это окно.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>К сожалению, во время загрузки файла произошла ошибка. Приносим свои извинения.
@@ -652,7 +661,7 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
 {0}</value>
   </data>
   <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
-    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
+    <value>Игра не найдена. Вы уверены, что она установлена на вашем устройстве? Если путь изменился, необходимо перенастроить Stella Mod. Хотите сделать это сейчас?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Что-то пошло не так во время чтения реестра.
@@ -666,7 +675,7 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>Автономный режим</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Authorization failed. Offline mode is enabled. Updates cannot be checked.</value>
+    <value>Ошибка авторизации. Включён автономный режим, проверка обновлений невозможна.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>К сожалению, главный сервер в данный момент недоступен или возникла непредвиденная проблема (код ошибки: {0}). Автономный режим будет включён автоматически. Некоторые функции могут быть ограничены или недоступны.
@@ -689,72 +698,72 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>Во время аутентификации произошла критическая ошибка. Свяжитесь с разработчиком, отправив обращение в Центр патронов Sefinek (https://patrons.sefinek.net) или написав на contact@sefinek.net.
 
-Details:
+Подробности:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Хотите проверить страницу состояния на status.sefinek.net прямо сейчас?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
-    <value>Failed to fetch the list of MoeCounter themes. Please try again later.</value>
+    <value>Не удалось получить список тем MoeCounter. Попробуйте позже.</value>
   </data>
   <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>An error occurred while fetching MoeCounter themes. Please check your internet connection.</value>
+    <value>Произошла ошибка при получении тем MoeCounter. Проверьте подключение к интернету.</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
-    <value>Official Website - stella.sefinek.net</value>
+    <value>Официальный сайт - stella.sefinek.net</value>
   </data>
   <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
-    <value>Genshin Stella Mod Changelog</value>
+    <value>Список изменений Genshin Stella Mod</value>
   </data>
   <data name="Program_Main_DebugConsole" xml:space="preserve">
-    <value>{0} - Debug Console</value>
+    <value>{0} - Консоль отладки</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Content" xml:space="preserve">
-    <value>Hello,
+    <value>Здравствуйте,
 
-I encountered a problem while using Stella Mod.
-
----
-
-✏️ Additional information from me:
-[please describe step by step what you were doing before the error occurred – reproduction steps]
+Я столкнулся с проблемой при использовании Stella Mod.
 
 ---
 
-📌 Encoded technical details (for diagnostics, leave this string unchanged):
+✏️ Дополнительная информация от меня:
+[пожалуйста, опишите пошагово, что вы делали до возникновения ошибки - шаги воспроизведения]
+
+---
+
+📌 Закодированные технические данные (для диагностики, не изменяйте эту строку):
 {0}
 
 ---
 
-ℹ️ Information:
-This mailbox is actively monitored. You should receive a reply shortly.
+ℹ️ Информация:
+Этот почтовый ящик активно отслеживается. Вы должны получить ответ в ближайшее время.
 
 ---
 
-⚖️ Legal clause:
-This bug report may contain technical data required for diagnostics.
-By sending this message, you consent to its use solely for troubleshooting purposes,
-in accordance with the Stella Mod Privacy Policy and License Agreement.</value>
+⚖️ Правовая оговорка:
+Это сообщение об ошибке может содержать технические данные, необходимые для диагностики.
+Отправляя это сообщение, вы соглашаетесь на их использование исключительно в целях устранения неполадок,
+в соответствии с Политикой конфиденциальности и Лицензионным соглашением Stella Mod.</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
-    <value>Bug report in Stella Mod - {0}</value>
+    <value>Отчёт об ошибке в Stella Mod - {0}</value>
   </data>
   <data name="ReShadeStandardFileNotFound" xml:space="preserve">
-    <value>The standard ReShade DLL backup was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>Резервная копия стандартной библиотеки ReShade DLL не найдена. Переустановите Stella Mod, чтобы восстановить недостающие файлы.</value>
   </data>
   <data name="ReShadeAddonFileNotFound" xml:space="preserve">
-    <value>The ReShade add-on support DLL was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>Библиотека DLL для поддержки дополнений ReShade не найдена. Переустановите Stella Mod, чтобы восстановить недостающие файлы.</value>
   </data>
   <data name="ReShadeSwapFailed" xml:space="preserve">
-    <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
+    <value>Не удалось переключить вариант ReShade. Файл может быть занят или доступ запрещён.</value>
   </data>
   <data name="Default_ReShadeVariantRecommendation" xml:space="preserve">
-    <value>You are a Stella Mod Plus subscriber, but you currently have the Regular ReShade version selected.
+    <value>Вы являетесь подписчиком Stella Mod Plus, но сейчас у вас выбрана обычная версия ReShade.
 
-Subscribers are recommended to use the "Full add-on support" variant for the best experience.
+Подписчикам рекомендуется использовать вариант «Полная поддержка дополнений» для лучшего опыта.
 
-Would you like to switch now?</value>
+Хотите переключиться сейчас?</value>
   </data>
 </root>

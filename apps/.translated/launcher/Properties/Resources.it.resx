@@ -230,7 +230,7 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
 {0}</value>
   </data>
   <data name="Default_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating, please wait...</value>
+    <value>Aggiornamento in corso, attendere...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>Il file di configurazione di ReShade non è stato trovato in:
@@ -311,10 +311,19 @@ Grazie e ci vediamo nel gioco! Divertiti e divertiti. Ciao!</value>
     <value>Scaricando il file di installazione... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+    <value>Estrazione dei file... {0} di {1} ({2} / {3})</value>
   </data>
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
-    <value>Deleting files... {0} from {1} ({2} / {3})</value>
+    <value>Eliminazione dei file... {0} di {1} ({2} / {3})</value>
+  </data>
+  <data name="RequiredFilesUpdater_Checking_" xml:space="preserve">
+    <value>Verifica degli aggiornamenti dei file mod necessari in corso... {0} / {1}</value>
+  </data>
+  <data name="RequiredFilesUpdater_FailedToCheck_" xml:space="preserve">
+    <value>Impossibile verificare gli aggiornamenti dei file mod necessari: {0}</value>
+  </data>
+  <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
+    <value>Aggiornati {0} file mod necessari all'ultima versione.</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Il file di sfondo non è stato trovato in '{0}'; ID: {1};</value>
@@ -451,7 +460,7 @@ Impostazioni predefinite attuali:
     <value>Hai ricevuto una notifica dal server remoto. Si prega di controllare.</value>
   </data>
   <data name="Default_StellaModPlusSubscribers" xml:space="preserve">
-    <value>Stella Mod Plus Subscribers</value>
+    <value>Abbonati Stella Mod Plus</value>
   </data>
   <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
     <value>Dimensione file pronto per il download: {0}</value>
@@ -479,7 +488,7 @@ Impostazioni predefinite attuali:
     <value>In attesa di DxDiag...</value>
   </data>
   <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
-    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
+    <value>Anche se il processo può sembrare bloccato, è ancora in esecuzione. Attendi un momento...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Compressione dei file raccolti...</value>
@@ -500,7 +509,7 @@ Impostazioni predefinite attuali:
     <value>In qualità di proprietario dei log inviati, hai tutti i diritti su di essi. Se vuoi che li rimuoviamo dal nostro database, contatta lo sviluppatore e fornisci il seguente identificativo: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong. You can close this window.</value>
+    <value>Siamo spiacenti, ma qualcosa è andato storto. Puoi chiudere questa finestra.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>Purtroppo qualcosa è andato storto durante il caricamento del file. Ti preghiamo di accettare le nostre scuse.
@@ -584,7 +593,7 @@ La tua versione: v{0} da {1}
 Nuova versione: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
-    <value>ReShade Addons - v{0}.zip</value>
+    <value>Componenti aggiuntivi ReShade - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>È stato rilevato un nuovo aggiornamento dei preset di ReShade! I preset esistenti potrebbero essere sovrascritti. Si consiglia di effettuare un backup prima di aggiornare.
@@ -595,7 +604,7 @@ La tua versione: v{0} da {1}
 Nuova versione: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
-    <value>ReShade Presets - v{0}.zip</value>
+    <value>Preset ReShade - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>È disponibile una nuova versione degli shader di ReShade! Gli shader precedenti potrebbero essere sovrascritti.
@@ -606,7 +615,7 @@ La tua versione: v{0} da {1}
 Nuova versione: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
-    <value>ReShade Shaders - v{0}.zip</value>
+    <value>Shader ReShade - v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
     <value>Stella Risorse - v{0}.zip</value>
@@ -689,12 +698,12 @@ Dettagli:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>Si è verificato un errore critico durante l'autenticazione. Contatta lo sviluppatore inviando un ticket al Centro Patron Sefinek (https://patrons.sefinek.net) oppure scrivendo a contact@sefinek.net.
 
-Details:
+Dettagli:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Vuoi controllare ora la pagina di stato su status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
     <value>Impossibile recuperare l'elenco dei temi MoeCounter. Riprova più tardi.</value>
@@ -706,55 +715,55 @@ Would you like to check the status page now at status.sefinek.net?</value>
     <value>Sito ufficiale - stella.sefinek.net</value>
   </data>
   <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
-    <value>Genshin Stella Mod Changelog</value>
+    <value>Registro delle modifiche di Genshin Stella Mod</value>
   </data>
   <data name="Program_Main_DebugConsole" xml:space="preserve">
-    <value>{0} - Debug Console</value>
+    <value>{0} - Console di debug</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Content" xml:space="preserve">
-    <value>Hello,
+    <value>Ciao,
 
-I encountered a problem while using Stella Mod.
-
----
-
-✏️ Additional information from me:
-[please describe step by step what you were doing before the error occurred – reproduction steps]
+Ho riscontrato un problema durante l'utilizzo di Stella Mod.
 
 ---
 
-📌 Encoded technical details (for diagnostics, leave this string unchanged):
+✏️ Informazioni aggiuntive da parte mia:
+[descrivi passo dopo passo cosa stavi facendo prima che si verificasse l'errore - passaggi di riproduzione]
+
+---
+
+📌 Dettagli tecnici codificati (per la diagnostica, non modificare questa stringa):
 {0}
 
 ---
 
-ℹ️ Information:
-This mailbox is actively monitored. You should receive a reply shortly.
+ℹ️ Informazioni:
+Questa casella di posta è monitorata attivamente. Dovresti ricevere una risposta a breve.
 
 ---
 
-⚖️ Legal clause:
-This bug report may contain technical data required for diagnostics.
-By sending this message, you consent to its use solely for troubleshooting purposes,
-in accordance with the Stella Mod Privacy Policy and License Agreement.</value>
+⚖️ Clausola legale:
+Questa segnalazione di bug può contenere dati tecnici necessari per la diagnostica.
+Inviando questo messaggio, acconsenti al loro utilizzo esclusivamente a fini di risoluzione dei problemi,
+in conformità con l'Informativa sulla privacy e il Contratto di licenza di Stella Mod.</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
-    <value>Bug report in Stella Mod - {0}</value>
+    <value>Segnalazione di bug in Stella Mod - {0}</value>
   </data>
   <data name="ReShadeStandardFileNotFound" xml:space="preserve">
-    <value>The standard ReShade DLL backup was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>Il backup della DLL standard di ReShade non è stato trovato. Reinstalla Stella Mod per ripristinare i file mancanti.</value>
   </data>
   <data name="ReShadeAddonFileNotFound" xml:space="preserve">
-    <value>The ReShade add-on support DLL was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>La DLL di supporto ai componenti aggiuntivi di ReShade non è stata trovata. Reinstalla Stella Mod per ripristinare i file mancanti.</value>
   </data>
   <data name="ReShadeSwapFailed" xml:space="preserve">
-    <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
+    <value>Impossibile cambiare la variante di ReShade. Il file potrebbe essere in uso oppure l'accesso è negato.</value>
   </data>
   <data name="Default_ReShadeVariantRecommendation" xml:space="preserve">
-    <value>You are a Stella Mod Plus subscriber, but you currently have the Regular ReShade version selected.
+    <value>Sei un abbonato Stella Mod Plus, ma attualmente hai selezionato la versione normale di ReShade.
 
-Subscribers are recommended to use the "Full add-on support" variant for the best experience.
+Agli abbonati si consiglia di utilizzare la variante "Supporto completo ai componenti aggiuntivi" per la migliore esperienza.
 
-Would you like to switch now?</value>
+Vuoi cambiare ora?</value>
   </data>
 </root>

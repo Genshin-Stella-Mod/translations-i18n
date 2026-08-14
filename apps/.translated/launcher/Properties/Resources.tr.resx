@@ -316,6 +316,15 @@ Teşekkürler ve oyunda görüşmek üzere! Eğlenin ve tadını çıkarın. Şe
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
     <value>Dosyalar siliniyor... {0} / {1} ({2} / {3})</value>
   </data>
+  <data name="RequiredFilesUpdater_Checking_" xml:space="preserve">
+    <value>Gerekli mod dosyası güncellemeleri kontrol ediliyor... {0} / {1}</value>
+  </data>
+  <data name="RequiredFilesUpdater_FailedToCheck_" xml:space="preserve">
+    <value>Gerekli mod dosyası güncellemeleri kontrol edilemedi: {0}</value>
+  </data>
+  <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
+    <value>{0} gerekli mod dosyası en son sürüme güncellendi.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Arka plan dosyası '{0}' içinde bulunamadı; ID: {1};</value>
   </data>

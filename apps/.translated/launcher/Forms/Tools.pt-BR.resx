@@ -475,7 +475,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeReShadeConfig.ToolTip" xml:space="preserve">
-    <value>Open ReShade.ini</value>
+    <value>Abrir ReShade.ini</value>
   </data>
   <data name="&gt;&gt;SeeReShadeConfig.Name" xml:space="preserve">
     <value>SeeReShadeConfig</value>
@@ -541,7 +541,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
-    <value>Open unlocker.config.json</value>
+    <value>Abrir unlocker.config.json</value>
   </data>
   <data name="&gt;&gt;SeeFPSUnlockerConfig.Name" xml:space="preserve">
     <value>SeeFPSUnlockerConfig</value>
@@ -734,7 +734,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Clear ReShade cache, 3DMigoto, temporary files, WebView2 cache, and %temp%</value>
+    <value>Limpar cache do ReShade, 3DMigoto, arquivos temporários, cache do WebView2 e %temp%</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -773,7 +773,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel7.ToolTip" xml:space="preserve">
-    <value>Validate the paths. This tool only verifies Stella Mod dependencies, not the presence of launcher files.</value>
+    <value>Validar os caminhos. Esta ferramenta verifica apenas as dependências do Stella Mod, não a presença dos arquivos do launcher.</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -814,7 +814,7 @@ Região: {5}</value>
     <value>MiddleCenter</value>
   </data>
   <data name="label5.ToolTip" xml:space="preserve">
-    <value>Game data from the system registry</value>
+    <value>Dados do jogo do registro do sistema</value>
   </data>
   <data name="&gt;&gt;label5.Name" xml:space="preserve">
     <value>label5</value>
@@ -858,7 +858,7 @@ Você também pode apertar ESC para fechar as janelas de diálogo.</value>
     <value>MiddleCenter</value>
   </data>
   <data name="label6.ToolTip" xml:space="preserve">
-    <value>Keyboard shortcuts available in Stella Mod Launcher</value>
+    <value>Atalhos de teclado disponíveis no Stella Mod Launcher</value>
   </data>
   <data name="&gt;&gt;label6.Name" xml:space="preserve">
     <value>label6</value>
@@ -894,13 +894,13 @@ Você também pode apertar ESC para fechar as janelas de diálogo.</value>
     <value>130</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>3DMigoto d3dx.ini file</value>
+    <value>Arquivo d3dx.ini do 3DMigoto</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Open d3dx.ini</value>
+    <value>Abrir d3dx.ini</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -942,7 +942,7 @@ Você também pode apertar ESC para fechar as janelas de diálogo.</value>
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Open d3dx_user.ini</value>
+    <value>Abrir d3dx_user.ini</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -1065,7 +1065,7 @@ Você também pode apertar ESC para fechar as janelas de diálogo.</value>
     <value>107</value>
   </data>
   <data name="logDir_Label.Text" xml:space="preserve">
-    <value>View directory</value>
+    <value>Ver diretório</value>
   </data>
   <data name="logDir_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>

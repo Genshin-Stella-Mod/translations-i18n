@@ -166,7 +166,7 @@
     <value>100</value>
   </data>
   <data name="createShortcut_Label.Text" xml:space="preserve">
-    <value>Teyvat Interactive Map - HoYoLAB (act.hoyolab.com)</value>
+    <value>Mapa interativo de Teyvat - HoYoLAB (act.hoyolab.com)</value>
   </data>
   <data name="createShortcut_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -229,7 +229,7 @@
     <value>102</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Genshin Impact Interactive World Map (genshin-impact-map.appsample)</value>
+    <value>Mapa-múndi interativo do Genshin Impact (genshin-impact-map.appsample)</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -553,7 +553,7 @@
     <value>111</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Application Programming Interface (api.sefinek.net)</value>
+    <value>Interface de Programação de Aplicações (api.sefinek.net)</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -616,7 +616,7 @@
     <value>115</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Official status page (status.sefinek.net)</value>
+    <value>Página oficial de status (status.sefinek.net)</value>
   </data>
   <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>

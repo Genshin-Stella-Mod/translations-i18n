@@ -550,7 +550,7 @@
     <value>78</value>
   </data>
   <data name="gameplay_LinkLabel.Text" xml:space="preserve">
-    <value>Gameplay</value>
+    <value>Spelupplevelse</value>
   </data>
   <data name="gameplay_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -836,7 +836,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>128</value>
   </data>
   <data name="support_LinkLabel.Text" xml:space="preserve">
-    <value>Support</value>
+    <value>Stöd oss</value>
   </data>
   <data name="support_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>

@@ -316,6 +316,15 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
     <value>Lösche Dateien... {0} von {1} ({2} / {3})</value>
   </data>
+  <data name="RequiredFilesUpdater_Checking_" xml:space="preserve">
+    <value>Suche nach Updates für erforderliche Mod-Dateien... {0} / {1}</value>
+  </data>
+  <data name="RequiredFilesUpdater_FailedToCheck_" xml:space="preserve">
+    <value>Suche nach Updates für erforderliche Mod-Dateien fehlgeschlagen: {0}</value>
+  </data>
+  <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
+    <value>{0} erforderliche Mod-Datei(en) wurden auf die neueste Version aktualisiert.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Background file was not found in '{0}'; ID: {1};</value>
   </data>

@@ -242,10 +242,10 @@
     <value>144</value>
   </data>
   <data name="checkBox11.Text" xml:space="preserve">
-    <value>Keep benefit ZIP files as backup (Stella Plus)</value>
+    <value>Manter arquivos ZIP de benefícios como backup (Stella Plus)</value>
   </data>
   <data name="checkBox11.ToolTip" xml:space="preserve">
-    <value>When enabled, downloaded benefit ZIP files will be kept in the '&lt;YOUR RESOURCES FOLDER&gt;\Temp files' folder after extraction. If you accidentally damage a mod or encounter other issues, you can easily restore its original version from the backup. If you do not plan to modify mods, you may disable this option to save disk space.</value>
+    <value>Quando ativado, os arquivos ZIP de benefícios baixados serão mantidos na pasta '&lt;SUA PASTA DE RECURSOS&gt;\Temp files' após a extração. Se você danificar acidentalmente um mod ou encontrar outros problemas, poderá restaurar facilmente sua versão original a partir do backup. Se você não pretende modificar os mods, pode desativar esta opção para economizar espaço em disco.</value>
   </data>
   <data name="&gt;&gt;checkBox11.Name" xml:space="preserve">
     <value>checkBox11</value>
@@ -284,7 +284,7 @@
     <value>Efeitos DWM *</value>
   </data>
   <data name="checkBox6.ToolTip" xml:space="preserve">
-    <value>Enables various Desktop Window Manager visual effects. Disabling this option may improve performance on older hardware.</value>
+    <value>Ativa vários efeitos visuais do Desktop Window Manager. Desativar esta opção pode melhorar o desempenho em hardware mais antigo.</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -317,10 +317,10 @@
     <value>10</value>
   </data>
   <data name="checkBox10.Text" xml:space="preserve">
-    <value>Auto-fix 3DMigoto mods (Stella Plus)</value>
+    <value>Corrigir automaticamente mods do 3DMigoto (Stella Plus)</value>
   </data>
   <data name="checkBox10.ToolTip" xml:space="preserve">
-    <value>Automatically fixes 3DMigoto mods on game launch.</value>
+    <value>Corrige automaticamente os mods do 3DMigoto ao iniciar o jogo.</value>
   </data>
   <data name="&gt;&gt;checkBox10.Name" xml:space="preserve">
     <value>checkBox10</value>
@@ -335,10 +335,10 @@
     <value>3</value>
   </data>
   <data name="comboBox2.Items" xml:space="preserve">
-    <value>Regular (recommended)</value>
+    <value>Normal (recomendado)</value>
   </data>
   <data name="comboBox2.Items1" xml:space="preserve">
-    <value>Full add-on support</value>
+    <value>Suporte completo a complementos</value>
   </data>
   <data name="comboBox2.Location" type="System.Drawing.Point, System.Drawing">
     <value>632, 182</value>
@@ -350,8 +350,8 @@
     <value>145</value>
   </data>
   <data name="comboBox2.ToolTip" xml:space="preserve">
-    <value>Regular: Lightweight version best suited for users sticking with default Stella Mod presets.
-Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Required for Stella Plus subscribers.</value>
+    <value>Normal: versão leve, mais indicada para usuários que utilizam os presets padrão do Stella Mod.
+Suporte completo a complementos: desbloqueia complementos e o buffer de profundidade para ajustes avançados. Necessário para assinantes do Stella Plus.</value>
   </data>
   <data name="&gt;&gt;comboBox2.Name" xml:space="preserve">
     <value>comboBox2</value>
@@ -438,7 +438,7 @@ Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Requi
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Installed version: v{0}
+    <value>Versão instalada: v{0}
 Build: v{1}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
@@ -652,8 +652,8 @@ Build: v{1}</value>
     <value>137</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>* Changing the settings may require restarting the application.
-* Hover over a setting to learn more about it.</value>
+    <value>* A alteração das configurações pode exigir a reinicialização do aplicativo.
+* Passe o mouse sobre uma configuração para saber mais sobre ela.</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -770,7 +770,7 @@ Build: v{1}</value>
     <value>142</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Moecounter appearance:</value>
+    <value>Aparência do Moecounter:</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
@@ -806,7 +806,7 @@ Build: v{1}</value>
     <value>143</value>
   </data>
   <data name="checkBox9.Text" xml:space="preserve">
-    <value>Launch the game immediately upon starting the launcher</value>
+    <value>Iniciar o jogo imediatamente ao abrir o launcher</value>
   </data>
   <data name="&gt;&gt;checkBox9.Name" xml:space="preserve">
     <value>checkBox9</value>
@@ -839,7 +839,7 @@ Build: v{1}</value>
     <value>146</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>ReShade type:</value>
+    <value>Tipo de ReShade:</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>

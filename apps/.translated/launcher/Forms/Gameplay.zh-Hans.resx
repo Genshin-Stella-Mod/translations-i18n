@@ -215,7 +215,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Read the documentation</value>
+    <value>阅读文档</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -245,7 +245,7 @@
     <value>96</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Gallery</value>
+    <value>图库</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -281,13 +281,13 @@
     <value>97</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Videos</value>
+    <value>视频</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Other videos</value>
+    <value>其他视频</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -320,7 +320,7 @@
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>关闭</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -407,7 +407,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Mini video gameplay</value>
+    <value>游戏视频小窗</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

@@ -550,7 +550,7 @@
     <value>78</value>
   </data>
   <data name="gameplay_LinkLabel.Text" xml:space="preserve">
-    <value>Gameplay</value>
+    <value>Gioco</value>
   </data>
   <data name="gameplay_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -710,7 +710,7 @@ Sarai in grado di usare le mods e goderti il gioco ancora di più, tutto in modo
     <value>104</value>
   </data>
   <data name="links_LinkLabel.Text" xml:space="preserve">
-    <value>Links</value>
+    <value>Link</value>
   </data>
   <data name="links_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -914,7 +914,7 @@ Sarai in grado di usare le mods e goderti il gioco ancora di più, tutto in modo
     <value>106</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Text" xml:space="preserve">
-    <value>Genshin Impact Launcher</value>
+    <value>Launcher di Genshin Impact</value>
   </data>
   <data name="runGiLauncher_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -995,7 +995,7 @@ Sarai in grado di usare le mods e goderti il gioco ancora di più, tutto in modo
     <value>131</value>
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
-    <value>Unlock FPS</value>
+    <value>Sblocca FPS</value>
   </data>
   <data name="unlockFps_checkBox.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopLeft</value>
@@ -1031,7 +1031,7 @@ Sarai in grado di usare le mods e goderti il gioco ancora di più, tutto in modo
     <value>130</value>
   </data>
   <data name="reshade_checkBox.Text" xml:space="preserve">
-    <value>Shaders</value>
+    <value>Shader</value>
   </data>
   <data name="reshade_checkBox.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopLeft</value>

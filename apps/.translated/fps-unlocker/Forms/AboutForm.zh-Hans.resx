@@ -141,7 +141,7 @@
     <value>AboutForm</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>If you need help or have any suggestions, please visit the official website:</value>
+    <value>如果您需要帮助或有任何建议，请访问官方网站：</value>
   </data>
   <data name="LabelDescription.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
@@ -185,13 +185,13 @@ v{0}</value>
     <value>537, 213</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>About</value>
+    <value>关于</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="LabelDescription.Text" xml:space="preserve">
-    <value>This program is a fork of 3473684/genshin-fps-unlock, modified for compatibility with Stella Mod. It is distributed under the same license as the original project.</value>
+    <value>本程序是 3473684/genshin-fps-unlock 的分支版本，经过修改以兼容 Stella Mod，并遵循与原项目相同的许可证发布。</value>
   </data>
   <data name="LabelDescription.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>

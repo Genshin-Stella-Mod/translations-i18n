@@ -313,7 +313,7 @@
     <value>13</value>
   </data>
   <data name="button4.Text" xml:space="preserve">
-    <value>--&gt; Send email &lt;--</value>
+    <value>--&gt; 发送邮件 &lt;--</value>
   </data>
   <data name="&gt;&gt;button4.Name" xml:space="preserve">
     <value>button4</value>
@@ -343,7 +343,7 @@
     <value>14</value>
   </data>
   <data name="button5.Text" xml:space="preserve">
-    <value>Sefinek Patron Center</value>
+    <value>Sefinek 赞助中心</value>
   </data>
   <data name="&gt;&gt;button5.Name" xml:space="preserve">
     <value>button5</value>

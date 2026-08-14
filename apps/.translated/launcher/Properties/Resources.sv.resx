@@ -228,7 +228,7 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
 {0}</value>
   </data>
   <data name="Default_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating, please wait...</value>
+    <value>Uppdaterar, vänta...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade-konfigurationsfilen hittades inte i:
@@ -309,10 +309,19 @@ Tack, och vi ses i spelet! Ha det så kul och njut. Skål!</value>
     <value>Laddar ner installationsfilen... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+    <value>Packar upp filer... {0} av {1} ({2} / {3})</value>
   </data>
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
-    <value>Deleting files... {0} from {1} ({2} / {3})</value>
+    <value>Tar bort filer... {0} av {1} ({2} / {3})</value>
+  </data>
+  <data name="RequiredFilesUpdater_Checking_" xml:space="preserve">
+    <value>Söker efter uppdateringar för nödvändiga modfiler... {0} / {1}</value>
+  </data>
+  <data name="RequiredFilesUpdater_FailedToCheck_" xml:space="preserve">
+    <value>Det gick inte att söka efter uppdateringar för nödvändiga modfiler: {0}</value>
+  </data>
+  <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
+    <value>{0} nödvändiga modfil(er) har uppdaterats till senaste versionen.</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Bakgrundsfilen hittades inte i '{0}'; ID: {1};</value>
@@ -392,7 +401,7 @@ Nuvarande förinställning:
     <value>Besök Discord-servern</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
-    <value>Support</value>
+    <value>Stöd oss</value>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
     <value>Lämna din feedback</value>
@@ -477,7 +486,7 @@ Nuvarande förinställning:
     <value>Väntar på DxDiag...</value>
   </data>
   <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
-    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
+    <value>Även om processen kan verka ha fastnat körs den fortfarande. Vänta ett ögonblick...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Komprimering av insamlade filer...</value>
@@ -498,7 +507,7 @@ Nuvarande förinställning:
     <value>Som ägare av de inlämnade loggarna har du fullständiga rättigheter till dem. Om du vill att vi ska ta bort dem från vår databas, vänligen kontakta utvecklaren och ange följande identifierare: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong. You can close this window.</value>
+    <value>Tyvärr gick något fel. Du kan stänga det här fönstret.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>Tyvärr, något gick fel under filuppladdningen. Vi ber om ursäkt för detta.
@@ -604,7 +613,7 @@ Din version: v{0} från {1}
 Ny version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
-    <value>ReShade Shaders - v{0}.zip</value>
+    <value>ReShade-shaders - v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
     <value>Stella-resurser – v{0}.zip</value>
@@ -693,12 +702,12 @@ Details:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>Ett kritiskt fel uppstod under autentiseringen. Kontakta utvecklaren genom att skicka in ett ärende på Sefinek Patroncenter (https://patrons.sefinek.net) eller genom att skicka ett e-postmeddelande till contact@sefinek.net.
 
-Details:
+Detaljer:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Vill du kontrollera statussidan nu på status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
     <value>Det gick inte att hämta listan över MoeCounter-teman. Försök igen senare.</value>
@@ -746,19 +755,19 @@ i enlighet med Stella Mods sekretesspolicy och licensavtal.</value>
     <value>Buggrapport i Stella Mod - {0}</value>
   </data>
   <data name="ReShadeStandardFileNotFound" xml:space="preserve">
-    <value>The standard ReShade DLL backup was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>Säkerhetskopian av standard-ReShade-DLL:n hittades inte. Installera om Stella Mod för att återställa saknade filer.</value>
   </data>
   <data name="ReShadeAddonFileNotFound" xml:space="preserve">
-    <value>The ReShade add-on support DLL was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>DLL-filen för ReShade-tilläggsstöd hittades inte. Installera om Stella Mod för att återställa saknade filer.</value>
   </data>
   <data name="ReShadeSwapFailed" xml:space="preserve">
-    <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
+    <value>Det gick inte att byta ReShade-variant. Filen kan vara i bruk eller åtkomsten nekas.</value>
   </data>
   <data name="Default_ReShadeVariantRecommendation" xml:space="preserve">
-    <value>You are a Stella Mod Plus subscriber, but you currently have the Regular ReShade version selected.
+    <value>Du är en Stella Mod Plus-prenumerant, men du har för närvarande den vanliga ReShade-versionen vald.
 
-Subscribers are recommended to use the "Full add-on support" variant for the best experience.
+Prenumeranter rekommenderas att använda varianten "Fullt tilläggsstöd" för bästa upplevelse.
 
-Would you like to switch now?</value>
+Vill du byta nu?</value>
   </data>
 </root>

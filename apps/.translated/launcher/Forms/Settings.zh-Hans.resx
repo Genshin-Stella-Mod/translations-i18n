@@ -172,7 +172,7 @@
     <value>82</value>
   </data>
   <data name="SettingsAndUtils.Text" xml:space="preserve">
-    <value>&gt;&gt; Settings &lt;&lt;</value>
+    <value>&gt;&gt; 设置 &lt;&lt;</value>
   </data>
   <data name="SettingsAndUtils.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -208,7 +208,7 @@
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>关闭</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -242,10 +242,10 @@
     <value>144</value>
   </data>
   <data name="checkBox11.Text" xml:space="preserve">
-    <value>Keep benefit ZIP files as backup (Stella Plus)</value>
+    <value>保留权益 ZIP 文件作为备份 (Stella Plus)</value>
   </data>
   <data name="checkBox11.ToolTip" xml:space="preserve">
-    <value>When enabled, downloaded benefit ZIP files will be kept in the '&lt;YOUR RESOURCES FOLDER&gt;\Temp files' folder after extraction. If you accidentally damage a mod or encounter other issues, you can easily restore its original version from the backup. If you do not plan to modify mods, you may disable this option to save disk space.</value>
+    <value>启用后，下载的权益 ZIP 文件在解压后会保存在 '&lt;您的资源文件夹&gt;\Temp files' 文件夹中。如果您不小心损坏了某个模组或遇到其他问题，可以轻松地从备份中恢复其原始版本。如果您不打算修改模组，可以禁用此选项以节省磁盘空间。</value>
   </data>
   <data name="&gt;&gt;checkBox11.Name" xml:space="preserve">
     <value>checkBox11</value>
@@ -284,7 +284,7 @@
     <value>DWM 视觉特效 *</value>
   </data>
   <data name="checkBox6.ToolTip" xml:space="preserve">
-    <value>Enables various Desktop Window Manager visual effects. Disabling this option may improve performance on older hardware.</value>
+    <value>启用桌面窗口管理器的各种视觉效果。禁用此选项可能会提升旧硬件的性能。</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -317,10 +317,10 @@
     <value>10</value>
   </data>
   <data name="checkBox10.Text" xml:space="preserve">
-    <value>Auto-fix 3DMigoto mods (Stella Plus)</value>
+    <value>自动修复 3DMigoto 模组 (Stella Plus)</value>
   </data>
   <data name="checkBox10.ToolTip" xml:space="preserve">
-    <value>Automatically fixes 3DMigoto mods on game launch.</value>
+    <value>游戏启动时自动修复 3DMigoto 模组。</value>
   </data>
   <data name="&gt;&gt;checkBox10.Name" xml:space="preserve">
     <value>checkBox10</value>
@@ -512,7 +512,7 @@
     <value>132</value>
   </data>
   <data name="checkBox1.Text" xml:space="preserve">
-    <value>Background music on startup</value>
+    <value>启动时播放背景音乐</value>
   </data>
   <data name="&gt;&gt;checkBox1.Name" xml:space="preserve">
     <value>checkBox1</value>
@@ -584,7 +584,7 @@
     <value>134</value>
   </data>
   <data name="checkBox3.Text" xml:space="preserve">
-    <value>Sound during launcher startup</value>
+    <value>启动器启动时播放音效</value>
   </data>
   <data name="&gt;&gt;checkBox3.Name" xml:space="preserve">
     <value>checkBox3</value>
@@ -720,7 +720,7 @@
     <value>139</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Enable WebView2 *</value>
+    <value>启用 WebView2 *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
@@ -771,7 +771,7 @@
     <value>142</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Moecounter appearance:</value>
+    <value>Moecounter 外观：</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
@@ -840,7 +840,7 @@
     <value>146</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>ReShade type:</value>
+    <value>ReShade 类型：</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -873,7 +873,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>设置</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

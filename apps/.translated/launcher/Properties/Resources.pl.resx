@@ -316,6 +316,15 @@ Dzięki i do zobaczenia w grze! Baw się dobrze i miłej zabawy. Trzymaj się!</
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
     <value>Usuwanie plików... {0} z {1} ({2} / {3})</value>
   </data>
+  <data name="RequiredFilesUpdater_Checking_" xml:space="preserve">
+    <value>Sprawdzanie aktualizacji wymaganych plików moda... {0} / {1}</value>
+  </data>
+  <data name="RequiredFilesUpdater_FailedToCheck_" xml:space="preserve">
+    <value>Nie udało się sprawdzić aktualizacji wymaganych plików moda: {0}</value>
+  </data>
+  <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
+    <value>Zaktualizowano {0} wymaganych plików moda do najnowszej wersji.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Nie znaleziono pliku tła w '{0}'; Identyfikator: {1};</value>
   </data>
