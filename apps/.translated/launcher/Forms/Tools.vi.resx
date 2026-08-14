@@ -148,7 +148,7 @@
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Đóng</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -241,7 +241,7 @@
     <value>82</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Tools and logs &lt;&lt;</value>
+    <value>&gt;&gt; Công cụ và nhật ký &lt;&lt;</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -400,7 +400,7 @@
     <value>88</value>
   </data>
   <data name="LogFiles.Text" xml:space="preserve">
-    <value>Log files</value>
+    <value>Tệp nhật ký</value>
   </data>
   <data name="LogFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -433,7 +433,7 @@
     <value>89</value>
   </data>
   <data name="ConfigFiles.Text" xml:space="preserve">
-    <value>Config files</value>
+    <value>Tệp cấu hình</value>
   </data>
   <data name="ConfigFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -475,7 +475,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeReShadeConfig.ToolTip" xml:space="preserve">
-    <value>Open ReShade.ini</value>
+    <value>Mở ReShade.ini</value>
   </data>
   <data name="&gt;&gt;SeeReShadeConfig.Name" xml:space="preserve">
     <value>SeeReShadeConfig</value>
@@ -541,7 +541,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
-    <value>Open unlocker.config.json</value>
+    <value>Mở unlocker.config.json</value>
   </data>
   <data name="&gt;&gt;SeeFPSUnlockerConfig.Name" xml:space="preserve">
     <value>SeeFPSUnlockerConfig</value>
@@ -607,13 +607,13 @@
     <value>124</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open the configuration window</value>
+    <value>Mở cửa sổ cấu hình</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Cấu hình lại Stella Mod</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -649,13 +649,13 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create or update shortcuts</value>
+    <value>Tạo hoặc cập nhật lối tắt</value>
   </data>
   <data name="CreateShortcut.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
+    <value>Cập nhật lối tắt cho Stella Mod Launcher (trừ lối tắt trên thanh tác vụ). Hữu ích nếu bạn vô tình xóa lối tắt Stella Mod khỏi màn hình nền và muốn khôi phục lại.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -688,13 +688,13 @@
     <value>128</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Configure ReShade</value>
+    <value>Cấu hình ReShade</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Tự động cấu hình ReShade và thiết lập các đường dẫn thư mục phù hợp</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -727,13 +727,13 @@
     <value>135</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Clear the cache</value>
+    <value>Xóa bộ nhớ đệm</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Clear ReShade cache, 3DMigoto, temporary files, WebView2 cache, and %temp%</value>
+    <value>Xóa bộ nhớ đệm ReShade, 3DMigoto, các tệp tạm thời, bộ nhớ đệm WebView2 và %temp%</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -766,13 +766,13 @@
     <value>139</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>Path validation</value>
+    <value>Xác thực đường dẫn</value>
   </data>
   <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel7.ToolTip" xml:space="preserve">
-    <value>Validate the paths. This tool only verifies Stella Mod dependencies, not the presence of launcher files.</value>
+    <value>Xác thực các đường dẫn. Công cụ này chỉ kiểm tra các phần phụ thuộc của Stella Mod, không kiểm tra sự tồn tại của các tệp launcher.</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -802,18 +802,18 @@
     <value>141</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Stella Mod launches: {0}
-Game environment: {1}
-HYP version: {2}
+    <value>Số lần khởi chạy Stella Mod: {0}
+Môi trường game: {1}
+Phiên bản HYP: {2}
 GameBiz: {3}
-Language in the game: {4}
-Region: {5}</value>
+Ngôn ngữ trong game: {4}
+Khu vực: {5}</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="label5.ToolTip" xml:space="preserve">
-    <value>Game data from the system registry</value>
+    <value>Dữ liệu game từ registry hệ thống</value>
   </data>
   <data name="&gt;&gt;label5.Name" xml:space="preserve">
     <value>label5</value>
@@ -846,18 +846,18 @@ Region: {5}</value>
     <value>146</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>Keyboard Shortcuts:
-ALT + 1: Minimize Stella Mod
-ALT + 2: Refresh all active application windows
-ALT + 3: Restart the application
+    <value>Phím tắt:
+ALT + 1: Thu nhỏ Stella Mod
+ALT + 2: Làm mới tất cả các cửa sổ ứng dụng đang hoạt động
+ALT + 3: Khởi động lại ứng dụng
 
-You can also press ESC to close the dialog window.</value>
+Bạn cũng có thể nhấn ESC để đóng cửa sổ hộp thoại.</value>
   </data>
   <data name="label6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="label6.ToolTip" xml:space="preserve">
-    <value>Keyboard shortcuts available in Stella Mod Launcher</value>
+    <value>Phím tắt có sẵn trong Stella Mod Launcher</value>
   </data>
   <data name="&gt;&gt;label6.Name" xml:space="preserve">
     <value>label6</value>
@@ -893,13 +893,13 @@ You can also press ESC to close the dialog window.</value>
     <value>130</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>3DMigoto d3dx.ini file</value>
+    <value>Tệp d3dx.ini của 3DMigoto</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Open d3dx.ini</value>
+    <value>Mở d3dx.ini</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -935,13 +935,13 @@ You can also press ESC to close the dialog window.</value>
     <value>132</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>3DMigoto d3dx_user.ini file</value>
+    <value>Tệp d3dx_user.ini của 3DMigoto</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Open d3dx_user.ini</value>
+    <value>Mở d3dx_user.ini</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -1064,7 +1064,7 @@ You can also press ESC to close the dialog window.</value>
     <value>107</value>
   </data>
   <data name="logDir_Label.Text" xml:space="preserve">
-    <value>View directory</value>
+    <value>Xem thư mục</value>
   </data>
   <data name="logDir_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1313,7 +1313,7 @@ You can also press ESC to close the dialog window.</value>
     <value>134</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Miscellaneous</value>
+    <value>Khác</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1409,7 +1409,7 @@ You can also press ESC to close the dialog window.</value>
     <value>137</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>View app data</value>
+    <value>Xem dữ liệu ứng dụng</value>
   </data>
   <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1505,7 +1505,7 @@ You can also press ESC to close the dialog window.</value>
     <value>142</value>
   </data>
   <data name="linkLabel8.Text" xml:space="preserve">
-    <value>Open main game folder</value>
+    <value>Mở thư mục game chính</value>
   </data>
   <data name="linkLabel8.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1571,7 +1571,7 @@ You can also press ESC to close the dialog window.</value>
     <value>144</value>
   </data>
   <data name="linkLabel9.Text" xml:space="preserve">
-    <value>Open game data folder</value>
+    <value>Mở thư mục dữ liệu game</value>
   </data>
   <data name="linkLabel9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1607,7 +1607,7 @@ You can also press ESC to close the dialog window.</value>
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Tools</value>
+    <value>Công cụ</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

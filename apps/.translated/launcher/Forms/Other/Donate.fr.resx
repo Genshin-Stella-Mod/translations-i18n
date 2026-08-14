@@ -201,7 +201,7 @@ S'il-vous-plait notez que un abonnement à Stella Plus est concidéré comme un 
     <value>15</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>✔️ Sure, I can</value>
+    <value>✔️ Bien sûr, je peux</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -357,7 +357,7 @@ S'il-vous-plait notez que un abonnement à Stella Plus est concidéré comme un 
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave a review on Trustpilot</value>
+    <value>» Laisser un avis sur Trustpilot</value>
   </data>
   <data name="linkLabel10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -429,7 +429,7 @@ S'il-vous-plait notez que un abonnement à Stella Plus est concidéré comme un 
     <value>24</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>» Join our Discord server</value>
+    <value>» Rejoindre notre serveur Discord</value>
   </data>
   <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -498,7 +498,7 @@ S'il-vous-plait notez que un abonnement à Stella Plus est concidéré comme un 
     <value>27</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Do you want to subscribe to Stella Mod Plus?</value>
+    <value>Voulez-vous vous abonner à Stella Mod Plus ?</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>

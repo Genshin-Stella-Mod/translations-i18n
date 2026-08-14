@@ -172,7 +172,7 @@
     <value>90</value>
   </data>
   <data name="viewChangelog_LinkLabel.Text" xml:space="preserve">
-    <value>View changelog</value>
+    <value>Ver lista de cambios</value>
   </data>
   <data name="viewChangelog_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -514,7 +514,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need support, have questions, or want to share feedback about the Stella Mod. Please note that the server is strictly for discussions related to the mod (it is not a general community hub).</value>
+    <value>Únete a nuestro servidor de Discord si necesitas soporte, tienes preguntas o quieres compartir comentarios sobre Stella Mod. Ten en cuenta que el servidor es exclusivamente para debates relacionados con el mod (no es un centro comunitario general).</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -550,7 +550,7 @@
     <value>78</value>
   </data>
   <data name="gameplay_LinkLabel.Text" xml:space="preserve">
-    <value>Gameplay</value>
+    <value>Jugabilidad</value>
   </data>
   <data name="gameplay_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -710,7 +710,7 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
     <value>104</value>
   </data>
   <data name="links_LinkLabel.Text" xml:space="preserve">
-    <value>Links</value>
+    <value>Enlaces</value>
   </data>
   <data name="links_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -842,7 +842,7 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Enjoying this project? Support it to keep it alive!</value>
+    <value>¿Te gusta este proyecto? ¡Apóyalo para mantenerlo activo!</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -914,7 +914,7 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
     <value>106</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Text" xml:space="preserve">
-    <value>Genshin Impact Launcher</value>
+    <value>Launcher de Genshin Impact</value>
   </data>
   <data name="runGiLauncher_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -962,7 +962,7 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
     <value>TopLeft</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Want to get even more fun out of your game? Make it more exciting than ever before with mods tailored to your own preferences, completely safe! We do not use GIMI.</value>
+    <value>¿Quieres divertirte aún más con tu juego? Hazlo más emocionante que nunca con mods adaptados a tus propias preferencias, ¡totalmente seguro! No utilizamos GIMI.</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>

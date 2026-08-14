@@ -148,7 +148,7 @@
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Schließen</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -241,7 +241,7 @@
     <value>82</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Tools and logs &lt;&lt;</value>
+    <value>&gt;&gt; Werkzeuge und Protokolle &lt;&lt;</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -400,7 +400,7 @@
     <value>88</value>
   </data>
   <data name="LogFiles.Text" xml:space="preserve">
-    <value>Log files</value>
+    <value>Protokolldateien</value>
   </data>
   <data name="LogFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -433,7 +433,7 @@
     <value>89</value>
   </data>
   <data name="ConfigFiles.Text" xml:space="preserve">
-    <value>Config files</value>
+    <value>Konfigurationsdateien</value>
   </data>
   <data name="ConfigFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -475,7 +475,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeReShadeConfig.ToolTip" xml:space="preserve">
-    <value>Open ReShade.ini</value>
+    <value>ReShade.ini öffnen</value>
   </data>
   <data name="&gt;&gt;SeeReShadeConfig.Name" xml:space="preserve">
     <value>SeeReShadeConfig</value>
@@ -541,7 +541,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
-    <value>Open unlocker.config.json</value>
+    <value>unlocker.config.json öffnen</value>
   </data>
   <data name="&gt;&gt;SeeFPSUnlockerConfig.Name" xml:space="preserve">
     <value>SeeFPSUnlockerConfig</value>
@@ -607,13 +607,13 @@
     <value>124</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open the configuration window</value>
+    <value>Das Konfigurationsfenster öffnen</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Stella Mod erneut konfigurieren</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -649,13 +649,13 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create or update shortcuts</value>
+    <value>Verknüpfungen erstellen oder aktualisieren</value>
   </data>
   <data name="CreateShortcut.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
+    <value>Aktualisiert die Verknüpfungen für Stella Mod Launcher (außer der in der Taskleiste). Nützlich, wenn Sie versehentlich die Stella Mod-Verknüpfung von Ihrem Desktop gelöscht haben und sie wiederherstellen möchten.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -688,13 +688,13 @@
     <value>128</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Configure ReShade</value>
+    <value>ReShade konfigurieren</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>ReShade automatisch konfigurieren und die entsprechenden Verzeichnispfade festlegen</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -727,13 +727,13 @@
     <value>135</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Clear the cache</value>
+    <value>Cache leeren</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Clear ReShade cache, 3DMigoto, temporary files, WebView2 cache, and %temp%</value>
+    <value>ReShade-Cache, 3DMigoto, temporäre Dateien, WebView2-Cache und %temp% löschen</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -766,13 +766,13 @@
     <value>139</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>Path validation</value>
+    <value>Pfadvalidierung</value>
   </data>
   <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel7.ToolTip" xml:space="preserve">
-    <value>Validate the paths. This tool only verifies Stella Mod dependencies, not the presence of launcher files.</value>
+    <value>Die Pfade überprüfen. Dieses Werkzeug prüft nur die Abhängigkeiten von Stella Mod, nicht das Vorhandensein von Launcher-Dateien.</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -802,18 +802,18 @@
     <value>141</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Stella Mod launches: {0}
-Game environment: {1}
-HYP version: {2}
+    <value>Stella Mod-Starts: {0}
+Spielumgebung: {1}
+HYP-Version: {2}
 GameBiz: {3}
-Language in the game: {4}
+Sprache im Spiel: {4}
 Region: {5}</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="label5.ToolTip" xml:space="preserve">
-    <value>Game data from the system registry</value>
+    <value>Spieldaten aus der Systemregistrierung</value>
   </data>
   <data name="&gt;&gt;label5.Name" xml:space="preserve">
     <value>label5</value>
@@ -846,18 +846,18 @@ Region: {5}</value>
     <value>146</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>Keyboard Shortcuts:
-ALT + 1: Minimize Stella Mod
-ALT + 2: Refresh all active application windows
-ALT + 3: Restart the application
+    <value>Tastenkombinationen:
+ALT + 1: Stella Mod minimieren
+ALT + 2: Alle aktiven Anwendungsfenster aktualisieren
+ALT + 3: Anwendung neu starten
 
-You can also press ESC to close the dialog window.</value>
+Sie können auch ESC drücken, um das Dialogfenster zu schließen.</value>
   </data>
   <data name="label6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="label6.ToolTip" xml:space="preserve">
-    <value>Keyboard shortcuts available in Stella Mod Launcher</value>
+    <value>In Stella Mod Launcher verfügbare Tastenkombinationen</value>
   </data>
   <data name="&gt;&gt;label6.Name" xml:space="preserve">
     <value>label6</value>
@@ -893,13 +893,13 @@ You can also press ESC to close the dialog window.</value>
     <value>130</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>3DMigoto d3dx.ini file</value>
+    <value>3DMigoto d3dx.ini-Datei</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Open d3dx.ini</value>
+    <value>d3dx.ini öffnen</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -935,13 +935,13 @@ You can also press ESC to close the dialog window.</value>
     <value>132</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>3DMigoto d3dx_user.ini file</value>
+    <value>3DMigoto d3dx_user.ini-Datei</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Open d3dx_user.ini</value>
+    <value>d3dx_user.ini öffnen</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -1064,7 +1064,7 @@ You can also press ESC to close the dialog window.</value>
     <value>107</value>
   </data>
   <data name="logDir_Label.Text" xml:space="preserve">
-    <value>View directory</value>
+    <value>Verzeichnis anzeigen</value>
   </data>
   <data name="logDir_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1313,7 +1313,7 @@ You can also press ESC to close the dialog window.</value>
     <value>134</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Miscellaneous</value>
+    <value>Verschiedenes</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1409,7 +1409,7 @@ You can also press ESC to close the dialog window.</value>
     <value>137</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>View app data</value>
+    <value>App-Daten anzeigen</value>
   </data>
   <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1505,7 +1505,7 @@ You can also press ESC to close the dialog window.</value>
     <value>142</value>
   </data>
   <data name="linkLabel8.Text" xml:space="preserve">
-    <value>Open main game folder</value>
+    <value>Hauptspielordner öffnen</value>
   </data>
   <data name="linkLabel8.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1571,7 +1571,7 @@ You can also press ESC to close the dialog window.</value>
     <value>144</value>
   </data>
   <data name="linkLabel9.Text" xml:space="preserve">
-    <value>Open game data folder</value>
+    <value>Spieldatenordner öffnen</value>
   </data>
   <data name="linkLabel9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1607,7 +1607,7 @@ You can also press ESC to close the dialog window.</value>
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Tools</value>
+    <value>Werkzeuge</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

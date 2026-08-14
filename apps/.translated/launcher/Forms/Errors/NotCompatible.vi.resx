@@ -163,7 +163,7 @@
     <value>2</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>A new major update is now available!</value>
+    <value>Đã có bản cập nhật lớn mới!</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -196,7 +196,7 @@
     <value>3</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Your version is incompatible with the new one. Please reinstall the software. Ensure you have the latest version of your operating system.</value>
+    <value>Phiên bản của bạn không tương thích với phiên bản mới. Vui lòng cài đặt lại phần mềm. Đảm bảo bạn đang sử dụng phiên bản mới nhất của hệ điều hành.</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -229,7 +229,7 @@
     <value>4</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>&gt;&gt; Go to the official website and download the latest setup &lt;&lt;</value>
+    <value>&gt;&gt; Truy cập trang web chính thức và tải xuống bản cài đặt mới nhất &lt;&lt;</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -286,7 +286,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Major update</value>
+    <value>Cập nhật lớn</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>NotCompatible</value>

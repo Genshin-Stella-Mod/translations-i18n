@@ -191,7 +191,7 @@ v{0}</value>
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="LabelDescription.Text" xml:space="preserve">
-    <value>This program is a fork of 3473684/genshin-fps-unlock, modified for compatibility with Stella Mod. It is distributed under the same license as the original project.</value>
+    <value>هذا البرنامج هو نسخة متفرعة من 3473684/genshin-fps-unlock، تم تعديله ليتوافق مع Stella Mod. يتم توزيعه بموجب نفس ترخيص المشروع الأصلي.</value>
   </data>
   <data name="LabelDescription.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>

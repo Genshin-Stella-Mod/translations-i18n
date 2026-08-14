@@ -163,7 +163,7 @@
     <value>1</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Waiting...</value>
+    <value>等待中...</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -232,7 +232,7 @@
     <value>6</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>We are constantly working to make Genshin Stella Mod even better for everyone. Today, we have a small but significant request for you. Would you consider sending us anonymous usage logs of Stella Mod? This gesture would play a crucial role in our ongoing efforts to improve and optimize the application. We assure you that no sensitive data will be sent to our servers. Only log files and hardware data will be uploaded to the server. What do you think? Pleaseee :3</value>
+    <value>我們一直在努力讓 Genshin Stella Mod 對每個人來說變得更好。今天，我們想向您提出一個小小但重要的請求：您是否願意向我們傳送 Stella Mod 的匿名使用記錄？這將對我們持續改進與最佳化應用程式發揮重要作用。我們向您保證，不會有任何敏感資料傳送到我們的伺服器，只會上傳記錄檔案和硬體資料。您意下如何？拜託啦 :3</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -265,7 +265,7 @@
     <value>7</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>✔ Okay, lets go!</value>
+    <value>✔ 好的，開始吧！</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -301,7 +301,7 @@
     <value>8</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>❌ Not this time...</value>
+    <value>❌ 這次不了……</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -337,7 +337,7 @@
     <value>9</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>No, don't ask me again</value>
+    <value>不，不要再問我</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -400,7 +400,7 @@
     <value>11</value>
   </data>
   <data name="showMeUploadedFiles.Text" xml:space="preserve">
-    <value>Show me uploaded files</value>
+    <value>查看已上傳的檔案</value>
   </data>
   <data name="showMeUploadedFiles.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -430,7 +430,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Upload logs</value>
+    <value>上傳記錄</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>UploadLogs</value>

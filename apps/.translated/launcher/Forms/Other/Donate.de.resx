@@ -136,8 +136,8 @@
     <value>17</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>This software receives regular updates thanks to the support of Stella Mod Plus users. By subscribing, you unlock various game enhancements, including access to mods, add-ons, reliable shaders, new presets, mod collections, and much more! Elevate your Genshin Impact experience today!
-Please note that a Stella Plus subscription is considered voluntary support and not a product purchase. It is also important to be aware that we do not use GIMI!</value>
+    <value>Diese Software erhält regelmäßige Updates dank der Unterstützung von Stella Mod Plus-Nutzern. Durch ein Abonnement schalten Sie verschiedene Spielverbesserungen frei, darunter Zugang zu Mods, Add-ons, zuverlässige Shader, neue Presets, Mod-Sammlungen und vieles mehr! Verbessern Sie Ihr Genshin Impact-Erlebnis noch heute!
+Bitte beachten Sie, dass ein Stella Plus-Abonnement als freiwillige Unterstützung gilt und kein Produktkauf ist. Wichtig ist auch zu wissen, dass wir kein GIMI verwenden!</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -167,7 +167,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>16</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>❌ Not this time</value>
+    <value>❌ Diesmal nicht</value>
   </data>
   <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -200,7 +200,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>15</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>✔️ Sure, I can</value>
+    <value>✔️ Klar, kann ich</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -236,7 +236,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>10</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>If you like this project, please...</value>
+    <value>Wenn Ihnen dieses Projekt gefällt, dann bitte...</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -275,7 +275,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>22</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>» Subscribe my YouTube channel</value>
+    <value>» Abonniere meinen YouTube-Kanal</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -314,13 +314,13 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>23</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>» Star the repository on GitHub</value>
+    <value>» Gib dem Repository auf GitHub einen Stern</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Repositories - Genshin Stella Mod</value>
+    <value>Repositorys - Genshin Stella Mod</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -356,13 +356,13 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave a review on Trustpilot</value>
+    <value>» Hinterlasse eine Bewertung auf Trustpilot</value>
   </data>
   <data name="linkLabel10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel10.ToolTip" xml:space="preserve">
-    <value>Stella Mod Launcher Reviews | Read Customer Service Reviews of stella.sefinek.net</value>
+    <value>Stella Mod Launcher Bewertungen | Kundenservice-Bewertungen von stella.sefinek.net lesen</value>
   </data>
   <data name="&gt;&gt;linkLabel10.Name" xml:space="preserve">
     <value>linkLabel10</value>
@@ -395,7 +395,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Schließen</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -428,7 +428,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>24</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>» Join our Discord server</value>
+    <value>» Tritt unserem Discord-Server bei</value>
   </data>
   <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -464,7 +464,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>21</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>» Support this project by clicking here</value>
+    <value>» Unterstütze dieses Projekt, indem du hier klickst</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -497,7 +497,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>27</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Do you want to subscribe to Stella Mod Plus?</value>
+    <value>Möchtest du Stella Mod Plus abonnieren?</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -563,7 +563,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>CenterParent</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Support the creator</value>
+    <value>Den Ersteller unterstützen</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

@@ -139,7 +139,7 @@
     <value>8</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Your device is banned</value>
+    <value>您的裝置已被封鎖</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -175,7 +175,7 @@
     <value>9</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Unfortunately, you do not have access to this software because your device has been banned. Please contact the developer for more information and assistance regarding this issue.</value>
+    <value>很遺憾，由於您的裝置已被封鎖，您無法使用此軟體。如需更多資訊或協助，請聯絡開發者。</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -238,7 +238,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Device banned</value>
+    <value>裝置已被封鎖</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>BannedM</value>

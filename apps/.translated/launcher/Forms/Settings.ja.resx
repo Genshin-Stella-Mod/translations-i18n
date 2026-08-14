@@ -172,7 +172,7 @@
     <value>82</value>
   </data>
   <data name="SettingsAndUtils.Text" xml:space="preserve">
-    <value>&gt;&gt; Settings &lt;&lt;</value>
+    <value>&gt;&gt; 設定 &lt;&lt;</value>
   </data>
   <data name="SettingsAndUtils.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -208,7 +208,7 @@
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>閉じる</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -242,10 +242,10 @@
     <value>144</value>
   </data>
   <data name="checkBox11.Text" xml:space="preserve">
-    <value>Keep benefit ZIP files as backup (Stella Plus)</value>
+    <value>特典 ZIP ファイルをバックアップとして保持する (Stella Plus)</value>
   </data>
   <data name="checkBox11.ToolTip" xml:space="preserve">
-    <value>When enabled, downloaded benefit ZIP files will be kept in the '&lt;YOUR RESOURCES FOLDER&gt;\Temp files' folder after extraction. If you accidentally damage a mod or encounter other issues, you can easily restore its original version from the backup. If you do not plan to modify mods, you may disable this option to save disk space.</value>
+    <value>有効にすると、ダウンロードした特典 ZIP ファイルは展開後に '&lt;リソースフォルダー&gt;\Temp files' フォルダーに保持されます。誤って Mod を破損させたり、その他の問題が発生した場合でも、バックアップから元のバージョンを簡単に復元できます。Mod を変更する予定がない場合は、このオプションを無効にしてディスク容量を節約できます。</value>
   </data>
   <data name="&gt;&gt;checkBox11.Name" xml:space="preserve">
     <value>checkBox11</value>
@@ -281,10 +281,10 @@
     <value>136</value>
   </data>
   <data name="checkBox6.Text" xml:space="preserve">
-    <value>DWM Effects *</value>
+    <value>DWM 効果 *</value>
   </data>
   <data name="checkBox6.ToolTip" xml:space="preserve">
-    <value>Enables various Desktop Window Manager visual effects. Disabling this option may improve performance on older hardware.</value>
+    <value>Desktop Window Manager のさまざまな視覚効果を有効にします。このオプションを無効にすると、古いハードウェアでのパフォーマンスが向上する場合があります。</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -317,10 +317,10 @@
     <value>10</value>
   </data>
   <data name="checkBox10.Text" xml:space="preserve">
-    <value>Auto-fix 3DMigoto mods (Stella Plus)</value>
+    <value>3DMigoto Mod を自動修正する (Stella Plus)</value>
   </data>
   <data name="checkBox10.ToolTip" xml:space="preserve">
-    <value>Automatically fixes 3DMigoto mods on game launch.</value>
+    <value>ゲーム起動時に 3DMigoto Mod を自動的に修正します。</value>
   </data>
   <data name="&gt;&gt;checkBox10.Name" xml:space="preserve">
     <value>checkBox10</value>
@@ -335,10 +335,10 @@
     <value>3</value>
   </data>
   <data name="comboBox2.Items" xml:space="preserve">
-    <value>Regular (recommended)</value>
+    <value>通常（推奨）</value>
   </data>
   <data name="comboBox2.Items1" xml:space="preserve">
-    <value>Full add-on support</value>
+    <value>フルアドオンサポート</value>
   </data>
   <data name="comboBox2.Location" type="System.Drawing.Point, System.Drawing">
     <value>632, 182</value>
@@ -350,8 +350,8 @@
     <value>145</value>
   </data>
   <data name="comboBox2.ToolTip" xml:space="preserve">
-    <value>Regular: Lightweight version best suited for users sticking with default Stella Mod presets.
-Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Required for Stella Plus subscribers.</value>
+    <value>通常：Stella Mod の既定のプリセットを使い続けるユーザーに最適な軽量版です。
+フルアドオンサポート：アドオンとデプスバッファーを解除し、高度な調整が可能です。Stella Plus 登録者には必須です。</value>
   </data>
   <data name="&gt;&gt;comboBox2.Name" xml:space="preserve">
     <value>comboBox2</value>
@@ -381,7 +381,7 @@ Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Requi
     <value>117</value>
   </data>
   <data name="changeTheLanguageLabel.Text" xml:space="preserve">
-    <value>Change language in Stella Mod</value>
+    <value>Stella Mod の言語を変更する</value>
   </data>
   <data name="&gt;&gt;changeTheLanguageLabel.Name" xml:space="preserve">
     <value>changeTheLanguageLabel</value>
@@ -438,8 +438,8 @@ Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Requi
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Installed version: v{0}
-Build: v{1}</value>
+    <value>インストール済みバージョン：v{0}
+ビルド：v{1}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -511,7 +511,7 @@ Build: v{1}</value>
     <value>132</value>
   </data>
   <data name="checkBox1.Text" xml:space="preserve">
-    <value>Background music on startup</value>
+    <value>起動時にバックグラウンドミュージックを再生する</value>
   </data>
   <data name="&gt;&gt;checkBox1.Name" xml:space="preserve">
     <value>checkBox1</value>
@@ -547,7 +547,7 @@ Build: v{1}</value>
     <value>133</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
-    <value>Sounds in the launcher</value>
+    <value>ランチャー内のサウンド</value>
   </data>
   <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
     <value>checkBox2</value>
@@ -583,7 +583,7 @@ Build: v{1}</value>
     <value>134</value>
   </data>
   <data name="checkBox3.Text" xml:space="preserve">
-    <value>Sound during launcher startup</value>
+    <value>ランチャー起動時にサウンドを再生する</value>
   </data>
   <data name="&gt;&gt;checkBox3.Name" xml:space="preserve">
     <value>checkBox3</value>
@@ -652,8 +652,8 @@ Build: v{1}</value>
     <value>137</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>* Changing the settings may require restarting the application.
-* Hover over a setting to learn more about it.</value>
+    <value>* 設定を変更すると、アプリケーションの再起動が必要になる場合があります。
+* 設定にマウスカーソルを合わせると、詳細を確認できます。</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -719,7 +719,7 @@ Build: v{1}</value>
     <value>139</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Enable WebView2 *</value>
+    <value>WebView2 を有効にする *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
@@ -770,7 +770,7 @@ Build: v{1}</value>
     <value>142</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Moecounter appearance:</value>
+    <value>Moecounter の外観：</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
@@ -806,7 +806,7 @@ Build: v{1}</value>
     <value>143</value>
   </data>
   <data name="checkBox9.Text" xml:space="preserve">
-    <value>Launch the game immediately upon starting the launcher</value>
+    <value>ランチャー起動時にすぐにゲームを起動する</value>
   </data>
   <data name="&gt;&gt;checkBox9.Name" xml:space="preserve">
     <value>checkBox9</value>
@@ -839,7 +839,7 @@ Build: v{1}</value>
     <value>146</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>ReShade type:</value>
+    <value>ReShade の種類：</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -872,7 +872,7 @@ Build: v{1}</value>
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>設定</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

@@ -136,7 +136,7 @@
     <value>7</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Sorry, something went wrong</value>
+    <value>申し訳ございません、問題が発生しました</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -169,7 +169,7 @@
     <value>6</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Please report any issues. Click Send email to send the error information to the developer. The email content will be filled in automatically. Thank you.</value>
+    <value>問題がございましたらご報告ください。「メールを送信」をクリックすると、エラー情報が開発者に送信されます。メールの内容は自動的に入力されます。ありがとうございます。</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -199,7 +199,7 @@
     <value>11</value>
   </data>
   <data name="button3.Text" xml:space="preserve">
-    <value>See debug logs</value>
+    <value>デバッグログを見る</value>
   </data>
   <data name="&gt;&gt;button3.Name" xml:space="preserve">
     <value>button3</value>
@@ -226,7 +226,7 @@
     <value>10</value>
   </data>
   <data name="button2.Text" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Discord サーバー</value>
   </data>
   <data name="&gt;&gt;button2.Name" xml:space="preserve">
     <value>button2</value>
@@ -253,7 +253,7 @@
     <value>9</value>
   </data>
   <data name="button1.Text" xml:space="preserve">
-    <value>Reinstall Stella Mod</value>
+    <value>Stella Mod を再インストールする</value>
   </data>
   <data name="&gt;&gt;button1.Name" xml:space="preserve">
     <value>button1</value>
@@ -313,7 +313,7 @@
     <value>13</value>
   </data>
   <data name="button4.Text" xml:space="preserve">
-    <value>--&gt; Send email &lt;--</value>
+    <value>--&gt; メールを送信 &lt;--</value>
   </data>
   <data name="&gt;&gt;button4.Name" xml:space="preserve">
     <value>button4</value>
@@ -343,7 +343,7 @@
     <value>14</value>
   </data>
   <data name="button5.Text" xml:space="preserve">
-    <value>Sefinek Patron Center</value>
+    <value>Sefinek パトロンセンター</value>
   </data>
   <data name="&gt;&gt;button5.Name" xml:space="preserve">
     <value>button5</value>
@@ -370,7 +370,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Something went wrong</value>
+    <value>問題が発生しました</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>ErrorOccurred</value>

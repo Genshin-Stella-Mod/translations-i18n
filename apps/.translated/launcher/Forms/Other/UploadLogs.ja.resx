@@ -163,7 +163,7 @@
     <value>1</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Waiting...</value>
+    <value>待機中...</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -232,7 +232,7 @@
     <value>6</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>We are constantly working to make Genshin Stella Mod even better for everyone. Today, we have a small but significant request for you. Would you consider sending us anonymous usage logs of Stella Mod? This gesture would play a crucial role in our ongoing efforts to improve and optimize the application. We assure you that no sensitive data will be sent to our servers. Only log files and hardware data will be uploaded to the server. What do you think? Pleaseee :3</value>
+    <value>私たちは、皆様にとって Genshin Stella Mod をより良いものにするため、日々努力を続けています。本日は、小さいながらも重要なお願いがございます。Stella Mod の匿名の使用ログを送信していただけますでしょうか？このご協力は、私たちがアプリケーションの改善と最適化を継続していく上で重要な役割を果たします。機密データが当方のサーバーに送信されることは一切ないことをお約束いたします。サーバーにアップロードされるのはログファイルとハードウェアデータのみです。いかがでしょうか？どうかお願いします :3</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -265,7 +265,7 @@
     <value>7</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>✔ Okay, lets go!</value>
+    <value>✔ わかりました、始めましょう！</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -301,7 +301,7 @@
     <value>8</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>❌ Not this time...</value>
+    <value>❌ 今回は見送る...</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -337,7 +337,7 @@
     <value>9</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>No, don't ask me again</value>
+    <value>いいえ、今後は表示しない</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -400,7 +400,7 @@
     <value>11</value>
   </data>
   <data name="showMeUploadedFiles.Text" xml:space="preserve">
-    <value>Show me uploaded files</value>
+    <value>アップロード済みファイルを表示する</value>
   </data>
   <data name="showMeUploadedFiles.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -430,7 +430,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Upload logs</value>
+    <value>ログをアップロード</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>UploadLogs</value>

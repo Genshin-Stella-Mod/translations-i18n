@@ -170,7 +170,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Path validation</value>
+    <value>Pfadvalidierung</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>PathValidation</value>

@@ -118,203 +118,203 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cmd_UpdateIsRequired" xml:space="preserve">
-    <value>An update is required.
+    <value>يلزم إجراء تحديث.
 
-We apologize for any inconvenience, but it is necessary to install every new update. These updates may include quality improvements, and some may even contain critical security fixes.
+نعتذر عن أي إزعاج، ولكن يجب تثبيت كل تحديث جديد. قد تتضمن هذه التحديثات تحسينات في الجودة، وقد يحتوي بعضها حتى على إصلاحات أمنية مهمة.
 
-If, for any reason, you are unable to update Stella Mod using the Launcher, please uninstall the current version and install the new one from the official website.</value>
+إذا لم تتمكن، لأي سبب من الأسباب، من تحديث Stella Mod باستخدام المشغّل، يُرجى إلغاء تثبيت الإصدار الحالي وتثبيت الإصدار الجديد من الموقع الرسمي.</value>
   </data>
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Run the official launcher for Genshin Stella Mod.</value>
+    <value>تشغيل المشغّل الرسمي لـ Genshin Stella Mod.</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
-    <value>Checking for updates...</value>
+    <value>جارٍ التحقق من التحديثات...</value>
   </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
-    <value>We've renamed your resource folder by adding '{0}' to the end.</value>
+    <value>قمنا بإعادة تسمية مجلد الموارد الخاص بك عن طريق إضافة '{0}' في النهاية.</value>
   </data>
   <data name="Default_ResourceDirNotFound" xml:space="preserve">
-    <value>Resource directory not found. In newer versions of Stella Mod, saving paths has been moved to the registry. If you have just updated the software, click OK. The configuration window will be launched.</value>
+    <value>لم يتم العثور على دليل الموارد. في الإصدارات الأحدث من Stella Mod، تم نقل حفظ المسارات إلى سجل النظام. إذا كنت قد قمت للتو بتحديث البرنامج، انقر فوق موافق. سيتم تشغيل نافذة الإعداد.</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
-    <value>Downloading benefits update... {0} / {1}</value>
+    <value>جارٍ تنزيل تحديث المزايا... {0} / {1}</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
-    <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
+    <value>تم تحديث تعديلات 3DMigoto بنجاح لمشتركي Stella Plus.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
-    <value>Reading the documentation</value>
+    <value>جارٍ قراءة التوثيق</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
-    <value>Uploading Stella Logs</value>
+    <value>جارٍ تحميل سجلات Stella</value>
   </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
-    <value>In the main window</value>
+    <value>في النافذة الرئيسية</value>
   </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
-    <value>Major version is available</value>
+    <value>يتوفر إصدار رئيسي</value>
   </data>
   <data name="Default_CheckForUpdates" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>التحقق من التحديثات</value>
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
-    <value>Click here to update</value>
+    <value>انقر هنا للتحديث</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
-    <value>Official website</value>
+    <value>الموقع الرسمي</value>
   </data>
   <data name="Default_Online_" xml:space="preserve">
     <value>Online: {0}</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
-    <value>Sorry. Background {0} was not found.</value>
+    <value>عذرًا. لم يتم العثور على الخلفية {0}.</value>
   </data>
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
-    <value>The shortcuts have been successfully updated or created.</value>
+    <value>تم تحديث الاختصارات أو إنشاؤها بنجاح.</value>
   </data>
   <data name="Default_FileNotFound_" xml:space="preserve">
-    <value>File not found:
+    <value>لم يتم العثور على الملف:
 
 {0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
-    <value>You are connected as {0}. Hi, nice to meet you! Check your activity on Discord.</value>
+    <value>أنت متصل باسم {0}. مرحبًا، تشرفنا بمعرفتك! تحقق من نشاطك على Discord.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
-    <value>Watching other videos</value>
+    <value>مشاهدة مقاطع فيديو أخرى</value>
   </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
-    <value>It's just text. What more do you want?</value>
+    <value>هذا مجرد نص. ماذا تريد أيضًا؟</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedAddons" xml:space="preserve">
-    <value>Successfully updated ReShade Addons for Stella Plus subscribers.</value>
+    <value>تم تحديث إضافات ReShade بنجاح لمشتركي Stella Plus.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedPresets" xml:space="preserve">
-    <value>Successfully updated presets for Stella Plus subscribers.</value>
+    <value>تم تحديث الإعدادات المسبقة بنجاح لمشتركي Stella Plus.</value>
   </data>
   <data name="Program_DoYouWantToJoinOurDiscord" xml:space="preserve">
-    <value>Do you want to join our Discord server?</value>
+    <value>هل تريد الانضمام إلى خادم Discord الخاص بنا؟</value>
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
-    <value>The new version v{0} from {1} is available! Please update.</value>
+    <value>الإصدار الجديد v{0} من {1} متوفر الآن! يُرجى التحديث.</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTheGallery" xml:space="preserve">
-    <value>Browsing the gallery</value>
+    <value>تصفح المعرض</value>
   </data>
   <data name="StellaResources_UpdateSize" xml:space="preserve">
-    <value>Update size: {0}</value>
+    <value>حجم التحديث: {0}</value>
   </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
-    <value>Successfully updated resources.</value>
+    <value>تم تحديث الموارد بنجاح.</value>
   </data>
   <data name="Program_SorryOneInstanceIsCurrentlyOpen_" xml:space="preserve">
-    <value>Sorry, one instance is currently open. Quit the process with name {0} and try again.</value>
+    <value>عذرًا، توجد نسخة مفتوحة حاليًا. أنهِ العملية باسم {0} وحاول مرة أخرى.</value>
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
-    <value>In the window with links</value>
+    <value>في نافذة الروابط</value>
   </data>
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
-    <value>Sad... Failed to download ReShade.ini. Try again.</value>
+    <value>للأسف... فشل تنزيل ReShade.ini. حاول مرة أخرى.</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
-    <value>Browsing tools</value>
+    <value>تصفح الأدوات</value>
   </data>
   <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
-    <value>New update available</value>
+    <value>يتوفر تحديث جديد</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
-    <value>Playing: {0}</value>
+    <value>يلعب: {0}</value>
   </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade log file was not found in:
+    <value>لم يتم العثور على ملف سجل ReShade في:
 {0}</value>
   </data>
   <data name="Default_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating, please wait...</value>
+    <value>جارٍ التحديث، يُرجى الانتظار...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade config file was not found in:
+    <value>لم يتم العثور على ملف إعدادات ReShade في:
 {0}</value>
   </data>
   <data name="NormalRelease_NewReleaseIsAvailableDownloadNow" xml:space="preserve">
-    <value>New release is available. Download now!</value>
+    <value>يتوفر إصدار جديد. نزّله الآن!</value>
   </data>
   <data name="Default_SuccessfullyDownloadedReShadeCfg" xml:space="preserve">
-    <value>Successfully downloaded the ReShade.ini file!</value>
+    <value>تم تنزيل ملف ReShade.ini بنجاح!</value>
   </data>
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
-    <value>Playing Genshin Impact</value>
+    <value>يلعب Genshin Impact</value>
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
-    <value>Required file 'Configuration Window.exe' was not found. Please reinstall this app or join our Discord server for help.</value>
+    <value>لم يتم العثور على الملف المطلوب 'Configuration Window.exe'. يُرجى إعادة تثبيت هذا التطبيق أو الانضمام إلى خادم Discord الخاص بنا للحصول على المساعدة.</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
-    <value>Exited from WebView2 browser</value>
+    <value>تم الخروج من متصفح WebView2</value>
   </data>
   <data name="Default_UpdatingBenefits" xml:space="preserve">
-    <value>Updating benefits...</value>
+    <value>جارٍ تحديث المزايا...</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigoto" xml:space="preserve">
-    <value>Successfully updated 3DMigoto for Stella Plus subscribers.</value>
+    <value>تم تحديث 3DMigoto بنجاح لمشتركي Stella Plus.</value>
   </data>
   <data name="Default_YouHaveTheLatestVersion" xml:space="preserve">
-    <value>You have the latest version</value>
+    <value>لديك أحدث إصدار</value>
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
-    <value>Failed to update. The software was denied access to a location, preventing it from saving, copying, opening or loading files.</value>
+    <value>فشل التحديث. تم رفض وصول البرنامج إلى موقع معين، مما منعه من حفظ الملفات أو نسخها أو فتحها أو تحميلها.</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
-    <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
+    <value>هل توافق على مشاركة رأيك حول Stella Mod على trustpilot.com؟ سأكون ممتنًا جدًا.</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
-    <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
+    <value>تم تنزيل ملف الإعداد (unlocker.config.json) الخاص بـ FPS Unlocker</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>تم حذف ملف الإعداد القديم من الدليل المؤقت.</value>
   </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
-    <value>Audio file ({0}) was not found.</value>
+    <value>لم يتم العثور على ملف الصوت ({0}).</value>
   </data>
   <data name="DiscordRPC_Status_SuccessfullyUploadedLogs" xml:space="preserve">
-    <value>Successfully uploaded logs</value>
+    <value>تم تحميل السجلات بنجاح</value>
   </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
-    <value>Everything is okay! Starting setup...</value>
+    <value>كل شيء على ما يرام! جارٍ بدء الإعداد...</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
-    <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
+    <value>شكرًا لدعمك. أوصِ بـ Stella Mod لأصدقائك. أتمنى لك يومًا رائعًا!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
-    <value>Browsing settings</value>
+    <value>تصفح الإعدادات</value>
   </data>
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
-    <value>New update of the resources is available from {0}.</value>
+    <value>يتوفر تحديث جديد للموارد من {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hi! It looks like we're seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you agree to the terms outlined there.
+    <value>مرحبًا! يبدو أن هذه هي المرة الأولى التي نلتقي فيها. يُرجى تخصيص لحظة لمراجعة القواعد والإرشادات لتجنب أي مشكلات محتملة. يتوفر التوثيق الكامل على موقعنا الرسمي (stella.sefinek.net). باستخدامك لـ Stella Mod، فإنك توافق على الشروط الموضحة هناك.
 
-The project is continuously developed thanks to Stella Mod Plus subscribers. Their support helps cover the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is our priority — no analytical or hardware data is ever sent without your consent.
+يستمر تطوير المشروع بفضل مشتركي Stella Mod Plus. يساعد دعمهم في تغطية تكاليف إنترنت الألياف الضوئية والكهرباء. يُستضاف خادم API بشكل خاص في بولندا، والمسؤول المحلي هو المالك الوحيد لقاعدة البيانات. خصوصيتك هي أولويتنا: لا يتم إرسال أي بيانات تحليلية أو خاصة بالأجهزة على الإطلاق دون موافقتك.
 
-Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game (this violates both HoYoverse's rules and Stella Mod's regulations). If you need help, join our Discord server or contact us at contact@sefinek.net.
+Stella Mod برنامج آمن، لذا لا داعي للقلق. تذكر فقط عدم استخدام الغش في اللعبة (فهذا ينتهك قواعد HoYoverse ولوائح Stella Mod على حد سواء). إذا كنت بحاجة إلى مساعدة، انضم إلى خادم Discord الخاص بنا أو تواصل معنا عبر contact@sefinek.net.
 
-Keep in mind that Stella Mod is completely independent, not a fan-made project, and in no way affiliated with HoYoverse. If you enjoy it, you can support its further development by subscribing to Stella Mod Plus.
+ضع في اعتبارك أن Stella Mod مشروع مستقل تمامًا، وليس مبادرة من صنع المعجبين، ولا يرتبط بـ HoYoverse بأي شكل من الأشكال. إذا أعجبك، يمكنك دعم تطويره المستمر من خلال الاشتراك في Stella Mod Plus.
 
-Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
+شكرًا لك، ونراك في اللعبة! استمتع بوقتك. إلى اللقاء!</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
-    <value>Directory {0} was not found.</value>
+    <value>لم يتم العثور على الدليل {0}.</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
-    <value>Downloading resources... {0} / {1}</value>
+    <value>جارٍ تنزيل الموارد... {0} / {1}</value>
   </data>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
-    <value>Downloading the installer file... {0} / {1}</value>
+    <value>جارٍ تنزيل ملف التثبيت... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+    <value>جارٍ استخراج الملفات... {0} / {1} ({2} / {3})</value>
   </data>
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
-    <value>Deleting files... {0} from {1} ({2} / {3})</value>
+    <value>جارٍ حذف الملفات... {0} / {1} ({2} / {3})</value>
   </data>
   <data name="RequiredFilesUpdater_Checking_" xml:space="preserve">
     <value>جارٍ التحقق من تحديثات ملفات المود المطلوبة... {0} / {1}</value>
@@ -326,57 +326,57 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>تم تحديث {0} من ملفات المود المطلوبة إلى أحدث إصدار.</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
-    <value>Background file was not found in '{0}'; ID: {1};</value>
+    <value>لم يتم العثور على ملف الخلفية في '{0}'؛ المعرّف: {1}؛</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
-    <value>This feature is only available to players with a Stella Mod Plus subscription.
+    <value>هذه الميزة متاحة فقط للاعبين المشتركين في Stella Mod Plus.
 
-Would you like to visit the official website and subscribe? You'll gain access to numerous benefits, including the ability to use ReShade, 3DMigoto, and FPS Unlocker simultaneously.</value>
+هل ترغب في زيارة الموقع الرسمي والاشتراك؟ ستحصل على إمكانية الوصول إلى العديد من المزايا، بما في ذلك القدرة على استخدام ReShade و3DMigoto وFPS Unlocker في آن واحد.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
-    <value>Successfully updated shaders to the latest version for Stella Plus subscribers.</value>
+    <value>تم تحديث المؤثرات بنجاح إلى أحدث إصدار لمشتركي Stella Plus.</value>
   </data>
   <data name="Settings_SuccessfullyUpdatedTheReShadeIniFile" xml:space="preserve">
-    <value>Successfully updated the ReShade.ini file. Paths to resource locations have been changed to current, and similar changes have been made.
+    <value>تم تحديث ملف ReShade.ini بنجاح. تم تغيير المسارات إلى مواقع الموارد لتصبح حالية، وتم إجراء تغييرات مماثلة.
 
-Current preset:
+الإعداد المسبق الحالي:
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>خطأ</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
-    <value>Discord server</value>
+    <value>خادم Discord</value>
   </data>
   <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
-    <value>Are you sure to run Stella Configuration Window again?</value>
+    <value>هل أنت متأكد من رغبتك في تشغيل نافذة إعداد Stella مرة أخرى؟</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Version: {0}</value>
+    <value>الإصدار: {0}</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+    <value>مشاهدة أسلوب اللعب</value>
   </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
-    <value>Game launcher was not found in: {0}</value>
+    <value>لم يتم العثور على مشغّل اللعبة في: {0}</value>
   </data>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
-    <value>Stella Mod Launcher has been successfully updated to version: v{0}</value>
+    <value>تم تحديث Stella Mod Launcher بنجاح إلى الإصدار: v{0}</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
-    <value>Oops, an error occurred</value>
+    <value>عذرًا، حدث خطأ</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
-    <value>You do not have an active Stella Plus subscription.</value>
+    <value>ليس لديك اشتراك نشط في Stella Plus.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {0}</value>
+    <value>لم يتم العثور على الدليل الذي يحتوي على سجلات Stella في: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
-    <value>Important</value>
+    <value>مهم</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
-    <value>Remember not to share log files with unfamiliar individuals, as they might contain sensitive data. Share them only with the Stella Mod developer.</value>
+    <value>تذكر عدم مشاركة ملفات السجل مع أشخاص غير معروفين، لأنها قد تحتوي على بيانات حساسة. شاركها فقط مع مطوّر Stella Mod.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
     <value>Videos - sefinek.net</value>
@@ -388,382 +388,382 @@ Current preset:
     <value>Gallery - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
-    <value>Hello! Loading Stella Mod Launcher...</value>
+    <value>مرحبًا! جارٍ تحميل Stella Mod Launcher...</value>
   </data>
   <data name="Default_ToggleMinimizeRestore" xml:space="preserve">
-    <value>Toggle minimize/restore</value>
+    <value>تبديل التصغير/الاستعادة</value>
   </data>
   <data name="Default_ReloadWindow" xml:space="preserve">
-    <value>Reload window</value>
+    <value>إعادة تحميل النافذة</value>
   </data>
   <data name="Default_StellaModPlus" xml:space="preserve">
     <value>Stella Mod Plus</value>
   </data>
   <data name="Default_VisitDiscordServer" xml:space="preserve">
-    <value>Visit Discord server</value>
+    <value>زيارة خادم Discord</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
-    <value>Support</value>
+    <value>ادعمنا</value>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
-    <value>Leave your feedback</value>
+    <value>اترك ملاحظاتك</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
-    <value>Donations</value>
+    <value>التبرعات</value>
   </data>
   <data name="Default_Quit" xml:space="preserve">
-    <value>Quit</value>
+    <value>إنهاء</value>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
-    <value>Verifying required files in progress...</value>
+    <value>جارٍ التحقق من الملفات المطلوبة...</value>
   </data>
   <data name="Default_AuthorizationPleaseWait" xml:space="preserve">
-    <value>Authorization, please wait...</value>
+    <value>جارٍ التفويض، يُرجى الانتظار...</value>
   </data>
   <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
-    <value>Debugging this application is not possible due to lack of permissions.</value>
+    <value>لا يمكن تصحيح أخطاء هذا التطبيق بسبب نقص الأذونات.</value>
   </data>
   <data name="Default_StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceMode" xml:space="preserve">
-    <value>Starting the Stella Mod Launcher is currently not possible because the server is in maintenance mode. We are doing this for you, to improve the application. Try again later.</value>
+    <value>تشغيل Stella Mod Launcher غير ممكن حاليًا لأن الخادم في وضع الصيانة. نقوم بذلك من أجلك، لتحسين التطبيق. حاول مرة أخرى لاحقًا.</value>
   </data>
   <data name="Default_StellaModPlusLauncher" xml:space="preserve">
     <value>Stella Mod Plus Launcher</value>
   </data>
   <data name="Default_CheckingForUpdatesAndOtherRequiredData" xml:space="preserve">
-    <value>Checking for updates and other required data...</value>
+    <value>جارٍ التحقق من التحديثات والبيانات المطلوبة الأخرى...</value>
   </data>
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
-    <value>The application has been successfully updated, checking the changelog...</value>
+    <value>تم تحديث التطبيق بنجاح، جارٍ التحقق من سجل التغييرات...</value>
   </data>
   <data name="Default_CheckingNews" xml:space="preserve">
-    <value>Checking news...</value>
+    <value>جارٍ التحقق من الأخبار...</value>
   </data>
   <data name="Default_ApprovingApplicationLaunchThisMayTakeAMoment" xml:space="preserve">
-    <value>Approving application launch (this may take a moment)...</value>
+    <value>جارٍ الموافقة على تشغيل التطبيق (قد يستغرق ذلك بعض الوقت)...</value>
   </data>
   <data name="Default_EstablishingConnectionWithTheWebSocketServer" xml:space="preserve">
-    <value>Establishing connection with the WebSocket server...</value>
+    <value>جارٍ إنشاء اتصال بخادم WebSocket...</value>
   </data>
   <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
-    <value>Initializing WebView2, please wait...</value>
+    <value>جارٍ تهيئة WebView2، يُرجى الانتظار...</value>
   </data>
   <data name="SuccessfullyReconnectedWithTheWSServer" xml:space="preserve">
-    <value>Successfully reconnected with the WS server</value>
+    <value>تمت إعادة الاتصال بنجاح بخادم WS</value>
   </data>
   <data name="ExceededTheMaximumNumberOfReconnectionAttempts_WithTheWebSocket" xml:space="preserve">
-    <value>Exceeded the maximum number of reconnection attempts ({0}) with the WebSocket</value>
+    <value>تم تجاوز الحد الأقصى لعدد محاولات إعادة الاتصال ({0}) مع WebSocket</value>
   </data>
   <data name="NotificationFromTheServer" xml:space="preserve">
-    <value>Notification from the server</value>
+    <value>إشعار من الخادم</value>
   </data>
   <data name="YouHaveReceivedANotificationFromTheRemoteServerPleaseCheckIt" xml:space="preserve">
-    <value>You have received a notification from the remote server. Please check it.</value>
+    <value>لقد تلقيت إشعارًا من الخادم البعيد. يُرجى التحقق منه.</value>
   </data>
   <data name="Default_StellaModPlusSubscribers" xml:space="preserve">
-    <value>Stella Mod Plus Subscribers</value>
+    <value>مشتركو Stella Mod Plus</value>
   </data>
   <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
-    <value>File size ready for download: {0}</value>
+    <value>حجم الملف جاهز للتنزيل: {0}</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
-    <value>Note from the developer ({0}):
+    <value>ملاحظة من المطوّر ({0}):
 {1}</value>
   </data>
   <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
-    <value>Although this process may seem dead, it is still running. Please be patient...</value>
+    <value>على الرغم من أن هذه العملية قد تبدو متوقفة، إلا أنها لا تزال قيد التشغيل. يُرجى التحلي بالصبر...</value>
   </data>
   <data name="UploadLogs_ItSTakingLongerThanUsualPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>It's taking longer than usual. Please check your internet connection.</value>
+    <value>يستغرق هذا وقتًا أطول من المعتاد. يُرجى التحقق من اتصالك بالإنترنت.</value>
   </data>
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
-    <value>Requesting agreement to upload logs...</value>
+    <value>جارٍ طلب الموافقة على تحميل السجلات...</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
-    <value>Preparing temporary directory...</value>
+    <value>جارٍ تجهيز الدليل المؤقت...</value>
   </data>
   <data name="UploadLogs_CopyingLogCfgAndIniFiles" xml:space="preserve">
-    <value>Copying log, cfg and ini files...</value>
+    <value>جارٍ نسخ ملفات السجل وcfg وini...</value>
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
-    <value>Waiting for DxDiag...</value>
+    <value>جارٍ انتظار DxDiag...</value>
   </data>
   <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
-    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
+    <value>على الرغم من أن هذه العملية قد تبدو عالقة، إلا أنها لا تزال قيد التشغيل. يُرجى الانتظار قليلاً...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
-    <value>Compressing collected files...</value>
+    <value>جارٍ ضغط الملفات التي تم جمعها...</value>
   </data>
   <data name="UploadLogs_GatheringAndEncryptingAdditionalData" xml:space="preserve">
-    <value>Gathering and encrypting additional data...</value>
+    <value>جارٍ جمع بيانات إضافية وتشفيرها...</value>
   </data>
   <data name="UploadLogs_UploadingFilesToASecureServer" xml:space="preserve">
-    <value>Uploading files to a secure server...</value>
+    <value>جارٍ تحميل الملفات إلى خادم آمن...</value>
   </data>
   <data name="UploadLogs_FinishingAndPerformingCleanup" xml:space="preserve">
-    <value>Finishing and performing cleanup...</value>
+    <value>جارٍ الانتهاء وتنفيذ التنظيف...</value>
   </data>
   <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch3YouCanCloseThisWindow" xml:space="preserve">
-    <value>Logs upload complete! Thank you very much &lt;3. You can close this window.</value>
+    <value>اكتمل تحميل السجلات! شكرًا جزيلاً لك &lt;3. يمكنك إغلاق هذه النافذة.</value>
   </data>
   <data name="UploadLogs_AsTheOwnerOfTheSubmittedLogsYouHaveFullRightsToThemIfYouWouldLikeUsToRemoveThemFromOurDatabasePleaseContactTheDeveloperAndProvideTheFollowingIdentifier_" xml:space="preserve">
-    <value>As the owner of the submitted logs, you have full rights to them. If you would like us to remove them from our database, please contact the developer and provide the following identifier: {0}</value>
+    <value>بصفتك مالك السجلات المُرسلة، لديك كامل الحقوق فيها. إذا كنت ترغب في أن نحذفها من قاعدة بياناتنا، يُرجى التواصل مع المطوّر وتزويده بالمعرّف التالي: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong. You can close this window.</value>
+    <value>عذرًا، حدث خطأ ما. يمكنك إغلاق هذه النافذة.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
-    <value>Unfortunately, something went wrong during the file upload. Please accept our apologies.
+    <value>للأسف، حدث خطأ ما أثناء تحميل الملف. نعتذر عن ذلك.
 
 {0}</value>
   </data>
   <data name="UploadLogs_ForSecurityReasonsTheReasonForTheServerSRejectionOfTheRequestCannotBeDisclosedPleaseContactTheAdministratorIfYouBelieveItIsNecessary" xml:space="preserve">
-    <value>For security reasons, the reason for the server's rejection of the request cannot be disclosed. Please contact the administrator if you believe it is necessary.</value>
+    <value>لأسباب أمنية، لا يمكن الكشف عن سبب رفض الخادم للطلب. يُرجى التواصل مع المسؤول إذا كنت تعتقد أن ذلك ضروري.</value>
   </data>
   <data name="UploadLogs_BelowAreTheDetailsOfWhatReallyHappened_" xml:space="preserve">
-    <value>Below are the details of what really happened:
+    <value>فيما يلي تفاصيل ما حدث بالفعل:
 {0}</value>
   </data>
   <data name="UploadLogs_AnErrorOccurred_" xml:space="preserve">
-    <value>An error occurred.
+    <value>حدث خطأ.
 
 {0}</value>
   </data>
   <data name="UploadLogs_FileSizeExceedsTheMaximumLimit" xml:space="preserve">
-    <value>File size exceeds the maximum limit.</value>
+    <value>حجم الملف يتجاوز الحد الأقصى المسموح به.</value>
   </data>
   <data name="UploadLogs_FileNotFound_" xml:space="preserve">
-    <value>File not found: {0}</value>
+    <value>الملف غير موجود: {0}</value>
   </data>
   <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch" xml:space="preserve">
-    <value>Logs upload complete. Thank you very much!</value>
+    <value>اكتمل تحميل السجلات. شكرًا جزيلاً لك!</value>
   </data>
   <data name="UploadLogs_UnknownErrorStatus_" xml:space="preserve">
-    <value>Unknown error. Status {0}</value>
+    <value>خطأ غير معروف. الحالة {0}</value>
   </data>
   <data name="UploadLogs_ErrorSendingRequestPleaseCheckYourInternetConnection_" xml:space="preserve">
-    <value>Error sending request. Please check your Internet connection. {0}</value>
+    <value>حدث خطأ أثناء إرسال الطلب. يُرجى التحقق من اتصالك بالإنترنت. {0}</value>
   </data>
   <data name="UploadLogs_ErrorReadingFile_" xml:space="preserve">
-    <value>Error reading file!
+    <value>حدث خطأ أثناء قراءة الملف!
 {0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in:
+    <value>لم يتم العثور على الدليل الذي يحتوي على سجلات Stella في:
 
 {0}</value>
   </data>
   <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
-    <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>
+    <value>هذه بالفعل المرة رقم {0} التي تُشغّل فيها هذا التطبيق على هذا الجهاز. شكرًا لك!</value>
   </data>
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
-    <value>Stella Mod resources were not found on your hard drive.</value>
+    <value>لم يتم العثور على موارد Stella Mod على القرص الصلب الخاص بك.</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
-    <value>A new 3DMigoto update for Stella Plus subscribers has been detected. This update will not overwrite your current mods.
+    <value>تم اكتشاف تحديث جديد لـ 3DMigoto لمشتركي Stella Plus. لن يستبدل هذا التحديث تعديلاتك (Mods) الحالية.
 
-Click OK to proceed with the update.
+انقر فوق موافق للمتابعة بالتحديث.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+إصدارك: v{0} من {1}
+الإصدار الجديد: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_3DMigotoUpdate_" xml:space="preserve">
-    <value>3DMigoto Update - v{0}.zip</value>
+    <value>تحديث 3DMigoto - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfTheModPackForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
-    <value>A new version of the mod pack for Stella Plus subscribers has been detected. Your custom mods will not be removed, provided they are located in folder number 3. The software creator is not responsible for any accidental deletion of mods.
+    <value>تم اكتشاف إصدار جديد من حزمة التعديلات (Mods) لمشتركي Stella Plus. لن تتم إزالة تعديلاتك المخصصة، شريطة أن تكون موجودة في المجلد رقم 3. لا يتحمل صانع البرنامج أي مسؤولية عن أي حذف عرضي للتعديلات.
 
-If, after the update, character models appear incorrect (this applies to custom mods you have added), remove the duplicate mod from the provided pack. Each character can have only one active mod at a time. If you encounter any issues, visit the Genshin Stella Mod Discord server or submit a ticket on the Sefinek Patron Center website for assistance.
+إذا ظهرت نماذج الشخصيات بشكل غير صحيح بعد التحديث (وينطبق ذلك على التعديلات المخصصة التي أضفتها)، فقم بإزالة التعديل المكرر من الحزمة المقدمة. يمكن أن يحتوي كل شخصية على تعديل واحد نشط فقط في المرة الواحدة. إذا واجهت أي مشكلات، يُرجى زيارة خادم Discord الخاص بـ Genshin Stella Mod أو إرسال طلب دعم على موقع Sefinek Patron Center للحصول على المساعدة.
 
-If you do not wish to receive mod pack updates, delete the mods-version.json file from the Stella Mod resources.
+إذا كنت لا ترغب في تلقي تحديثات حزمة التعديلات، احذف ملف mods-version.json من موارد Stella Mod.
 
-Click the OK button to continue.
+انقر فوق زر موافق للمتابعة.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+إصدارك: v{0} من {1}
+الإصدار الجديد: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ModsUpdate_" xml:space="preserve">
-    <value>Mods Update - v{0}.zip</value>
+    <value>تحديث التعديلات - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewUpdateForReShadeAddOnsIsAvailable_" xml:space="preserve">
-    <value>A new update for ReShade add-ons is available! Please note that the current add-on configuration files will be overwritten.
+    <value>يتوفر تحديث جديد لإضافات ReShade! يُرجى ملاحظة أنه سيتم استبدال ملفات إعداد الإضافات الحالية.
 
-Click the OK button to proceed with the update.
+انقر فوق زر موافق للمتابعة بالتحديث.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+إصدارك: v{0} من {1}
+الإصدار الجديد: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
-    <value>ReShade Addons - v{0}.zip</value>
+    <value>إضافات ReShade - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
-    <value>A new ReShade preset update has been detected! Existing presets may be overwritten. It is recommended to make a backup before updating.
+    <value>تم اكتشاف تحديث جديد لإعدادات ReShade المسبقة! قد يتم استبدال الإعدادات المسبقة الحالية. يُنصح بإنشاء نسخة احتياطية قبل التحديث.
 
-Click the OK button to proceed with the update.
+انقر فوق زر موافق للمتابعة بالتحديث.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+إصدارك: v{0} من {1}
+الإصدار الجديد: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
-    <value>ReShade Presets - v{0}.zip</value>
+    <value>إعدادات ReShade المسبقة - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
-    <value>A new version of ReShade shaders is available! Previous shaders may be overwritten.
+    <value>يتوفر إصدار جديد من مؤثرات ReShade! قد يتم استبدال المؤثرات السابقة.
 
-Click the OK button to proceed with the update.
+انقر فوق زر موافق للمتابعة بالتحديث.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+إصدارك: v{0} من {1}
+الإصدار الجديد: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
-    <value>ReShade Shaders - v{0}.zip</value>
+    <value>مؤثرات ReShade - v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
-    <value>Stella Resources - v{0}.zip</value>
+    <value>موارد Stella - v{0}.zip</value>
   </data>
   <data name="Default_ClearingTheCacheThisMayTakeAWhile" xml:space="preserve">
-    <value>Clearing the cache (this may take a while)...</value>
+    <value>جارٍ مسح ذاكرة التخزين المؤقت (قد يستغرق ذلك بعض الوقت)...</value>
   </data>
   <data name="Default_AfterEachUpdateClearingTheCacheIsRequired" xml:space="preserve">
-    <value>After each update, clearing the cache is required.</value>
+    <value>بعد كل تحديث، يلزم مسح ذاكرة التخزين المؤقت.</value>
   </data>
   <data name="Default_Deleted_FileCountFilesSavingATotalOf_" xml:space="preserve">
-    <value>Deleted {0} file(s), saving a total of {1}.</value>
+    <value>تم حذف {0} ملف، مما وفّر ما مجموعه {1}.</value>
   </data>
   <data name="Default_DoneFinishingUp" xml:space="preserve">
-    <value>Done! Finishing up...</value>
+    <value>تم! جارٍ الانتهاء...</value>
   </data>
   <data name="Default_OldFilesFromAPreviousVersionOfStellaModHaveBeenDetected" xml:space="preserve">
-    <value>Old files from a previous version of Stella Mod have been detected. Would you like to remove them?</value>
+    <value>تم اكتشاف ملفات قديمة من إصدار سابق من Stella Mod. هل ترغب في إزالتها؟</value>
   </data>
   <data name="Default_Removed_AdditionalFilesFreeingUp_OfSpace" xml:space="preserve">
-    <value>Removed {0} additional file(s), freeing up {1} of space.</value>
+    <value>تمت إزالة {0} ملف إضافي، مما حرر {1} من المساحة.</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
-    <value>Subscribe to Stella Plus to elevate your gameplay! Use ReShade, FPS Unlocker, and 3DMigoto simultaneously (we don't use GIMI), and unlock even more exclusive benefits.</value>
+    <value>اشترك في Stella Plus للارتقاء بتجربة لعبك! استخدم ReShade وFPS Unlocker و3DMigoto في آن واحد (نحن لا نستخدم GIMI)، واحصل على مزيد من المزايا الحصرية.</value>
   </data>
   <data name="Background_CurrentBackground_" xml:space="preserve">
-    <value>Current background: {0}</value>
+    <value>الخلفية الحالية: {0}</value>
   </data>
   <data name="WebViewHelper_WebView2DoesNotAppearToBeInstalledOnYourDevice_" xml:space="preserve">
-    <value>WebView2 does not appear to be installed on your device. Would you like to download and install this dependency now?
+    <value>يبدو أن WebView2 غير مثبّت على جهازك. هل ترغب في تنزيل هذه التبعية وتثبيتها الآن؟
 
 {0}</value>
   </data>
   <data name="WebViewHelper_WebView2Installation" xml:space="preserve">
-    <value>WebView2 Installation</value>
+    <value>تثبيت WebView2</value>
   </data>
   <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Please select 'Evergreen Standalone Installer'.</value>
+    <value>يُرجى تحديد 'Evergreen Standalone Installer'.</value>
   </data>
   <data name="WebViewHelper_SomethingWentWrongDuringTheInitializationOfWebView2PleaseTryAgain_" xml:space="preserve">
-    <value>Something went wrong during the initialization of WebView2. Please try again.
+    <value>حدث خطأ ما أثناء تهيئة WebView2. يُرجى المحاولة مرة أخرى.
 
 {0}</value>
   </data>
   <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
-    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
+    <value>لم يتم العثور على اللعبة. هل أنت متأكد من أنها مثبّتة على جهازك؟ إذا تغيّر المسار، يلزم إعادة تكوين Stella Mod. هل ترغب في القيام بذلك الآن؟</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
-    <value>Something went wrong while reading the registry.
+    <value>حدث خطأ ما أثناء قراءة سجل النظام.
 
 {0}</value>
   </data>
   <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
-    <value>Visit the Sefinek Patron Center website for Stella Mod subscribers</value>
+    <value>زيارة موقع Sefinek Patron Center المخصص لمشتركي Stella Mod</value>
   </data>
   <data name="OfflineMode" xml:space="preserve">
-    <value>Offline Mode</value>
+    <value>الوضع دون اتصال</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Authorization failed. Offline mode is enabled. Updates cannot be checked.</value>
+    <value>فشل التفويض. تم تفعيل الوضع دون اتصال. لا يمكن التحقق من التحديثات.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
-    <value>Sorry, the main server is currently unavailable or an unexpected issue has occurred (error code: {0}). Offline Mode will be enabled automatically. Some features may be limited or unavailable.
+    <value>عذرًا، الخادم الرئيسي غير متوفر حاليًا أو حدثت مشكلة غير متوقعة (رمز الخطأ: {0}). سيتم تفعيل الوضع دون اتصال تلقائيًا. قد تكون بعض الميزات محدودة أو غير متوفرة.
 
-Would you like to check the status page now at status.sefinek.net?</value>
+هل ترغب في التحقق من صفحة الحالة الآن على status.sefinek.net؟</value>
   </data>
   <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
-    <value>Authorization failed (error code {0}). The server rejected the request, likely due to failed validation or an expired authentication token. Please ensure you're using the latest version of the launcher. If you're unsure what caused this error, contact the developer via patrons.sefinek.net or email contact@sefinek.net.</value>
+    <value>فشل التفويض (رمز الخطأ {0}). رفض الخادم الطلب، على الأرجح بسبب فشل التحقق أو انتهاء صلاحية رمز المصادقة. يُرجى التأكد من أنك تستخدم أحدث إصدار من المشغّل. إذا لم تكن متأكدًا من سبب هذا الخطأ، تواصل مع المطوّر عبر patrons.sefinek.net أو بالبريد الإلكتروني contact@sefinek.net.</value>
   </data>
   <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
-    <value>Failed to parse the response from the server. This may indicate a server-side issue or incompatible launcher version. Please contact the developer via patrons.sefinek.net or by email at contact@sefinek.net.
+    <value>فشل تحليل استجابة الخادم. قد يشير هذا إلى مشكلة من جانب الخادم أو إصدار مشغّل غير متوافق. يُرجى التواصل مع المطوّر عبر patrons.sefinek.net أو عبر البريد الإلكتروني contact@sefinek.net.
 
-Details:
+التفاصيل:
 {0}</value>
   </data>
   <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
-    <value>Unable to connect to the main server. Please check your internet connection, DNS configuration, VPN/proxy settings, and firewall. If you need assistance, contact the developer via patrons.sefinek.net or email contact@sefinek.net.
+    <value>تعذّر الاتصال بالخادم الرئيسي. يُرجى التحقق من اتصالك بالإنترنت، وإعدادات DNS، وإعدادات VPN/الوكيل، وجدار الحماية. إذا كنت بحاجة إلى مساعدة، تواصل مع المطوّر عبر patrons.sefinek.net أو بالبريد الإلكتروني contact@sefinek.net.
 
-Details:
+التفاصيل:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>حدث خطأ فادح أثناء المصادقة. يُرجى التواصل مع المطوّر عن طريق إرسال طلب دعم في Sefinek Patron Center (https://patrons.sefinek.net) أو بإرسال بريد إلكتروني إلى contact@sefinek.net.
 
-Details:
+التفاصيل:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+هل ترغب في التحقق من صفحة الحالة الآن على status.sefinek.net؟</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
-    <value>Failed to fetch the list of MoeCounter themes. Please try again later.</value>
+    <value>فشل جلب قائمة سمات MoeCounter. يُرجى المحاولة مرة أخرى لاحقًا.</value>
   </data>
   <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>An error occurred while fetching MoeCounter themes. Please check your internet connection.</value>
+    <value>حدث خطأ أثناء جلب سمات MoeCounter. يُرجى التحقق من اتصالك بالإنترنت.</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
-    <value>Official Website - stella.sefinek.net</value>
+    <value>الموقع الرسمي - stella.sefinek.net</value>
   </data>
   <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
-    <value>Genshin Stella Mod Changelog</value>
+    <value>سجل تغييرات Genshin Stella Mod</value>
   </data>
   <data name="Program_Main_DebugConsole" xml:space="preserve">
-    <value>{0} - Debug Console</value>
+    <value>{0} - وحدة تصحيح الأخطاء</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Content" xml:space="preserve">
-    <value>Hello,
+    <value>مرحبًا،
 
-I encountered a problem while using Stella Mod.
-
----
-
-✏️ Additional information from me:
-[please describe step by step what you were doing before the error occurred – reproduction steps]
+واجهت مشكلة أثناء استخدام Stella Mod.
 
 ---
 
-📌 Encoded technical details (for diagnostics, leave this string unchanged):
+✏️ معلومات إضافية مني:
+[يُرجى وصف ما كنت تفعله خطوة بخطوة قبل حدوث الخطأ - خطوات إعادة الإنتاج]
+
+---
+
+📌 تفاصيل تقنية مُشفّرة (لأغراض التشخيص، يُرجى عدم تغيير هذه السلسلة النصية):
 {0}
 
 ---
 
-ℹ️ Information:
-This mailbox is actively monitored. You should receive a reply shortly.
+ℹ️ معلومات:
+يتم مراقبة صندوق البريد هذا بشكل نشط. من المفترض أن تتلقى ردًا قريبًا.
 
 ---
 
-⚖️ Legal clause:
-This bug report may contain technical data required for diagnostics.
-By sending this message, you consent to its use solely for troubleshooting purposes,
-in accordance with the Stella Mod Privacy Policy and License Agreement.</value>
+⚖️ بند قانوني:
+قد يحتوي تقرير الخطأ هذا على بيانات تقنية مطلوبة للتشخيص.
+بإرسال هذه الرسالة، فإنك توافق على استخدامها حصريًا لأغراض استكشاف الأخطاء وإصلاحها،
+وفقًا لسياسة الخصوصية واتفاقية الترخيص الخاصة بـ Stella Mod.</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
-    <value>Bug report in Stella Mod - {0}</value>
+    <value>تقرير خطأ في Stella Mod - {0}</value>
   </data>
   <data name="ReShadeStandardFileNotFound" xml:space="preserve">
-    <value>The standard ReShade DLL backup was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>لم يتم العثور على النسخة الاحتياطية القياسية لملف DLL الخاص بـ ReShade. يُرجى إعادة تثبيت Stella Mod لاستعادة الملفات المفقودة.</value>
   </data>
   <data name="ReShadeAddonFileNotFound" xml:space="preserve">
-    <value>The ReShade add-on support DLL was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>لم يتم العثور على ملف DLL الخاص بدعم إضافات ReShade. يُرجى إعادة تثبيت Stella Mod لاستعادة الملفات المفقودة.</value>
   </data>
   <data name="ReShadeSwapFailed" xml:space="preserve">
-    <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
+    <value>فشل تبديل نسخة ReShade. قد يكون الملف قيد الاستخدام أو تم رفض الوصول.</value>
   </data>
   <data name="Default_ReShadeVariantRecommendation" xml:space="preserve">
-    <value>You are a Stella Mod Plus subscriber, but you currently have the Regular ReShade version selected.
+    <value>أنت مشترك في Stella Mod Plus، ولكن لديك حاليًا نسخة ReShade العادية محددة.
 
-Subscribers are recommended to use the "Full add-on support" variant for the best experience.
+يُنصح المشتركون باستخدام نسخة "الدعم الكامل للإضافات" للحصول على أفضل تجربة.
 
-Would you like to switch now?</value>
+هل ترغب في التبديل الآن؟</value>
   </data>
 </root>

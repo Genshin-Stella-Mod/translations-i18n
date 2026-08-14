@@ -1001,7 +1001,7 @@ Du kan också trycka på ESC för att stänga dialogfönstret.</value>
     <value>105</value>
   </data>
   <data name="gsmLogs_Label.Text" xml:space="preserve">
-    <value>Genshin Impact Stella-mod</value>
+    <value>Genshin Stella Mod</value>
   </data>
   <data name="gsmLogs_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>

@@ -196,7 +196,7 @@
     <value>3</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Your version is incompatible with the new one. Please reinstall the software. Ensure you have the latest version of your operating system.</value>
+    <value>Votre version est incompatible avec la nouvelle. Veuillez réinstaller le logiciel. Assurez-vous de disposer de la dernière version de votre système d'exploitation.</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>

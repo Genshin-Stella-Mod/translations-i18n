@@ -118,23 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Run the official launcher for Genshin Stella Mod.</value>
+    <value>Genshin Stella Mod の公式ランチャーを実行します。</value>
   </data>
   <data name="StellaResources_ThatSNotTheRightPlace" xml:space="preserve">
-    <value>That's not the right place.</value>
+    <value>そこは正しい場所ではありません。</value>
   </data>
   <data name="GamePath_PleaseSelectTheGameExe_" xml:space="preserve">
-    <value>Please select the game exe.
-* GenshinImpact.exe for OS version (main)
-* YuanShen.exe for CN (Chinese) version</value>
+    <value>ゲームの実行ファイルを選択してください。
+* OS 版（メイン）の場合は GenshinImpact.exe
+* CN（中国）版の場合は YuanShen.exe</value>
   </data>
   <data name="GamePath_TheSpecifiedLocationDoesNotAppearToBeValid_" xml:space="preserve">
-    <value>The specified location does not appear to be valid.
+    <value>指定された場所は無効なようです。
 
-Selected path:
+選択されたパス：
 {0}</value>
   </data>
   <data name="GamePath_PleaseSelectTheCorrectFile" xml:space="preserve">
-    <value>Please select the correct file.</value>
+    <value>正しいファイルを選択してください。</value>
   </data>
 </root>

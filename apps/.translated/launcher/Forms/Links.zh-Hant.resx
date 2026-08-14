@@ -166,7 +166,7 @@
     <value>100</value>
   </data>
   <data name="createShortcut_Label.Text" xml:space="preserve">
-    <value>Teyvat Interactive Map - HoYoLAB (act.hoyolab.com)</value>
+    <value>提瓦特互動地圖 - HoYoLAB (act.hoyolab.com)</value>
   </data>
   <data name="createShortcut_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -229,7 +229,7 @@
     <value>102</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Genshin Impact Interactive World Map (genshin-impact-map.appsample)</value>
+    <value>原神互動世界地圖 (genshin-impact-map.appsample)</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -292,7 +292,7 @@
     <value>104</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Genshin Impact Best Characters Tier List (genshin.gg)</value>
+    <value>原神最強角色排行榜 (genshin.gg)</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -355,7 +355,7 @@
     <value>106</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Tier List and the Best Characters (game8.co)</value>
+    <value>角色排行榜與最強角色 (game8.co)</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -388,7 +388,7 @@
     <value>108</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Game map</value>
+    <value>遊戲地圖</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -421,7 +421,7 @@
     <value>109</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Characters</value>
+    <value>角色</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -460,7 +460,7 @@
     <value>76</value>
   </data>
   <data name="panel3.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>關閉</value>
   </data>
   <data name="&gt;&gt;panel3.Name" xml:space="preserve">
     <value>panel3</value>
@@ -490,7 +490,7 @@
     <value>110</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Other links</value>
+    <value>其他連結</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -553,7 +553,7 @@
     <value>111</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Application Programming Interface (api.sefinek.net)</value>
+    <value>應用程式介面 (api.sefinek.net)</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -616,7 +616,7 @@
     <value>115</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Official status page (status.sefinek.net)</value>
+    <value>官方狀態頁面 (status.sefinek.net)</value>
   </data>
   <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -706,7 +706,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Links</value>
+    <value>連結</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

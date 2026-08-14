@@ -172,8 +172,8 @@
     <value>93</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>If you encounter any issues or have suggestions, don't hesitate to join our Discord server.
-Thank you for using Stella Mod. Support this project voluntarily if you wish. Have fun!</value>
+    <value>Si vous rencontrez des problèmes ou avez des suggestions, n'hésitez pas à rejoindre notre serveur Discord.
+Merci d'utiliser Stella Mod. Soutenez ce projet volontairement si vous le souhaitez. Amusez-vous bien !</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
@@ -215,7 +215,7 @@ Thank you for using Stella Mod. Support this project voluntarily if you wish. Ha
     <value>17, 17</value>
   </metadata>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Read the documentation</value>
+    <value>Lire la documentation</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>

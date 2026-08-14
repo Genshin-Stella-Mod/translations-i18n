@@ -281,7 +281,7 @@
     <value>97</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Videos</value>
+    <value>Vídeos</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
