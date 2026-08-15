@@ -333,6 +333,51 @@ Tack, och vi ses i spelet! Ha det så kul och njut. Skål!</value>
 Förväntad: {0}
 Erhållen: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Det gick inte att ändra språket. Försök igen.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>Bakgrundsmappen finns inte: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Fel vid inläsning av bakgrundsfiler: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>Inga bakgrundsbilder hittades.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Fel vid inläsning av bakgrund: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>Tog bort {0} fil(er) och frigjorde {1} minne.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>Det finns inget att ta bort för tillfället.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Det gick inte att starta uppdateringen av förmåner: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+Spegelservern returnerade en annan statuskod än förväntat. Kontakta applikationsutvecklaren för hjälp.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Något gick fel.
+
+{0}
+
+Kontakta utvecklaren.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>En misstänkt miljö har upptäckts. Om du tror att detta är ett misstag, kontakta oss på: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>Den nedladdade filen kan inte packas upp eftersom den inte finns. Sökväg: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>Den nedladdade ZIP-filen är tom och kan inte packas upp. Kontrollera ditt antivirusprogram eller din internetanslutning.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Bakgrundsfilen hittades inte i '{0}'; ID: {1};</value>
   </data>

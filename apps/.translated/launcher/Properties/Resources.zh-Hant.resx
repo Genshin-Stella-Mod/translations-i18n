@@ -333,6 +333,51 @@ Stella Mod 是安全的軟體，因此無需擔心。只需牢記不要在遊戲
 預期值：{0}
 實際值：{1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>變更語言失敗。請再試一次。</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>背景資料夾不存在：{0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>載入背景檔案時發生錯誤：{0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>找不到背景圖片。</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>載入背景時發生錯誤：{0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>已刪除 {0} 個檔案，釋放了 {1} 的空間。</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>目前沒有可刪除的內容。</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>無法開始福利更新：{0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+鏡像伺服器傳回的狀態碼與預期不同。請聯絡應用程式開發人員以取得協助。</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>發生了問題。
+
+{0}
+
+請聯絡開發人員。</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>偵測到可疑環境。如果您認為這是誤判，請透過以下方式聯絡我們：contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>下載的檔案不存在，無法解壓縮。路徑：{0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>下載的 ZIP 檔案是空的，無法解壓縮。請檢查您的防毒軟體或網際網路連線。</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>在 '{0}' 中找不到背景檔案；ID：{1}；</value>
   </data>

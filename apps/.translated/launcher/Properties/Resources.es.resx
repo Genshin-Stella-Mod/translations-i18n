@@ -333,6 +333,51 @@ Ten en cuenta que Stella Mod es un proyecto completamente independiente, no es u
 Esperado: {0}
 Obtenido: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Error al cambiar el idioma. Inténtalo de nuevo.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>La carpeta de fondos no existe: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Error al cargar los archivos de fondo: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>No se encontraron imágenes de fondo.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Error al cargar el fondo: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>Se eliminaron {0} archivo(s) y se liberaron {1} de memoria.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>No hay nada que eliminar en este momento.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Error al iniciar la actualización de beneficios: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+El servidor espejo devolvió un código de estado diferente al esperado. Ponte en contacto con el desarrollador de la aplicación para obtener ayuda.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Algo salió mal.
+
+{0}
+
+Ponte en contacto con el desarrollador.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>Se ha detectado un entorno sospechoso. Si crees que esto es un error, contáctanos en: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>El archivo descargado no se puede descomprimir porque no existe. Ruta: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>El archivo ZIP descargado está vacío y no se puede descomprimir. Verifica tu software antivirus o tu conexión a internet.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>No se encontró el archivo de fondo en '{0}'; ID: {1};</value>
   </data>

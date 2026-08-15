@@ -333,6 +333,51 @@ Stella Mod برنامج آمن، لذا لا داعي للقلق. تذكر فق�
 المتوقع: {0}
 المستلم: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>فشل تغيير اللغة. يُرجى المحاولة مرة أخرى.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>مجلد الخلفية غير موجود: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>حدث خطأ أثناء تحميل ملفات الخلفية: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>لم يتم العثور على صور خلفية.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>حدث خطأ أثناء تحميل الخلفية: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>تم حذف {0} ملف، وتم تحرير {1} من الذاكرة.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>لا يوجد حاليًا ما يمكن حذفه.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>فشل بدء تحديث المزايا: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+أعاد الخادم المرآة رمز حالة مختلفًا عن المتوقع. يُرجى التواصل مع مطوّر التطبيق للحصول على المساعدة.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>حدث خطأ ما.
+
+{0}
+
+يُرجى التواصل مع المطوّر.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>تم اكتشاف بيئة مشبوهة. إذا كنت تعتقد أن هذا خطأ، يُرجى التواصل معنا عبر: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>لا يمكن فك ضغط الملف الذي تم تنزيله لأنه غير موجود. المسار: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>ملف ZIP الذي تم تنزيله فارغ ولا يمكن فك ضغطه. يُرجى التحقق من برنامج مكافحة الفيروسات أو اتصالك بالإنترنت.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>لم يتم العثور على ملف الخلفية في '{0}'؛ المعرّف: {1}؛</value>
   </data>

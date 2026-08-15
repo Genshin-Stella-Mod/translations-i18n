@@ -333,6 +333,51 @@ Cảm ơn bạn, và hẹn gặp lại trong game! Chúc bạn vui vẻ và tậ
 Giá trị mong đợi: {0}
 Giá trị nhận được: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Không thể thay đổi ngôn ngữ. Vui lòng thử lại.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>Thư mục hình nền không tồn tại: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Lỗi khi tải tệp hình nền: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>Không tìm thấy hình ảnh nền.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Lỗi khi tải hình nền: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>Đã xóa {0} tệp và giải phóng {1} bộ nhớ.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>Hiện không có gì để xóa.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Không thể bắt đầu cập nhật quyền lợi: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+Máy chủ gương đã trả về mã trạng thái khác với dự kiến. Vui lòng liên hệ với nhà phát triển ứng dụng để được hỗ trợ.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Đã xảy ra sự cố.
+
+{0}
+
+Vui lòng liên hệ với nhà phát triển.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>Đã phát hiện môi trường đáng ngờ. Nếu bạn cho rằng đây là nhầm lẫn, hãy liên hệ với chúng tôi tại: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>Không thể giải nén tệp đã tải xuống vì tệp không tồn tại. Đường dẫn: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>Tệp ZIP đã tải xuống trống và không thể giải nén. Vui lòng kiểm tra phần mềm diệt virus hoặc kết nối internet của bạn.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Không tìm thấy tệp hình nền tại '{0}'; ID: {1};</value>
   </data>

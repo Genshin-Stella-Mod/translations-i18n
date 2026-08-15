@@ -333,6 +333,51 @@ Stella Mod - безопасное программное обеспечение,
 Ожидалось: {0}
 Получено: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Не удалось изменить язык. Попробуйте снова.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>Папка фона не существует: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Ошибка при загрузке файлов фона: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>Изображения фона не найдены.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Ошибка при загрузке фона: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>Удалено файлов: {0}, освобождено памяти: {1}.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>Сейчас нечего удалять.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Не удалось запустить обновление привилегий: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+Зеркальный сервер вернул код состояния, отличный от ожидаемого. Обратитесь за помощью к разработчику приложения.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Что-то пошло не так.
+
+{0}
+
+Обратитесь к разработчику.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>Обнаружена подозрительная среда. Если вы считаете, что это ошибка, свяжитесь с нами: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>Загруженный файл не может быть распакован, так как он не существует. Путь: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>Загруженный ZIP-файл пуст и не может быть распакован. Проверьте антивирусное программное обеспечение или подключение к интернету.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Исходный файл не был найден в '{0}'; идентификатор: {1};</value>
   </data>

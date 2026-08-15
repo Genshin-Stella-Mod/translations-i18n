@@ -333,6 +333,51 @@ Merci, et à bientôt dans le jeu ! Amusez-vous bien et profitez-en. À bientôt
 Attendu : {0}
 Obtenu : {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Échec du changement de langue. Veuillez réessayer.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>Le dossier d'arrière-plan n'existe pas : {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Erreur lors du chargement des fichiers d'arrière-plan : {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>Aucune image d'arrière-plan trouvée.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Erreur lors du chargement de l'arrière-plan : {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>{0} fichier(s) supprimé(s) et {1} d'espace libéré.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>Il n'y a rien à supprimer pour le moment.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Échec du démarrage de la mise à jour des avantages : {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+Le serveur miroir a renvoyé un code de statut différent de celui attendu. Veuillez contacter le développeur de l'application pour obtenir de l'aide.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Une erreur s'est produite.
+
+{0}
+
+Veuillez contacter le développeur.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>Un environnement suspect a été détecté. Si vous pensez qu'il s'agit d'une erreur, contactez-nous à : contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>Le fichier téléchargé ne peut pas être décompressé car il n'existe pas. Chemin : {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>Le fichier ZIP téléchargé est vide et ne peut pas être décompressé. Veuillez vérifier votre logiciel antivirus ou votre connexion internet.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Le fichier d'arrière-plan n'a pas été trouvé dans '{0}' ; ID : {1} ;</value>
   </data>

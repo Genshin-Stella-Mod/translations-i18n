@@ -333,6 +333,51 @@ Terima kasih, dan sampai jumpa di dalam game! Bersenang-senanglah dan nikmatilah
 Diharapkan: {0}
 Didapat: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Gagal mengubah bahasa. Silakan coba lagi.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>Folder latar belakang tidak ada: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Kesalahan saat memuat file latar belakang: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>Tidak ditemukan gambar latar belakang.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Kesalahan saat memuat latar belakang: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>{0} file berhasil dihapus dan {1} ruang penyimpanan dibebaskan.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>Tidak ada yang perlu dihapus saat ini.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Gagal memulai pembaruan manfaat: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+Server cermin mengembalikan kode status yang berbeda dari yang diharapkan. Silakan hubungi pengembang aplikasi untuk mendapatkan bantuan.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Terjadi kesalahan.
+
+{0}
+
+Silakan hubungi pengembang.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>Lingkungan yang mencurigakan telah terdeteksi. Jika Anda yakin ini adalah kesalahan, hubungi kami di: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>File yang diunduh tidak dapat diekstrak karena tidak ada. Jalur: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>File ZIP yang diunduh kosong dan tidak dapat diekstrak. Silakan periksa perangkat lunak antivirus Anda atau koneksi internet Anda.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>File latar belakang tidak ditemukan di '{0}'; ID: {1};</value>
   </data>

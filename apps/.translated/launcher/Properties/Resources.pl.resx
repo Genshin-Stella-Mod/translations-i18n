@@ -333,6 +333,51 @@ Dzięki i do zobaczenia w grze! Baw się dobrze i miłej zabawy. Trzymaj się!</
 Oczekiwano: {0}
 Otrzymano: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Zmiana języka nie powiodła się. Spróbuj ponownie.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>Folder tła nie istnieje: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Błąd podczas wczytywania plików tła: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>Nie znaleziono obrazów tła.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Błąd podczas wczytywania tła: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>Usunięto {0} plik(ów) i zwolniono {1} pamięci.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>Obecnie nie ma nic do usunięcia.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Nie udało się rozpocząć aktualizacji korzyści: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+Serwer lustrzany zwrócił inny kod statusu niż oczekiwano. Skontaktuj się z deweloperem aplikacji, aby uzyskać pomoc.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Coś poszło nie tak.
+
+{0}
+
+Skontaktuj się z deweloperem.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>Wykryto podejrzane środowisko. Jeśli uważasz, że to pomyłka, skontaktuj się z nami: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>Pobrany plik nie może zostać rozpakowany, ponieważ nie istnieje. Ścieżka: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>Pobrany plik ZIP jest pusty i nie można go rozpakować. Sprawdź swoje oprogramowanie antywirusowe lub połączenie internetowe.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Nie znaleziono pliku tła w '{0}'; Identyfikator: {1};</value>
   </data>

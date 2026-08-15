@@ -333,6 +333,51 @@ Grazie e ci vediamo nel gioco! Divertiti e divertiti. Ciao!</value>
 Atteso: {0}
 Ottenuto: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Impossibile cambiare la lingua. Riprova.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>La cartella dello sfondo non esiste: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Errore durante il caricamento dei file di sfondo: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>Nessuna immagine di sfondo trovata.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Errore durante il caricamento dello sfondo: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>Eliminati {0} file e liberati {1} di memoria.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>Al momento non c'è nulla da eliminare.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Impossibile avviare l'aggiornamento dei vantaggi: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+Il server mirror ha restituito un codice di stato diverso da quello previsto. Contatta lo sviluppatore dell'applicazione per assistenza.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Qualcosa è andato storto.
+
+{0}
+
+Contatta lo sviluppatore.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>È stato rilevato un ambiente sospetto. Se ritieni che si tratti di un errore, contattaci all'indirizzo: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>Il file scaricato non può essere estratto perché non esiste. Percorso: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>Il file ZIP scaricato è vuoto e non può essere estratto. Verifica il tuo software antivirus o la tua connessione internet.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Il file di sfondo non è stato trovato in '{0}'; ID: {1};</value>
   </data>

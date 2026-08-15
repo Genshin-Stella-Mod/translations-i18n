@@ -333,6 +333,51 @@ Teşekkürler ve oyunda görüşmek üzere! Eğlenin ve tadını çıkarın. Şe
 Beklenen: {0}
 Alınan: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Dil değiştirilemedi. Lütfen tekrar deneyin.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>Arka plan klasörü mevcut değil: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Arka plan dosyaları yüklenirken hata oluştu: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>Arka plan resmi bulunamadı.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Arka plan yüklenirken hata oluştu: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>{0} dosya silindi ve {1} bellek boşaltıldı.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>Şu anda silinecek bir şey yok.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Ayrıcalık güncellemesi başlatılamadı: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+Yansı sunucu beklenenden farklı bir durum kodu döndürdü. Yardım için lütfen uygulama geliştiricisiyle iletişime geçin.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Bir şeyler ters gitti.
+
+{0}
+
+Lütfen geliştiriciyle iletişime geçin.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>Şüpheli bir ortam tespit edildi. Bunun bir hata olduğunu düşünüyorsanız, bizimle iletişime geçin: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>İndirilen dosya mevcut olmadığı için ayıklanamıyor. Yol: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>İndirilen ZIP dosyası boş ve ayıklanamıyor. Lütfen antivirüs yazılımınızı veya internet bağlantınızı kontrol edin.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Arka plan dosyası '{0}' içinde bulunamadı; ID: {1};</value>
   </data>

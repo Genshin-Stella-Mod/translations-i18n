@@ -333,6 +333,51 @@ Vielen Dank, und bis bald im Spiel! Viel Spaß und genießen Sie es. Bis dann!</
 Erwartet: {0}
 Erhalten: {1}</value>
   </data>
+  <data name="Language_FailedToChangeTheLanguagePleaseTryAgain" xml:space="preserve">
+    <value>Fehler beim Ändern der Sprache. Bitte versuche es erneut.</value>
+  </data>
+  <data name="Background_FolderDoesNotExist_" xml:space="preserve">
+    <value>Hintergrundordner existiert nicht: {0}</value>
+  </data>
+  <data name="Background_ErrorLoadingBackgroundFiles_" xml:space="preserve">
+    <value>Fehler beim Laden der Hintergrunddateien: {0}</value>
+  </data>
+  <data name="Background_NoBackgroundImagesFound" xml:space="preserve">
+    <value>Keine Hintergrundbilder gefunden.</value>
+  </data>
+  <data name="Background_ErrorLoadingBackground_" xml:space="preserve">
+    <value>Fehler beim Laden des Hintergrunds: {0}</value>
+  </data>
+  <data name="Tools_Deleted_FilesAndFreedUp_OfMemory" xml:space="preserve">
+    <value>{0} Datei(en) gelöscht und {1} Speicherplatz freigegeben.</value>
+  </data>
+  <data name="Tools_ThereIsNothingToDeleteAtTheMoment" xml:space="preserve">
+    <value>Es gibt derzeit nichts zu löschen.</value>
+  </data>
+  <data name="UpdateBenefits_FailedToStartBenefitsUpdate_" xml:space="preserve">
+    <value>Fehler beim Starten der Vorteile-Aktualisierung: {0}</value>
+  </data>
+  <data name="UpdateBenefits_MirrorServerReturnedUnexpectedStatusCode_" xml:space="preserve">
+    <value>{0}
+
+Der Spiegelserver hat einen anderen Statuscode als erwartet zurückgegeben. Bitte wende dich an den Anwendungsentwickler, um Unterstützung zu erhalten.</value>
+  </data>
+  <data name="UpdateBenefits_SomethingWentWrongPleaseContactTheDeveloper_" xml:space="preserve">
+    <value>Etwas ist schiefgelaufen.
+
+{0}
+
+Bitte wende dich an den Entwickler.</value>
+  </data>
+  <data name="Program_SuspiciousEnvironmentDetected_" xml:space="preserve">
+    <value>Eine verdächtige Umgebung wurde erkannt. Wenn du glaubst, dass dies ein Fehler ist, kontaktiere uns unter: contact@sefinek.net</value>
+  </data>
+  <data name="Download_FileCannotBeUnzippedDoesNotExist_" xml:space="preserve">
+    <value>Die heruntergeladene Datei kann nicht entpackt werden, da sie nicht existiert. Pfad: {0}</value>
+  </data>
+  <data name="Download_ZipFileIsEmptyCannotBeUnzipped" xml:space="preserve">
+    <value>Die heruntergeladene ZIP-Datei ist leer und kann nicht entpackt werden. Bitte überprüfe deine Antivirensoftware oder deine Internetverbindung.</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Hintergrunddatei wurde nicht gefunden in '{0}'; ID: {1};</value>
   </data>
