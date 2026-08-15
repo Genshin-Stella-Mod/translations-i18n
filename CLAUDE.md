@@ -10,10 +10,10 @@ It covers `apps/` - `.resx` translation files for the Stella Mod desktop apps (W
 
 The [stella.sefinek.net](https://stella.sefinek.net) website is open source and keeps its own `locales/en` / `locales/pl` directly in its repo - it no longer syncs through here.
 
-Source language is `en`. Supported translation locales (15):
+Source language is `en`. Supported translation locales (17):
 
 ```
-ar, de, es, fr, id, it, ja, pl, pt-BR, ru, sv, tr, vi, zh-Hans, zh-Hant
+ar, de, es, fr, id, it, ja, ko, pl, pt-BR, ru, sv, th, tr, vi, zh-Hans, zh-Hant
 ```
 
 ## Commands

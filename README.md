@@ -10,7 +10,7 @@ The full workflow for adding languages, syncing source strings, and translating 
 If you spot a translation mistake or anything that doesn't make sense, feel free to open a [Pull request](https://github.com/sefinek/Stella-Mod-Translations/pulls) or [Issue](https://github.com/sefinek/Stella-Mod-Translations/issues).
 
 ## 🌍 Supported Languages
-Source language: `en`. Stella Mod is currently available in 16 languages:
+Source language: `en`. Stella Mod is currently available in 18 languages:
 
 | Language               | Code      | Completion | Translators                                                |
 |------------------------|-----------|------------|------------------------------------------------------------|
@@ -22,10 +22,12 @@ Source language: `en`. Stella Mod is currently available in 16 languages:
 | Indonesian             | `id`      | 100%       | AI (Claude)                                                |
 | Italian                | `it`      | 100%       | ThaWalife, Rytheex                                         |
 | Japanese               | `ja`      | 100%       | AI (Claude)                                                |
+| Korean                 | `ko`      | 100%       | AI (Claude)                                                |
 | Portuguese (Brazilian) | `pt-BR`   | 100%       | micklod                                                    |
 | Russian                | `ru`      | 100%       | Ronner231, FanHamMer, FL1IP, flawox, Speech100, Blueberryy |
 | Spanish                | `es`      | 100%       | dominicanish                                               |
 | Swedish                | `sv`      | 100%       | OmegaBrony                                                 |
+| Thai                   | `th`      | 100%       | AI (Claude)                                                |
 | Turkish                | `tr`      | 100%       | majorcanel, MahmutAbi                                      |
 | Vietnamese             | `vi`      | 100%       | AI (Claude)                                                |
 | Chinese (Simplified)   | `zh-Hans` | 100%       | AI (Claude)                                                |

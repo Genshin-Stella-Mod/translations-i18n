@@ -11,7 +11,7 @@ const REPO_ROOT = path.join(__dirname, '..');
 const APPS_DIR = path.join(REPO_ROOT, 'apps');
 const TRANSLATED_DIR = path.join(APPS_DIR, '.translated');
 
-const LOCALES = ['ar', 'de', 'es', 'fr', 'id', 'it', 'ja', 'pl', 'pt-BR', 'ru', 'sv', 'tr', 'vi', 'zh-Hans', 'zh-Hant'];
+const LOCALES = ['ar', 'de', 'es', 'fr', 'id', 'it', 'ja', 'ko', 'pl', 'pt-BR', 'ru', 'sv', 'th', 'tr', 'vi', 'zh-Hans', 'zh-Hant'];
 
 const APP_PROJECTS = [
 	{ name: 'configuration-window', repo: `${RESHADE}/Stella.Configuration` },
