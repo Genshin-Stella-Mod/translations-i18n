@@ -146,7 +146,7 @@
     <value>Det är inte rätt plats.</value>
   </data>
   <data name="SetupForm_BtnBrowse_Click_PleaseSelectTheGameExe_GenshinImpactExeOrYuanShenExe" xml:space="preserve">
-    <value>Vänligen välj spelets exe-fill.
+    <value>Vänligen välj spelets exe-fil:
 GenshinImpact.exe eller YuanShen.exe</value>
   </data>
   <data name="SetupForm_PollProcess_FailedToFindProcessPathPleaseUseBrowseInstead" xml:space="preserve">

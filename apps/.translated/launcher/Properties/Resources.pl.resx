@@ -325,6 +325,14 @@ Dzięki i do zobaczenia w grze! Baw się dobrze i miłej zabawy. Trzymaj się!</
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>Zaktualizowano {0} wymaganych plików moda do najnowszej wersji.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Weryfikowanie integralności pliku...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Weryfikacja sumy kontrolnej nie powiodła się. Pobrany plik mógł zostać uszkodzony lub zmodyfikowany i został usunięty.
+Oczekiwano: {0}
+Otrzymano: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Nie znaleziono pliku tła w '{0}'; Identyfikator: {1};</value>
   </data>

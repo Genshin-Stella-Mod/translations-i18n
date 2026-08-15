@@ -325,6 +325,14 @@ Stella Mod برنامج آمن، لذا لا داعي للقلق. تذكر فق�
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>تم تحديث {0} من ملفات المود المطلوبة إلى أحدث إصدار.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>جارٍ التحقق من سلامة الملف...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>فشل التحقق من المجموع الاختباري (checksum). قد يكون الملف الذي تم تنزيله تالفًا أو تم العبث به، وقد تم حذفه.
+المتوقع: {0}
+المستلم: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>لم يتم العثور على ملف الخلفية في '{0}'؛ المعرّف: {1}؛</value>
   </data>

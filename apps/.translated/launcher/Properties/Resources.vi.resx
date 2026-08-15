@@ -325,6 +325,14 @@ Cảm ơn bạn, và hẹn gặp lại trong game! Chúc bạn vui vẻ và tậ
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>Đã cập nhật {0} tệp mod bắt buộc lên phiên bản mới nhất.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Đang xác minh tính toàn vẹn của tệp...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Xác minh checksum thất bại. Tệp đã tải xuống có thể bị hỏng hoặc bị can thiệp, và đã bị xóa.
+Giá trị mong đợi: {0}
+Giá trị nhận được: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Không tìm thấy tệp hình nền tại '{0}'; ID: {1};</value>
   </data>

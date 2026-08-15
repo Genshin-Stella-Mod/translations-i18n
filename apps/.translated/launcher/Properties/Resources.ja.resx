@@ -325,6 +325,14 @@ Stella Mod は完全に独立したプロジェクトであり、ファンメイ
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>{0} 個の必要なMODファイルを最新バージョンに更新しました。</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>ファイルの整合性を確認しています...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>チェックサムの検証に失敗しました。ダウンロードしたファイルが破損しているか改ざんされている可能性があるため、削除されました。
+期待値: {0}
+取得値: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>背景ファイルが '{0}' に見つかりませんでした；ID：{1}；</value>
   </data>

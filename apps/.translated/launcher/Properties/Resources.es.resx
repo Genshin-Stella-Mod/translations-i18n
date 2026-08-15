@@ -325,6 +325,14 @@ Ten en cuenta que Stella Mod es un proyecto completamente independiente, no es u
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>Se actualizaron {0} archivo(s) de mod necesarios a la última versión.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Verificando la integridad del archivo...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Error al verificar la suma de comprobación. El archivo descargado podría estar dañado o manipulado, y fue eliminado.
+Esperado: {0}
+Obtenido: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>No se encontró el archivo de fondo en '{0}'; ID: {1};</value>
   </data>

@@ -325,6 +325,14 @@ Terima kasih, dan sampai jumpa di dalam game! Bersenang-senanglah dan nikmatilah
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>{0} file mod yang diperlukan telah diperbarui ke versi terbaru.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Memverifikasi integritas file...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Verifikasi checksum gagal. File yang diunduh mungkin rusak atau telah dimanipulasi, dan telah dihapus.
+Diharapkan: {0}
+Didapat: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>File latar belakang tidak ditemukan di '{0}'; ID: {1};</value>
   </data>

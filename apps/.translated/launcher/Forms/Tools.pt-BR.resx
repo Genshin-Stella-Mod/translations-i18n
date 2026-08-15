@@ -807,7 +807,7 @@
 Variável de jogo: {1}
 Versão HYP: {2}
 GameBiz: {3}
-Lingua do jogo: {4}
+Língua do jogo: {4}
 Região: {5}</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">

@@ -325,6 +325,14 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>Updated {0} required mod file(s) to the latest version.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Verifying file integrity...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Checksum verification failed. The downloaded file may be corrupted or tampered with, and was deleted.
+Expected: {0}
+Got: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Background file was not found in '{0}'; ID: {1};</value>
   </data>

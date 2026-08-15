@@ -325,6 +325,14 @@ Stella Mod - безопасное программное обеспечение,
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>Обновлено {0} необходимых файлов мода до последней версии.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Проверка целостности файла...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Проверка контрольной суммы не удалась. Загруженный файл может быть повреждён или изменён, поэтому был удалён.
+Ожидалось: {0}
+Получено: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Исходный файл не был найден в '{0}'; идентификатор: {1};</value>
   </data>

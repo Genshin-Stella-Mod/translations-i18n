@@ -325,6 +325,14 @@ Grazie e ci vediamo nel gioco! Divertiti e divertiti. Ciao!</value>
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>Aggiornati {0} file mod necessari all'ultima versione.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Verifica dell'integrità del file in corso...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Verifica del checksum non riuscita. Il file scaricato potrebbe essere danneggiato o manomesso ed è stato eliminato.
+Atteso: {0}
+Ottenuto: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Il file di sfondo non è stato trovato in '{0}'; ID: {1};</value>
   </data>

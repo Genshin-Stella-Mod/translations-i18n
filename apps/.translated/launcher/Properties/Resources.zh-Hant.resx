@@ -325,6 +325,14 @@ Stella Mod 是安全的軟體，因此無需擔心。只需牢記不要在遊戲
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>已將 {0} 個必要的 MOD 檔案更新至最新版本。</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>正在驗證檔案完整性...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>校驗和驗證失敗。下載的檔案可能已損壞或被竄改，已被刪除。
+預期值：{0}
+實際值：{1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>在 '{0}' 中找不到背景檔案；ID：{1}；</value>
   </data>

@@ -202,7 +202,7 @@ Bitte installieren Sie Genshin Stella Mod neu (stella.sefinek.net).</value>
 {1}</value>
   </data>
   <data name="IpcService_Start_FailedToSetWindowHook" xml:space="preserve">
-    <value>Fehler beim Setzen des Fensterhaken {0}
+    <value>Fehler beim Setzen des Fenster-Hooks: {0}
 {1}</value>
   </data>
   <data name="IpcService_Start_FailedToPostThreadMessage" xml:space="preserve">

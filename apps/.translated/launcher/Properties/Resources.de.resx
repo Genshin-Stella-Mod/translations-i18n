@@ -325,6 +325,14 @@ Vielen Dank, und bis bald im Spiel! Viel Spaß und genießen Sie es. Bis dann!</
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>{0} erforderliche Mod-Datei(en) wurden auf die neueste Version aktualisiert.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Dateiintegrität wird überprüft...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Die Überprüfung der Prüfsumme ist fehlgeschlagen. Die heruntergeladene Datei könnte beschädigt oder manipuliert worden sein und wurde gelöscht.
+Erwartet: {0}
+Erhalten: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Hintergrunddatei wurde nicht gefunden in '{0}'; ID: {1};</value>
   </data>

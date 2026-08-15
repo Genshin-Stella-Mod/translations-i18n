@@ -514,7 +514,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Gå med i vår Discord-server om du behöver support, har frågor eller vill lämna feedback om Stella Mod. Observera att denna server enbart är till för diskussioner om modden – det är inte ett allmänt community).</value>
+    <value>Gå med i vår Discord-server om du behöver support, har frågor eller vill lämna feedback om Stella Mod. Observera att denna server enbart är till för diskussioner om modden (det är inte en allmän community-hubb).</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>

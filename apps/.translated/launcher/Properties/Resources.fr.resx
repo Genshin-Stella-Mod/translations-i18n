@@ -325,6 +325,14 @@ Merci, et à bientôt dans le jeu ! Amusez-vous bien et profitez-en. À bientôt
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>{0} fichier(s) de mod requis mis à jour vers la dernière version.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Vérification de l'intégrité du fichier...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Échec de la vérification de la somme de contrôle. Le fichier téléchargé est peut-être corrompu ou altéré, et a été supprimé.
+Attendu : {0}
+Obtenu : {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Le fichier d'arrière-plan n'a pas été trouvé dans '{0}' ; ID : {1} ;</value>
   </data>

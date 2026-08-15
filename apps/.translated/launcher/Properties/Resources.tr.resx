@@ -325,6 +325,14 @@ Teşekkürler ve oyunda görüşmek üzere! Eğlenin ve tadını çıkarın. Şe
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>{0} gerekli mod dosyası en son sürüme güncellendi.</value>
   </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Dosya bütünlüğü doğrulanıyor...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Sağlama toplamı doğrulaması başarısız oldu. İndirilen dosya bozulmuş veya değiştirilmiş olabilir ve silindi.
+Beklenen: {0}
+Alınan: {1}</value>
+  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Arka plan dosyası '{0}' içinde bulunamadı; ID: {1};</value>
   </data>

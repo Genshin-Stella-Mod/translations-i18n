@@ -173,7 +173,9 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
     <value>Genvägarna har uppdaterats eller skapats framgångsrikt.</value>
   </data>
   <data name="Default_FileNotFound_" xml:space="preserve">
-    <value>Fil hittades inte: {0}</value>
+    <value>Fil hittades inte:
+
+{0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Du är ansluten som {0}. Hej, trevligt att träffas! Kolla din aktivitet på Discord.</value>
@@ -322,6 +324,14 @@ Tack, och vi ses i spelet! Ha det så kul och njut. Skål!</value>
   </data>
   <data name="RequiredFilesUpdater_Updated_" xml:space="preserve">
     <value>{0} nödvändiga modfil(er) har uppdaterats till senaste versionen.</value>
+  </data>
+  <data name="Download_VerifyingChecksum" xml:space="preserve">
+    <value>Verifierar filintegritet...</value>
+  </data>
+  <data name="Download_ChecksumMismatch_" xml:space="preserve">
+    <value>Kontrollsummeverifieringen misslyckades. Den nedladdade filen kan vara skadad eller manipulerad och har tagits bort.
+Förväntad: {0}
+Erhållen: {1}</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Bakgrundsfilen hittades inte i '{0}'; ID: {1};</value>
@@ -643,7 +653,9 @@ Ny version: v{2}</value>
     <value>Nuvarande bakgrund: {0}</value>
   </data>
   <data name="WebViewHelper_WebView2DoesNotAppearToBeInstalledOnYourDevice_" xml:space="preserve">
-    <value>WebView2 verkar inte vara installerat på din enhet. Vill du ladda ner och installera det nu?</value>
+    <value>WebView2 verkar inte vara installerat på din enhet. Vill du ladda ner och installera det nu?
+
+{0}</value>
   </data>
   <data name="WebViewHelper_WebView2Installation" xml:space="preserve">
     <value>Installation av WebView2</value>
@@ -652,14 +664,18 @@ Ny version: v{2}</value>
     <value>Vänligen välj 'Evergreen Standalone Installer'.</value>
   </data>
   <data name="WebViewHelper_SomethingWentWrongDuringTheInitializationOfWebView2PleaseTryAgain_" xml:space="preserve">
-    <value>Något gick fel vid initieringen av WebView2. Försök igen. {0}</value>
+    <value>Något gick fel vid initieringen av WebView2. Försök igen.
+
+{0}</value>
   </data>
   <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
     <value>Spelet hittades inte. Är du säker på att det är installerat på din enhet?
 Om sökvägen har ändrats behöver Stella Mod konfigureras om. Vill du göra det nu?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
-    <value>Något gick fel vid läsning av registret. {0}</value>
+    <value>Något gick fel vid läsning av registret.
+
+{0}</value>
   </data>
   <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
     <value>Besök Sefinek Patron Centers webbplats för Stella Mod-prenumeranter</value>
@@ -671,34 +687,23 @@ Om sökvägen har ändrats behöver Stella Mod konfigureras om. Vill du göra de
     <value>Auktoriseringen misslyckades. Offline-läget är aktiverat. Uppdateringar kan inte kontrolleras.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
-    <value>Tyvärr är huvudservern för närvarande otillgänglig, eller så har ett oväntat fel inträffat (felkod: {0}).
-Offline-läge aktiveras automatiskt. Vissa funktioner kan vara begränsade eller otillgängliga.
+    <value>Tyvärr är huvudservern för närvarande otillgänglig, eller så har ett oväntat fel inträffat (felkod: {0}). Offline-läge aktiveras automatiskt. Vissa funktioner kan vara begränsade eller otillgängliga.
 
 Vill du kontrollera driftstatusen nu på status.sefinek.net?</value>
   </data>
   <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
-    <value>Auktorisering misslyckades (felkod {0}).
-Servern avvisade begäran, troligen på grund av misslyckad validering eller en utgången autentiseringstoken.
-Kontrollera att du använder den senaste versionen av launchern.
-
-Om du är osäker på vad som orsakat felet, kontakta gärna utvecklaren via patrons.sefinek.net eller e-post: contact@sefinek.net.</value>
+    <value>Auktorisering misslyckades (felkod {0}). Servern avvisade begäran, troligen på grund av misslyckad validering eller en utgången autentiseringstoken. Kontrollera att du använder den senaste versionen av launchern. Om du är osäker på vad som orsakat felet, kontakta gärna utvecklaren via patrons.sefinek.net eller e-post: contact@sefinek.net.</value>
   </data>
   <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
-    <value>Det gick inte att uttyda svaret från servern.
-Detta kan tyda på ett serverfel eller att du använder en inkompatibel version av Stella Mod Launcher.
-
-Om du behöver hjälp, kontakta gärna utvecklaren via patrons.sefinek.net eller via e-post: contact@sefinek.net.
+    <value>Det gick inte att uttyda svaret från servern. Detta kan tyda på ett serverfel eller att du använder en inkompatibel version av Stella Mod Launcher. Om du behöver hjälp, kontakta gärna utvecklaren via patrons.sefinek.net eller via e-post: contact@sefinek.net.
 
 Detaljer:
 {0}</value>
   </data>
   <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
-    <value>Det gick inte att ansluta till huvudservern.
-Kontrollera din internetanslutning, DNS-konfiguration, VPN-/proxyinställningar och brandvägg.
+    <value>Det gick inte att ansluta till huvudservern. Kontrollera din internetanslutning, DNS-konfiguration, VPN-/proxyinställningar och brandvägg. Om du behöver hjälp, kontakta utvecklaren via patrons.sefinek.net eller mejla contact@sefinek.net.
 
-Om du behöver hjälp, kontakta utvecklaren via patrons.sefinek.net eller mejla contact@sefinek.net 
-
-Details:
+Detaljer:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
