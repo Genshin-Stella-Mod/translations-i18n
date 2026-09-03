@@ -38,6 +38,13 @@ const isTranslatedResx = name => {
 	return Boolean(match) && !IGNORED_RESX.includes(`${match[1]}.resx`);
 };
 
+// Matches one whole top-level <data name="...">...</data> block (relies on <data> never nesting).
+const DATA_BLOCK_REGEX = /<data name="([^"]*)"([^>]*)>[\s\S]*?<\/data>/g;
+
+// A <data> entry is a translatable UI string: xml:space="preserve", no type="..." (that's designer metadata,
+// e.g. Location/Size/Font), and its name doesn't start with the "&gt;&gt;" designer-control-metadata prefix.
+const isTranslatableEntry = (name, attrs) => attrs.includes('xml:space="preserve"') && !attrs.includes('type="') && !name.startsWith('&gt;&gt;');
+
 const walk = (dir, filter, result = []) => {
 	if (!fs.existsSync(dir)) return result;
 
@@ -101,6 +108,7 @@ module.exports = {
 	APPS_DIR, TRANSLATED_DIR,
 	LOCALES, APP_PROJECTS, CLEANUP_DIRS,
 	isResx, isMainResx, isTranslatedResx,
+	DATA_BLOCK_REGEX, isTranslatableEntry,
 	walk, syncTree,
 	difference, createMissingReport,
 };

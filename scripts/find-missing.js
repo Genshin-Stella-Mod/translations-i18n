@@ -3,7 +3,7 @@
 
 const fs = require('node:fs');
 const path = require('node:path');
-const { APP_PROJECTS, APPS_DIR, TRANSLATED_DIR, LOCALES, isMainResx, walk, difference, createMissingReport } = require('./common.js');
+const { APP_PROJECTS, APPS_DIR, TRANSLATED_DIR, LOCALES, isMainResx, walk, difference, createMissingReport, isTranslatableEntry } = require('./common.js');
 
 const DATA_REGEX = /<data name="([^"]*)"([^>]*)>\s*<value(?:\s*\/>|>[\s\S]*?<\/value>)/g;
 
@@ -16,9 +16,7 @@ const extractResxKeys = filePath => {
 	let match;
 	while ((match = DATA_REGEX.exec(content))) {
 		const [, name, attrs] = match;
-		if (!attrs.includes('xml:space="preserve"')) continue;
-		if (attrs.includes('type="')) continue;
-		if (name.startsWith('&gt;&gt;')) continue;
+		if (!isTranslatableEntry(name, attrs)) continue;
 
 		keys.add(name);
 	}

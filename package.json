@@ -15,10 +15,11 @@
   "main": "index.js",
   "scripts": {
     "i18n:cleanup": "node scripts/cleanup-resx.js",
-    "i18n:full": "git pull && npm run i18n:cleanup && npm run i18n:pull",
+    "i18n:full": "git pull && npm run i18n:cleanup && npm run i18n:pull && npm run i18n:sync-metadata",
     "i18n:missing": "node scripts/find-missing.js",
     "i18n:pull": "node scripts/pull.js",
     "i18n:push": "node scripts/push.js",
+    "i18n:sync-metadata": "node scripts/sync-metadata.js",
     "m": "ncu -u && npm install && npm update",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

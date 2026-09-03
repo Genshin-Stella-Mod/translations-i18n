@@ -23,10 +23,11 @@ All translation scripts are `i18n:`-prefixed npm scripts that delegate to `scrip
 | Command | What it does |
 |---|---|
 | `npm run i18n:pull` | Pulls **everything** from the sibling project repos: English source `.resx` → `apps/<name>/` **and** `*.<locale>.resx` translations → `apps/.translated/<name>/`. Run before translating. |
-| `npm run i18n:missing` | Reports **Missing** and **Orphaned** keys for the apps (`.resx`) across all 15 locales. Read-only. |
+| `npm run i18n:sync-metadata` | Syncs non-translatable resx content (control positions, sizes, fonts, other WinForms designer metadata) from the English source into **existing** `apps/.translated/**/*.<locale>.resx` files, leaving already-translated `<value>` text untouched. Any translatable key not yet translated is filled in with the English value and logged as a `⚠` console warning (this also makes it stop showing up as Missing in `i18n:missing` - the warning is the signal to actually translate it). Run after `i18n:pull`. |
+| `npm run i18n:missing` | Reports **Missing** and **Orphaned** keys for the apps (`.resx`) across all 17 locales. Read-only. |
 | `npm run i18n:push` | Pushes `apps/.translated/**/*.<locale>.resx` back into the project repos (only when content differs). |
 | `npm run i18n:cleanup` | Runs `resx-cleanup` against the project repos to strip unused resx entries. |
-| `npm run i18n:full` | `git pull && npm run i18n:cleanup && npm run i18n:pull` - refresh everything. |
+| `npm run i18n:full` | `git pull && npm run i18n:cleanup && npm run i18n:pull && npm run i18n:sync-metadata` - refresh everything. |
 
 There is no test suite (`npm test` is a stub). `npm run m` updates dependencies (`ncu -u && npm install && npm update`).
 
@@ -39,8 +40,9 @@ Every script is a thin wrapper over `scripts/common.js`, which is the single sou
 - **Constants**: `LOCALES`, `APP_PROJECTS` (`{ name, repo }` pairs), `CLEANUP_DIRS`, and the in-repo dir paths (`APPS_DIR`, `TRANSLATED_DIR`).
 - **Filename filters**: `isMainResx` (English source, e.g. `Default.resx`), `isTranslatedResx` (`Default.<locale>.resx`), `isResx` (any `.resx`). All three ignore `ImageResources.resx` and `Language.resx`.
 - **Helpers**: `walk(dir, filter)` (recursive collect, guards missing dirs), `syncTree(src, dest, filter)` (copy-if-changed with CRLF normalization), `difference(a, b)`, and `createMissingReport()` (accumulates totals, prints `Missing`/`Orphaned`/`Total`).
+- **resx entry parsing**: `DATA_BLOCK_REGEX` (matches one whole top-level `<data name="...">...</data>` block) and `isTranslatableEntry(name, attrs)` (true only for `xml:space="preserve"` entries with no `type="..."` and a name that doesn't start with `&gt;&gt;`) - shared by `find-missing.js` (key existence) and `sync-metadata.js` (block replacement).
 
-`scripts/pull.js`, `push.js`, `cleanup-resx.js`, and `find-missing.js` contain only orchestration.
+`scripts/pull.js`, `push.js`, `cleanup-resx.js`, `find-missing.js`, and `sync-metadata.js` contain only orchestration.
 
 **The sync scripts use hardcoded absolute paths** (`D:/Projects/stella/...` in `common.js`). They require the sibling project repos to be checked out at those locations.
 
@@ -61,10 +63,11 @@ Every script is a thin wrapper over `scripts/common.js`, which is the single sou
 ## Workflow: apps/ (.resx)
 
 1. `npm run i18n:pull` - get the latest source + translations from the project repos (translations are sometimes edited directly there, so this repo's copy can lag; skipping risks `i18n:push` overwriting newer translations with stale ones).
-2. `npm run i18n:missing` - see what needs translating (Missing) and what to delete (Orphaned).
-3. **Translate** - for each Missing entry, edit the matching `apps/.translated/<project>/**/*.<locale>.resx` (create it by copying the English source `.resx` if absent) and set the `<value>`. Remove Orphaned entries.
-4. `npm run i18n:push` - sync back into the project repos.
-5. Commit/PR the changes in the affected project repo(s).
+2. `npm run i18n:sync-metadata` - propagate non-translatable designer settings (control positions, sizes, fonts, etc.) from the English source into existing translated `.resx` files, so `.translated` files don't drift from source-side WinForms designer changes. Untranslated strings get an English fallback value and a `⚠` console warning - check that output for what still needs real translation, since those entries will no longer show up as Missing below.
+3. `npm run i18n:missing` - see what needs translating (Missing) and what to delete (Orphaned). Note this runs after `i18n:sync-metadata`, so it only catches keys still fully absent - watch the `sync-metadata` warnings for English-fallback strings awaiting translation.
+4. **Translate** - for each Missing entry, edit the matching `apps/.translated/<project>/**/*.<locale>.resx` (create it by copying the English source `.resx` if absent) and set the `<value>`. Remove Orphaned entries.
+5. `npm run i18n:push` - sync back into the project repos.
+6. Commit/PR the changes in the affected project repo(s).
 
 ### What Is Translatable (.resx)
 
